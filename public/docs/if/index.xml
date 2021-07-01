@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>If on Faith Blog</title>
+    <link>/docs/if/</link>
+    <description>Recent content in If on Faith Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Lenny Lin
+</copyright>
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/docs/if/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>If I have no compassion on ...</title>
+      <link>/docs/if/chapter-01/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/if/chapter-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part 2.2</title>
+      <link>/docs/if/chapter-02/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/if/chapter-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part 2.3</title>
+      <link>/docs/if/chapter-03/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/if/chapter-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part 2.4</title>
+      <link>/docs/if/chapter-04/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/if/chapter-04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

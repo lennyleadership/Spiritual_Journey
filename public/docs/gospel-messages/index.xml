@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gospel Messages on Faith Blog</title>
+    <link>/docs/gospel-messages/</link>
+    <description>Recent content in Gospel Messages on Faith Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Lenny Lin
+</copyright>
+    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/docs/gospel-messages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Love</title>
+      <link>/docs/gospel-messages/love/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/gospel-messages/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sin</title>
+      <link>/docs/gospel-messages/sin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/gospel-messages/sin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

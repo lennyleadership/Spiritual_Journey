@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lenny on Faith Blog</title>
+    <link>/authors/lenny/</link>
+    <description>Recent content in Lenny on Faith Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Lenny Lin
+</copyright><atom:link href="/authors/lenny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Love</title>
+      <link>/docs/gospel-messages/love/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/gospel-messages/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sin</title>
+      <link>/docs/gospel-messages/sin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/gospel-messages/sin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

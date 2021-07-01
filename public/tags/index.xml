@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Faith Blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Faith Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Lenny Lin
+</copyright>
+    <lastBuildDate>Mon, 28 Jun 2021 13:11:22 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wisdom and Knowledge 智慧与知识</title>
+      <link>/tags/wisdom-and-knowledge-%E6%99%BA%E6%85%A7%E4%B8%8E%E7%9F%A5%E8%AF%86/</link>
+      <pubDate>Mon, 28 Jun 2021 13:11:22 +0800</pubDate>
+      
+      <guid>/tags/wisdom-and-knowledge-%E6%99%BA%E6%85%A7%E4%B8%8E%E7%9F%A5%E8%AF%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cross of Jesus</title>
+      <link>/tags/the-cross-of-jesus/</link>
+      <pubDate>Sun, 20 Jun 2021 13:11:22 +0800</pubDate>
+      
+      <guid>/tags/the-cross-of-jesus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meditation on Bread and Cup</title>
+      <link>/tags/meditation-on-bread-and-cup/</link>
+      <pubDate>Sat, 10 Apr 2021 13:11:22 +0800</pubDate>
+      
+      <guid>/tags/meditation-on-bread-and-cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Self</title>
+      <link>/tags/new-self/</link>
+      <pubDate>Sat, 10 Apr 2021 13:11:22 +0800</pubDate>
+      
+      <guid>/tags/new-self/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
