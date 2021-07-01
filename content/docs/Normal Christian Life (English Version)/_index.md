@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-07-02"
 series: null
 tags: null
-title:  **Normal Christian Life**
+title:  Normal Christian Life
 toc: true
 ---
 
