@@ -2,7 +2,7 @@
 authors: Watchman Nee
 categories: null
 date: "2021-04-02"
-description: #1
+description: Chapter 1 of Normal Christian Life
 draft: false
 lastmod: "2021-04-02"
 series: null
