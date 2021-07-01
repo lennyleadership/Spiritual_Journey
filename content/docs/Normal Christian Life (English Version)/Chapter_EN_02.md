@@ -15,65 +15,21 @@ toc: true
 
 <!--more-->
 
-We have seen that Romans 1 to 8 falls into two sections, in the first of which we are 
-shown that the Blood deals with what we have done, while in the second we shall see that 
-the Cross[2] deals with what we are. We need the Blood for forgiveness; we need also the 
-Cross for deliverance. We have dealt briefly above with the first of these two and we 
-shall move on now to the second; but before we do so we will look for a moment at a few 
-more features of this passage which serve to emphasize the difference in subject matter 
-and argument between the two halves. 
-Some Further Distinctions 
- Two aspects of the resurrection are mentioned in the two sections, in chapters 4 and 6. 
-In Romans 4:25 the resurrection of the Lord Jesus is mentioned in relation to our 
-justification: "Jesus our Lord...was delivered up for our trespasses, and was raised for our 
-justification." Here the matter in view is that of our standing before God. But in Romans 
-6:4 the resurrection is spoken of as imparting to us new life with a view to a holy walk: 
-"That like as Christ was raised from the dead...so we also might walk in newness of life." 
-Here the matter before us is behaviour. 
- Again, peace is spoken of in both sections, in the fifth and eighth chapters. Romans 5 
-tells of peace with God which is the effect of justification by faith in His Blood: "Being 
-therefore justified by faith, we have peace with God through our Lord Jesus Christ." 
-(5:1mg.) This means that, now that I have forgiveness of sins, God will no longer be a 
-cause of dread and trouble to me. I who was an enemy to God have been 
-"reconciled...through the death of his Son" (5:10). I very soon find, however, that I am 
-going to be a great cause of trouble to myself. There is still unrest within, for within me 
-there is something that draws me to sin. There is peace with God, but there is no peace 
-with myself. There is in fact civil war in my own heart. This condition is well depicted in 
-Romans 7 where the flesh and the spirit are seen to be in deadly conflict within me. But 
-from this the argument leads in chapter 8 to the inward peace of a walk in the Spirit. "The 
-mind of the flesh is death", because it "is enmity against God", "but the mind of the spirit 
-is life and peace" (Romans 8:6,7). 
- Looking further still we find that the first half of the section deals generally speaking 
-with the question of justification (see, for example, Romans 3:24-26; 4:5,25), while the 
-second half has as its main topic the corresponding question of sanctification (see Rom. 
-6:19,22). When we know the precious truth of justification by faith we still know only 
-half of the story. We still have only solved the problem of our standing before God. As 
-we go on, God has something more to offer us, namely, the solution of the problem of our 
-conduct, and the development of thought in these chapters serves to emphasize this. In 
-each case the second step follows from the first, and if we know only the first then we are 
-still leading a sub-normal Christian life. How then can we live a normal Christian life? 
-How do we enter in? Well, of course, initially we must have forgiveness of sins, we must 
-have justification, we must have peace with God: these are our indispensable foundation. 
-But with that basis truly established through our first act of faith in Christ, it is yet clear from the above that we must move on to something more. 
- So we see that objectively the Blood deals with our sins. The Lord Jesus has borne 
-them on the Cross for us as our Substitute and has thereby obtained for us forgiveness, 
-justification and reconciliation. But we must now go a step further in the plan of God to 
-understand how He deals with the sin principle in us. The Blood can wash away my sins, 
-but it cannot wash away my `old man'. It needs the Cross to crucify me. The Blood deals 
-with the sins, but the Cross must deal with the sinner.
- You will scarcely find the word `sinner' in the first four chapters of Romans. This is 
-because there the sinner himself is not mainly in view, but rather the sins he has 
-committed. The word `sinner' first comes into prominence only in chapter 5, and it is 
-important to notice how the sinner is there introduced. In that chapter a sinner is said to 
-be a sinner because he is born a sinner; not because he has committed sins. The 
-distinction is important. It is true that often when a Gospel worker wants to convince a 
-man in the street that he is a sinner, he will use the favourite verse Romans 3:23, where it 
-says that "all have sinned"; but this use of the verse is not strictly justified by the 
-Scriptures. Those who so use it are in danger or arguing the wrong way round, for the 
-teaching of Romans is not that we are sinners because we commit sins, but that we sin 
-because we are sinners. We are sinners by constitution rather than by action. As Romans 
-5:19 expresses it: "Through the one man's disobedience the man were made (or 
-`constituted') sinners". 
+We have seen that Romans 1 to 8 falls into two sections, in the first of which we are shown that the Blood deals with what we have done, while in the second we shall see that the Cross[2] deals with what we are. We need the Blood for forgiveness; we need also the Cross for deliverance. We have dealt briefly above with the first of these two and we shall move on now to the second; but before we do so we will look for a moment at a few more features of this passage which serve to emphasize the difference in subject matter and argument between the two halves.  
+
+## Some Further Distinctions  
+Two aspects of the resurrection are mentioned in the two sections, in chapters 4 and 6. In Romans 4:25 the resurrection of the Lord Jesus is mentioned in relation to our justification: "Jesus our Lord...was delivered up for our trespasses, and was raised for our justification." Here the matter in view is that of our standing before God. But in Romans 6:4 the resurrection is spoken of as imparting to us new life with a view to a holy walk: "That like as Christ was raised from the dead...so we also might walk in newness of life." Here the matter before us is behaviour.  
+
+Again, peace is spoken of in both sections, in the fifth and eighth chapters. Romans 5 tells of peace with God which is the effect of justification by faith in His Blood: "Being therefore justified by faith, we have peace with God through our Lord Jesus Christ." (5:1mg.) This means that, now that I have forgiveness of sins, God will no longer be a cause of dread and trouble to me. I who was an enemy to God have been "reconciled...through the death of his Son" (5:10). I very soon find, however, that I am going to be a great cause of trouble to myself. There is still unrest within, for within me there is something that draws me to sin. There is peace with God, but there is no peace with myself. There is in fact civil war in my own heart. This condition is well depicted in Romans 7 where the flesh and the spirit are seen to be in deadly conflict within me. But from this the argument leads in chapter 8 to the inward peace of a walk in the Spirit. "The mind of the flesh is death", because it "is enmity against God", "but the mind of the spirit is life and peace" (Romans 8:6,7).  
+
+Looking further still we find that the first half of the section deals generally speaking with the question of justification (see, for example, Romans 3:24-26; 4:5,25), while the second half has as its main topic the corresponding question of sanctification (see Rom. 6:19,22). When we know the precious truth of justification by faith we still know only half of the story. We still have only solved the problem of our standing before God. As we go on, God has something more to offer us, namely, the solution of the problem of our conduct, and the development of thought in these chapters serves to emphasize this. In each case the second step follows from the first, and if we know only the first then we are still leading a sub-normal Christian life. How then can we live a normal Christian life? How do we enter in? Well, of course, initially we must have forgiveness of sins, we must have justification, we must have peace with God: these are our indispensable foundation. But with that basis truly established through our first act of faith in Christ, it is yet clear from the above that we must move on to something more.   
+
+So we see that objectively the Blood deals with our sins. The Lord Jesus has borne them on the Cross for us as our Substitute and has thereby obtained for us forgiveness, justification and reconciliation. But we must now go a step further in the plan of God to understand how He deals with the sin principle in us. The Blood can wash away my sins, but it cannot wash away my `old man'. It needs the Cross to crucify me. The Blood deals with the sins, but the Cross must deal with the sinner.
+
+ You will scarcely find the word 'sinner' in the first four chapters of Romans. This is because there the sinner himself is not mainly in view, but rather the sins he has committed. The word `sinner' first comes into prominence only in chapter 5, and it is important to notice how the sinner is there introduced. In that chapter a sinner is said to be a sinner because he is born a sinner; not because he has committed sins. The 
+distinction is important. It is true that often when a Gospel worker wants to convince a man in the street that he is a sinner, he will use the favourite verse Romans 3:23, where it says that "all have sinned"; but this use of the verse is not strictly justified by the Scriptures. Those who so use it are in danger or arguing the wrong way round, for the teaching of Romans is not that we are sinners because we commit sins, but that we sin 
+because we are sinners. We are sinners by constitution rather than by action. As Romans 5:19 expresses it: "Through the one man's disobedience the man were made (or `constituted') sinners".   
+
  How were we constituted sinners? By Adam's disobedience. We do not become 
 sinners by what we have done but because of what Adam has done and has become. I 
 speak English, but I am not thereby constituted on Englishman. I am in fact a Chinese. So 
