@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-04-02"
 series: null
 tags: null
-title: Chapter 1 The Blood of Christ
+title: 'Chapter 1: The Blood of Christ'
 toc: true
 ---
 

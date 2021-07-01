@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-07-02"
 series: null
 tags: null
-title: Chapter 2: The Cross of Christ
+title: 'Chapter 2: The Cross of Christ'
 toc: true
 ---
 
