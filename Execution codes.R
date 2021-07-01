@@ -13,6 +13,21 @@ blogdown::new_content("D:/A_Blog/spriritual_journey/content/posts/Law.rmd")
 
 
 
+blogdown::new_site(theme = "wangchucheng/hugo-eureka")
+
+blogdown::build_site()
+
+blogdown::serve_site()
+
+blogdown::stop_server()
+
+blogdown::check_site()
+
+blogdown::clean_duplicates()
+
+blogdown::find_hugo()
+
+
 #----
 # Steps to rebuild the website.
 
@@ -29,24 +44,9 @@ blogdown::new_content("D:/A_Blog/spriritual_journey/content/posts/Law.rmd")
 # Step #3: Recreate the repository with exactly identical name.
 # Step #4: Create 
 
-blogdown::new_site(theme = "wangchucheng/hugo-eureka")
-
-blogdown::build_site()
-
-blogdown::serve_site()
-
-blogdown::stop_server()
-
-blogdown::check_site()
-
-blogdown::clean_duplicates()
-
-blogdown::find_hugo()
-
-
-
 #----
 # To 'upload' a batch of files
+# 
 # git config --global user.name "lennyleadership"
 # git config --global user.email "lenny.leadership@hotmail.com"
 # git add -A
