@@ -1,10 +1,10 @@
 ---
 authors: Watchman Nee
 categories: null
-date: "2021-07-02"
+date: "2021-04-02"
 description: #1
 draft: false
-lastmod: "2021-07-02"
+lastmod: "2021-04-02"
 series: null
 tags: null
 title: Chapter 2 The Cross of Christ
