@@ -4,7 +4,7 @@ categories: null
 date: "2021-04-10"
 description: 
 draft: false
-lastmod: "2021-04-10"
+lastmod: "2021-07-02"
 series: null
 tags: null
 title:  Normal Christian Life
