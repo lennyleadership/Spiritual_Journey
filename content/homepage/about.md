@@ -12,7 +12,6 @@ social:
   iconPack: fab
   url: https://github.com/lennyleadership/spiritual_journey
 
-
 weight: 1
 widget:
   handler: about
