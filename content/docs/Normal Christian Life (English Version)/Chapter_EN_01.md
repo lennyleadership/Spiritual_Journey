@@ -1,5 +1,6 @@
 ---
-authors: Watchman Nee
+authors: 
+- Watchman Nee
 categories: null
 date: "2021-04-02"
 description: Chapter 1 of Normal Christian Life
