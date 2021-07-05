@@ -14,9 +14,9 @@ weight: 1
 原文出处在<a href = "http://www.biblepoint.net/ref/if_all.htm">这里</a>  
 ___
 
-愛是恆久忍耐  
+**愛是恆久忍耐**  
 
-Love suffers long,  
+**Love suffers long**  
 
 若我關心一個人卻得不到對方的反應，以至不堪勞瘁而想逃避重擔，那我就還是絲毫不懂加略山的愛。  
 
@@ -28,9 +28,9 @@ If I have not the patience of my Saviour with souls who grow slowly; if I know l
 
 ____
 
-又有恩慈  
+**又有恩慈**  
 
-love is kind.  
+**love is kind**  
 
 若我不以主所施予我的恩慈來體恤同工，那我就還是絲毫不懂加略山的愛。  
 

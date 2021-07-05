@@ -1,6 +1,8 @@
 library(blogdown)
 
-
+# Syntax ----
+# <span style="text-decoration:underline">underline this text</span>
+# <mark>highlight this text</mark>
 
 # Docs----
 blogdown::new_content("D:/A_Blog/spriritual_journey/content/docs/Iamthepotter.rmd")
