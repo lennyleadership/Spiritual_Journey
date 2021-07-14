@@ -3,7 +3,7 @@ title: Spiritual Journey
 draft: false
 role: Lenny Lin
 avatar: images/icon.jpg
-bio: I committed my life to the Lord Jesus in 1996. <br />This blog records thoughts and moments in the spiritual journey.
+bio: I committed my life to the Lord Jesus in 1996. This blog records thoughts and moments in the spiritual journey.
 social:
 - icon: envelope
   iconPack: fas
