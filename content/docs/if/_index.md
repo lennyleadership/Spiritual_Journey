@@ -2,10 +2,10 @@
 authors:
 - Amy Carmichael 賈艾梅
 categories: null
-date: "2021-04-05"
+date: "2021-07-18"
 description: 
 draft: false
-lastmod: "2021-04-05"
+lastmod: "2021-07-18"
 series: null
 tags:
 - Devotions

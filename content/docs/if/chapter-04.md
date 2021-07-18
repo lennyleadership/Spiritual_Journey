@@ -30,8 +30,3 @@ then I know nothing of Calvary love.
 
 ## Meditation
     Key points: 1) God knows us inside and out. so I need to change my perspective.
-____
-<div style="background-color:#add8e6; font-family: Calibri;
-  font-size: 14px;text-align:left; vertical-align: middle;">
-    Key points: 1) God doesn't see us there is no hope. 
-</div>
