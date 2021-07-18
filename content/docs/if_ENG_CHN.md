@@ -1,8 +1,8 @@
 ---
-title: if 若
+title: If 若
 description:
 toc: true
-authors: []
+authors: Amy Carmichael
 date: 2021-05-27T11:19:36-05:00
 lastmod: 2021-05-27T11:19:36-05:00
 draft: false
