@@ -29,5 +29,6 @@ lapses for granted,
 then I know nothing of Calvary love.
 
 ## Meditation
-    Key points: 1) God knows us inside and out. so I need to change my perspective.  
-    2) We exam ourselves, and call out for salvation.
+     Key points: 
+     1. He holds hope in us that we could turn our face to Jesus. so I need to change my perspective.
+     2. Probably we know ourselves what we are.  Spouses know what we are. We are stubborn.  We don't do what we suppose to do.  Question is: 
