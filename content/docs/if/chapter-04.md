@@ -30,5 +30,5 @@ then I know nothing of Calvary love.
 
 ## Meditation
      Key points: 
-     1. He holds hope in us that we could turn our face to Jesus. so I need to change my perspective.
+     1. He holds hope in us that we could turn our face to Jesus. so I need to put down our lenses, and put on Jesus's lenses.  
      2. Probably we know ourselves what we are.  Spouses know what we are. We are stubborn.  We don't do what we suppose to do.  Question is: 

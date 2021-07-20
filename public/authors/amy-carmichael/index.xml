@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Faith Blog</title>
-    <link>/docs/</link>
-    <description>Recent content in Docs on Faith Blog</description>
+    <title>Amy Carmichael on Faith Blog</title>
+    <link>/authors/amy-carmichael/</link>
+    <description>Recent content in Amy Carmichael on Faith Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 Lenny Lin
 </copyright>
-    <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 May 2021 11:19:36 -0500</lastBuildDate><atom:link href="/authors/amy-carmichael/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>If 若</title>
       <link>/docs/if_eng_chn/</link>
