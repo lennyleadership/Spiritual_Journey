@@ -12,11 +12,9 @@ weight: 1
 以下是將賈艾梅 (Amy Carmichael) 的詩《若》重新排列，以對應並詮釋哥林多前書13章4-7節《愛的篇章》，讓我們對神的愛有更具體的了解。  
 
 原文出处在<a href = "http://www.biblepoint.net/ref/if_all.htm">这里</a>  
-___
 
-**愛是恆久忍耐**  
 
-**Love suffers long**  
+## 愛是恆久忍耐 **Love Suffers Long**  
 
 若我關心一個人卻得不到對方的反應，以至不堪勞瘁而想逃避重擔，那我就還是絲毫不懂加略山的愛。  
 
@@ -26,11 +24,8 @@ If, in dealing with one who does not respond, I weary of the strain, and slip fr
 
 If I have not the patience of my Saviour with souls who grow slowly; if I know little of travail (a sharp and painful thing) till Christ be fully formed in them, then I know nothing of Calvary love.  
 
-____
 
-**又有恩慈**  
-
-**love is kind**  
+## 又有恩慈 **Love Is Kind**  
 
 若我不以主所施予我的恩慈來體恤同工，那我就還是絲毫不懂加略山的愛。  
 
@@ -60,21 +55,15 @@ If in the fellowship of service I seek to attach a friend to myself, so that oth
 
 If the ultimate, the hardest, cannot be asked of me; if my fellows hesitate to ask it and turn to someone else, then I know nothing of Calvary love.  
 
-____
 
-愛是不嫉妒  
-
-It does not envy,  
+## 愛是不嫉妒  **It Does Not Envy**  
 
 若我不能很自然、真誠地說：「你為我的緣故嫉妒人嗎？惟願耶和華的百姓都受感說話，願耶和華把祂的靈降在他們身上。」那我就還是絲毫不懂加略山的愛。  
 
 If it be not simple and a natural thing to say, "Enviest thou for my sake? Would God that all the Lord's people were prophets," then I know nothing of Calvary love.  
 
-____
 
-愛是不自誇  
-
-it does not boast,  
+## 愛是不自誇  **It Does Not Boast**
 
 若當我發現了某個令許多人苦思不解的難題的答案時，卻忘記祂是顯明一切深奧的隱秘事，又知道並向我們啟示暗中所有的；若我忘了是祂把亮光賜給祂最不配的僕人，那我就還是絲毫不懂加略山的愛。  
 
@@ -92,11 +81,8 @@ If I do not forget about such a trifle as personal success, so that it never cro
 
 If I make much of anything appointed, magnify it secretly to myself or insidiously to others; if I let them think it "hard," if I look back longingly upon what used to be, and linger among the byways of memory, so that my power to help is weakened, then I know nothing of Calvary love.  
 
-____
 
-不張狂  
-
-it is not proud.  
+## 不張狂  **It Is Not Proud**  
 
 若我輕看主召我來服事的那些人，閒話他們的缺點，藉此有意無意的陪襯出自己的優點；若我擺出一副高人一等的臉孔，卻忘了「使你與人不同的是誰呢？你有什麼不是領受的呢？」那我就還是絲毫不懂加略山的愛。
 
@@ -106,9 +92,8 @@ If I belittle those whom I am called to serve, talk of their weak points in cont
 
 If I cannot in honest happiness take the second place (or the twentieth); if I cannot take the first without making a fuss about my unworthiness, then I know nothing of Calvary love.
 
-不做害羞的事
 
-It is not rude,
+## 不做害羞的事 **It Is Not Rude**
 
 若我會從取笑別人中得到樂趣；若我會在談話或甚至思想中奚落他人，那我就還是絲毫不懂加略山的愛。
 
@@ -118,9 +103,8 @@ If I enjoy a joke at the expense of another; if I can in any way slight another 
 
 If I can hurt another by speaking faithfully without much preparation of spirit, and without hurting myself far more than I hurt that other, then I know nothing of Calvary love.
 
-不求自己的益處
 
-it is not self-seeking,
+## 不求自己的益處 **It Is Not Self-Seeking**
 
 若我在遇到麻煩事的時候，不想到救主的痛心，遠多於想到自己的憂慮，那我就還是絲毫不懂加略山的愛。
 
@@ -174,9 +158,8 @@ If I myself dominate myself, if my thoughts revolve round myself; if I am so occ
 
 If, the moment I am conscious of the shadow of self crossing my threshold, I do not shut the door, and in the power of Him who works in us to will and to do, keep that door shut, then I know nothing of Calvary love.
 
-不輕易發怒
 
-it is not easily angered,
+## 不輕易發怒 **It Is Not Easily Angered**
 
 若一個突如其來的刺激會使我講出一個不耐煩的、叫人難堪的字眼，那我就還是絲毫不懂加略山的愛。（因為一個盛滿甜水的杯子，不論再怎樣搖撼，也濺不出一滴苦水。）
 
@@ -190,9 +173,8 @@ If interruptions annoy me, and private cares make me impatient; if I shadow the 
 
 If I take offense easily, if I am content to continue in a cool unfriendliness, though friendship be possible, then I know nothing of Calvary love.
 
-不計算人的惡
 
-it keeps no record of wrongs.
+## 不計算人的惡 **It Keeps No Record of Wrongs**
 
 若我對別人一件已經承認、懺悔並棄絕的罪仍然斤斤計較，大挑毛病，並且容讓這些記憶污染我對這個人的想法，餵養我的猜疑，那我就還是絲毫不懂加略山的愛。
 
@@ -202,9 +184,8 @@ If I cast up a confessed, repented, and forsaken sin against another, and allow 
 
 If I say, "Yes, I forgive, but I cannot forget," as though the God who twice day washes all the sands on all the shores of all the world, could not wash such memories from my mind, then I know nothing of Calvary love.
 
-不喜歡不義，只喜歡真理
 
-Love does not delight in evil but rejoices with the truth.
+## 不喜歡不義，只喜歡真理 **Love Does Not Delight In Evil But Rejoices With the Truth**
 
 若我拒絕讓自己所親愛的人為基督的緣故受苦；若我不能體會這樣的受苦乃是任何一個跟隨那位被釘十架之主者所能得到的最高榮譽，那我就還是絲毫不懂加略山的愛。
 
@@ -230,17 +211,15 @@ If I slip into the place that can be filled by Christ alone, making myself the f
 
 If one whose help I greatly need appears to be as content to build in wood, hay, stubble, as in gold, silver, precious stones, and I hesitate to obey my light and do without that help because so few will understand, then, I know nothing of Calvary love.
 
-凡事包容
 
-It always protects,
+## 凡事包容  ** It Always Protects**
 
 若我對著一個叫人失望的靈魂時，不能保持緘默（除非是為了他或別人的好處而非講不可），那我就還是絲毫不懂加略山的愛。
 
 If I cannot keep silence over a disappointing soul (unless for the sake of that soul's good or for the good of others it be necessary to speak), then I know nothing of Calvary love.
 
-凡事相信
 
-always trusts,
+## 凡事相信  **Always Trusts**
 
 若我對一個曾叫我失望的人保持疑懼的態度，對他沒有信心；若他跌倒的時候我會說：「我早料到他會這樣子.......」，那我就還是絲毫不懂加略山的愛。
 
@@ -250,9 +229,8 @@ If my attitude be one of fear, not faith, about one who has disappointed me; if 
 
 If I do not give a friend "the benefit of the doubt," but put the worst construction instead of the best on what is said or done, then I know nothing of Calvary love.
 
-凡事盼望
 
-always hopes,
+## 凡事盼望 **always hopes**
 
 若我對別人的錯誤漫不經心，把它們認為是平常的事：「哦，他們常常都是這樣的」、「哦，她就是這樣講話的，他就是會做出這種事.......」，那我就還是絲毫不懂加略山的愛。
 
@@ -266,9 +244,8 @@ If I know little of His pitifulness (the Lord turned and looked upon Peter), if 
 
 If I do not look with eyes of hope on all in whom there is even a faint beginning, as our Lord did, when, just after His disciples had wrangled about which of them should be accounted the greatest, He softened His rebuke with those heart-melting words, "Ye are they which have continued with Me in My temptations," then I know nothing of Calvary love.
 
-凡事忍耐
 
-always perseveres.
+## 凡事忍耐  **always perseveres**
 
 若我受不了單調的生活、乏味的工作；若愚笨的人叫我厭煩，一絲漣漪微波便破壞了我心湖的平靜，一點生活中的瑣事便叫我小題大作，那我就還是絲毫不懂加略山的愛。
 
@@ -278,7 +255,8 @@ If monotony tries me, and I cannot stand drudgery; if stupid people fret me and 
 
 If I am soft to myself and slide comfortably into the vice of self-pity and self-sympathy; if I do not by the grace of God practice fortitude, then I know nothing of Calvary love.
 
-其它...
+
+## 其它...  **Misc.**
 
 若神把一個靈魂（或一個團體）託付給我照管，而我卻容許他（們）受到不良的影響以致軟弱下來，因為世界的聲音 -- 即我周遭的基督徒世界 -- 充塞了我的耳朵，那我就還是絲毫不懂加略山的愛。
 註解
