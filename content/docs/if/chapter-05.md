@@ -28,3 +28,4 @@ then I know nothing of Calvary love.
      Key points: 
  
      1. Without transforming our life, the quote "what would Jesus do" is just a lip service.  
+     2. It is different from promotion of compassion at the workplace.  
