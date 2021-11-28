@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-11-27"
 series: null
 tags: null
-title: 《只夸基督十架》 第一章
+title: 《只夸基督十架》 第三章
 toc: true
 ---
 
