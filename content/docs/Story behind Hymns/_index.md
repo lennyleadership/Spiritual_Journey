@@ -7,8 +7,8 @@ draft: false
 lastmod: "2021-11-27"
 series: null
 tags: null
-title: 只夸十字架
+title: 诗歌后面的故事
 toc: true
 ---
 
-收集整理了关于十字架的信息。
+收集整理了诗歌后面的故事。
