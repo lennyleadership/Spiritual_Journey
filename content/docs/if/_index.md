@@ -1,6 +1,6 @@
 ---
 authors:
-- Amy Carmichael 賈艾梅
+- Amy Carmichael
 categories: null
 date: "2021-07-18"
 description: 
