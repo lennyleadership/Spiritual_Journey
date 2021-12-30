@@ -15,6 +15,7 @@ toc: true
 
 <!--more-->
 
+
 During the Christmas holiday, merry means gift exchange to us, therefore we are happy. 
 
 But if I tell the story of Jesus's life to a regular person.  Imagine what they interpret the story.  They would say: What a fool Jesus was.  He could stay in the heaven, sending angels down to the earth to help those who prays to Him. and yet, he came down to the earth. Well, that is fine.  He had gift, talent, he supposed to think about himself first.  If I was him, I would get a advanced education, a job near family, with high pay and less stress. Moreover look at his life, there was a period, why did he not own or rent a place? He was a loser.  And look at the end of his life.  He was crucified on the cross.  It is absolutely a tragic story. what a shame? There is no connection between Jesus' death and being merry.  
