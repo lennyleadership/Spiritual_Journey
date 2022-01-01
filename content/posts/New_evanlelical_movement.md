@@ -8,7 +8,7 @@ draft: false
 featuredImage: null
 lastmod: "2022-01-01T13:11:22+08:00"
 series: null
-tags: ["once saved always saved"]
+tags: ["once saved always saved", "New Evangelical Movement"]
 title: New Evangelical Movement
 toc: true
 ---
