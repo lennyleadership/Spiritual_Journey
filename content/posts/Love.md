@@ -1,6 +1,5 @@
 ---
-authors:
-
+authors: 
 categories: null
 date: "2021-04-10T13:11:22+08:00"
 description: null
@@ -8,8 +7,7 @@ draft: false
 featuredImage: null
 lastmod: "2021-04-10T13:11:22+08:00"
 series: null
-tags: 
-- New Self
+tags: [New Self]
 title: Love
 toc: true
 ---
