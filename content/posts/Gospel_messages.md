@@ -27,5 +27,5 @@ Psa 90:1 A Prayer of Moses, the man of God. Lord, you have been our dwelling pla
 2） 要重生 - 刘志雄。  
 
 
-<iframe width="360" height= auto src="https://www.youtube.com/embed/dEE2TJkYv6A" title="ECTC教会：天路客的成长 2022.01.02 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height= "200" src="https://www.youtube.com/embed/dEE2TJkYv6A" title="ECTC教会：天路客的成长 2022.01.02 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
