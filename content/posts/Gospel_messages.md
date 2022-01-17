@@ -20,11 +20,13 @@ Psa 90:1 A Prayer of Moses, the man of God. Lord, you have been our dwelling pla
 
 我的难处上帝早知道。  
 
+住对了地方，身份都不一样。  
+
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/TJppApt1MSM" title="SVCA矽谷基督徒聚會：安穩在 神永遠膀臂中 2022.01.16 于宏潔" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-2） 要重生 - 刘志雄。  
+2） 要重生 - 刘志雄  
 
 
 <iframe width="360" height= "200" src="https://www.youtube.com/embed/dEE2TJkYv6A" title="ECTC教会：天路客的成长 2022.01.02 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
