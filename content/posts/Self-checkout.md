@@ -1,18 +1,18 @@
 ---
-authors:
-
+authors: Lenny Lin
 categories: null
-date: "2021-06-14T13:11:22+08:00"
+date: "2021-06-14"
 description: null
 draft: false
 featuredImage: null
-lastmod: "2021-06-14T13:11:22+08:00"
+lastmod: "2021-06-14"
 series: null
 tags: null
-title: A self-check question
+title: A self-checkout question
 toc: true
 ---
 
+<!--more-->
 
 ## 经文  
 我说那承受产业的，虽然是全业的**主人**，但为孩童的时候却与奴仆毫无分别，(加4:1)  
