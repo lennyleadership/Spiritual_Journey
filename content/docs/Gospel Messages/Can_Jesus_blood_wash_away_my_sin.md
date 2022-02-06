@@ -6,7 +6,7 @@ description: #1
 draft: false
 lastmod: "2022-02-06"
 series: null
-tags: [旷野吗哪]
+tags: [Good Friend Radio]
 title: 为什么耶稣的血可以洗净我的罪？
 toc: true
 ---

@@ -1,13 +1,13 @@
 ---
-authors: Good Friend Radio
+authors: Good Friend Radio, edited by Lenny Lin
 categories: null
-date: "2021-11-18"
+date: "2021-04-10"
 description: #1
 draft: false
 lastmod: "2021-11-18"
 series: null
-tags: null
-title: 2021年11月17日：最后的背道
+tags: [Good Friend Radio]
+title: Not Finish Well
 toc: true
 ---
 
