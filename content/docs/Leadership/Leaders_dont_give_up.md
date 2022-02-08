@@ -43,4 +43,4 @@ If you succeed, you'll be a leader. And maybe one day a champion.
 
 Tag someone you know is a champion.
 
-https://www.linkedin.com/feed/update/urn:li:activity:6895318077924278272/
+[source: LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6895318077924278272/)
