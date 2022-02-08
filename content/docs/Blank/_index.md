@@ -9,7 +9,7 @@ lastmod: "2022-02-05"
 series: null
 tags:
 - Devotions
-title: Leadership
+title: blank
 toc: true
 ---
 
