@@ -8,20 +8,56 @@
     <language>en</language>
     <copyright>&amp;copy; 2021 Lenny Lin
 </copyright>
-    <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Amy Carmichael 賈艾梅</title>
-      <link>/authors/amy-carmichael-%E8%B3%88%E8%89%BE%E6%A2%85/</link>
-      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <title>Edited by Lenny Lin</title>
+      <link>/authors/edited-by-lenny-lin/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/authors/amy-carmichael-%E8%B3%88%E8%89%BE%E6%A2%85/</guid>
+      <guid>/authors/edited-by-lenny-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lenny Lin</title>
+      <link>/authors/lenny-lin/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lenny-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kuangye Mana</title>
+      <link>/authors/kuangye-mana/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kuangye-mana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isaac Watts</title>
+      <link>/authors/isaac-watts/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/isaac-watts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martyn Lloyd-Jones</title>
+      <link>/authors/martyn-lloyd-jones/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/martyn-lloyd-jones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amy Carmichael</title>
       <link>/authors/amy-carmichael/</link>
-      <pubDate>Thu, 27 May 2021 11:19:36 -0500</pubDate>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/amy-carmichael/</guid>
       <description></description>
@@ -46,11 +82,29 @@
     </item>
     
     <item>
+      <title>Good Friend Radio, edited by Lenny Lin</title>
+      <link>/authors/good-friend-radio-edited-by-lenny-lin/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/good-friend-radio-edited-by-lenny-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lenny</title>
       <link>/authors/lenny/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/authors/lenny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oswald Chamber, Edited by Lenny Lin</title>
+      <link>/authors/oswald-chamber-edited-by-lenny-lin/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/oswald-chamber-edited-by-lenny-lin/</guid>
       <description></description>
     </item>
     

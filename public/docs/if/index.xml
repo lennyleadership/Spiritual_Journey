@@ -45,5 +45,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Part 5</title>
+      <link>/docs/if/chapter-05/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/if/chapter-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part 6</title>
+      <link>/docs/if/chapter-06/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/if/chapter-06/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
