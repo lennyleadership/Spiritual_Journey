@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-02-05"
 series: null
-tags: null
+tags: [Leadership]
 title: Leader Don't Give Up
 toc: true
 ---
