@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-02-06"
 series: null
 tags: [Good Friend Radio]
-title: 为什么耶稣的血可以洗净我的罪？
+title: 为什么耶稣的血可以"洗净"我的罪？
 toc: true
 ---
 
