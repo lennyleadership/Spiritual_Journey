@@ -7,16 +7,13 @@ draft: false
 lastmod: "2022-02-09"
 series: null
 tags: [encouragement]
-title: "Finishing: touch 16 years later, Jacobellis gets her gold"
+title: "Finishing touch: 16 years later, Jacobellis gets her gold"
 toc: true
 ---
 
 <!--more-->
 
 ZHANGJIAKOU, China (AP) — When bad things happen at the Olympics, no one ever lets it go.
-
-
-<iframe width="360" height="200" src="https://www.youtube.com/embed/3wsyp7N_US4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <img width ="360" height= "200" src = "/docs/images/AATEBxK.jpg"/>

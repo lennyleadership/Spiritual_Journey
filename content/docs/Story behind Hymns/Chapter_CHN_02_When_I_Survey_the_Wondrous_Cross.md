@@ -2,9 +2,9 @@
 authors: Isaac Watts
 categories: null
 date: "2021-11-27"
-description: #1
+description: When I survey the wondrous cross
 draft: false
-lastmod: "2021-11-27"
+lastmod: "2022-02-15"
 series: null
 tags: null
 title: 《我每静念那十字架》 
