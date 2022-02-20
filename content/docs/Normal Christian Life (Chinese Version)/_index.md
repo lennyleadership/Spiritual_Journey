@@ -11,4 +11,4 @@ title:  正常的基督徒生活
 toc: true
 ---
 
-本书由倪柝声弟兄写作。资源来自<a href = "https://uh.edu/ccbsg/Files.Sharing/ni/ncl-1.htm">网站</a>
+本书由倪柝声弟兄写作。资源来自<a href = "https://www.tochrist.org/Doc/Books/Watchman%20Nee/zcdjdtsh-S.pdf">正常的基督徒生活</a>

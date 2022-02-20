@@ -14,4 +14,4 @@ title:  Normal Christian Life
 toc: true
 ---
 
-This book was written by Watchman Nee. The online resource: <a href = "https://www.tochrist.org/Doc/Books/Watchman%20Nee/The%20Normal%20Christian%20Life.pdf">here</a>
+This book was written by Watchman Nee. The online resource: <a href = "https://www.tochrist.org/Doc/Books/Watchman%20Nee/The%20Normal%20Christian%20Life.pdf">Normal Christian Life</a>

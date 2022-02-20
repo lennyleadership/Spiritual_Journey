@@ -16,7 +16,7 @@ toc: true
 <!--more-->
 
 
-<iframe width="360" height="200" src="https://www.youtube.com/embed/58ZxNVIuXFw" title="Abide With Me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="200" src="https://www.youtube.com/watch?v=8YorYVEixAk" title="Abide With Me by Ahymn aWeek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/XoXhmfyjF0c" title="与我同住" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
