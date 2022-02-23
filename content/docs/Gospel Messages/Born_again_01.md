@@ -30,7 +30,7 @@ Jesus called us out of darkness into his marvelous light.
 <sup>10</sup> Once you were not a people, but now you are God's people; once you had not received mercy, but now you have received mercy.*
 
 2) Be born again.  
-Be like new garmet, be like new wineskins.  
+Be like new garment, be like new wineskins.  
 >*Luke 5:36-38 (ESV)  
 <sup>36</sup> He also told them a parable: “<font color ="red">No one tears a piece from a new garment and puts it on an old garment. If he does, he will tear the new, and the piece from the new will not match the old</font>.  
 <sup>37</sup> <font color ="red">And no one puts new wine into old wineskins. If he does, the new wine will burst the skins and it will be spilled, and the skins will be destroyed</font>.  
