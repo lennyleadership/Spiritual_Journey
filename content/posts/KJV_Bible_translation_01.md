@@ -8,7 +8,7 @@ featuredImage: null
 lastmod: "2022-03-02"
 series: null
 tags: null
-title: Why are Some passages in the King James Version Left Out of our Modern Translations?
+title: Why are Some Passages in the King James Version Left Out of our Modern Translations?
 toc: true
 ---
 
