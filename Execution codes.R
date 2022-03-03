@@ -63,9 +63,8 @@ blogdown::find_hugo()
 # it is a png formate.
 # the image file at the homepage is stored in .\themes\hugo-eureka\assets\images. 
 # Then I need to change the previous one at D:\A_Blog\psalm119\config\_default\ params.yaml.
-
 # change footer at D:\A_Blog\psalm119\themes\hugo-eureka\layouts\partials\footer.html
-
+# change the year at copyright, D:\A_Blog\psalm119\config.yaml
 
 #----
 # To upload a batch of files

@@ -8,7 +8,7 @@ theme: "hugo-eureka"
 
 paginate: 3
 copyright: >
-  &copy; 2021 Lenny Lin
+  &copy; 2022 Lenny Lin
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
