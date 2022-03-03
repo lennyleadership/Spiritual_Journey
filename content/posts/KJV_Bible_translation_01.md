@@ -12,6 +12,8 @@ title: Why are Some Passages in the King James Version Left Out of our Modern Tr
 toc: true
 ---
 
+The following post originated at the site georgehguthrie.com.
+
 <!--more-->
 
 
@@ -75,4 +77,4 @@ In the case of Mark 6:11, no teaching is changed by the modern versions, and no 
 
 I hope this makes sense. I will follow up in my next post with another example passage that should make the issue of manuscript evidence even more clear: “The Fantastic Case of the Missing Manuscript!” (how’s that for a teaser?!).
 
-This post originated at the site <a href = "https://georgehguthrie.com/new-blog/manuscripts-behind-the-kjv">Why are Some Passages in the King James Version Left Out of Our Modern Translations?</a>
+<a href = "https://georgehguthrie.com/new-blog/manuscripts-behind-the-kjv">Why are Some Passages in the King James Version Left Out of Our Modern Translations?</a>
