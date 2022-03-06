@@ -4,7 +4,7 @@ categories: null
 date: "2021-04-10"
 description: #1
 draft: false
-lastmod: "2022-02-27"
+lastmod: "2021-04-11"
 series: null
 tags: null
 title: 第二章　基督的十字架
