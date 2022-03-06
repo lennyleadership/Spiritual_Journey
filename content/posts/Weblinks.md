@@ -19,7 +19,7 @@ toc: true
 
 
 ## 倪柝声著作
-<a href= "https://uh.edu/ccbsg/Files.Sharing/ni/ncl-ct.htm">正常的基督徒生活</a>  
+<a href= "http://mswe1.org/reading/book/2019">正常的基督徒生活</a>  
 
 <a href= "https://www.tochrist.org/Doc/Books/Watchman%20Nee/The%20Normal%20Christian%20Life.pdf">正常的基督徒生活(PDF 英文版)</a>
 
@@ -48,5 +48,9 @@ toc: true
 English version: <a href = "http://www.sedin.org/portions/p00eng.html">Pilgrim Portions</a>  
 
 Chinese version: <a href = "http://www.ccdigest.net/book/Darby/darby01.htm">基督是我们的满足</a>
+
+
+## Andrew Murry 著作
+Chinese version:<a href ="http://www.bodani.cn/article/?bk=100739#107002&6">基督的灵</a>
 
 
