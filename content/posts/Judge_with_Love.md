@@ -42,7 +42,7 @@ ____
 1Co 6:1-11 MKJV  
 (1)  Do any of you dare, when you have a matter against another, to go to law before the unjust, and not before the saints?  
 (2)  Do you not know that the saints shall judge the world? And if the world shall be judged by you, are you unworthy to judge the smallest matters?  
-(3)  Do you not know that we shall judge angels, not to mention the things of this life? 
+(3)  Do you not know that we shall judge angels, not to mention the things of this life?   
 (4)  If, then, you truly have judgments of the things of this life, set those who are least esteemed in the church to judge.  
 (5)  For I speak to your shame. Is it so that there is not a wise one among you, not even one in your midst who shall be able to judge between his brother?  
 (6)  But brother goes to law with brother, and that before the unbelievers.  
