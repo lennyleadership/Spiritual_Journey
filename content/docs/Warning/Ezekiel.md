@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-02-05"
 series: null
 tags: null
-title: Ezekiel 提醒
+title: 以西结的提醒
 toc: true
 ---
 
