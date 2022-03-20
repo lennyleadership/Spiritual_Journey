@@ -5,7 +5,7 @@ date: "2021-04-10"
 description: #1
 draft: false
 lastmod: "2021-04-10"
-series: null
+series: [旷野吗哪]
 tags: null
 title: Change from internal
 toc: true

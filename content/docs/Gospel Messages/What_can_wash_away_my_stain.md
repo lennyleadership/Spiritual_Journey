@@ -33,6 +33,7 @@ Hebrews‬ 9:11-14 (ESV)  \
 13 若山羊和公牛的血，以及母牛犊的灰，洒在不洁的人身上，尚且使人成圣，身体洁净，   \
 14 何况基督的血，他藉着永远的灵把自己无瑕疵地献给上帝，更能洗净我们 的良心，除去致死的行为，好事奉那位永生的上帝。  
 
+____
 ‪Ezekiel‬36:22-28 ESV  \
 22 “Therefore say to the house of Israel, Thus says the Lord God: It is not for your sake, O house of Israel, that I am about to act, but for the sake of my holy name, which you have profaned among the nations to which you came.   \
 23 And I will vindicate the holiness of my great name, which has been profaned among the nations, and which you have profaned among them. And the nations will know that I am the Lord, declares the Lord God, when through you I vindicate my holiness before their eyes.   \
