@@ -23,5 +23,7 @@ Eze 1:26-28 MKJV
 
 
 
-## 2. 
+## 2. The suffering servant 
+Jesus came down for saving us
+
 Encouraging message to me when I 

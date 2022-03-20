@@ -45,3 +45,5 @@ The apostle Paul also describes this person in Philippians 2:
 Jesus in Ezekiel is revealed as God who became man. Friend, do you know Him? Do you recognize Him? Hundreds and thousands of years before He was born, The prophets recognized Him. Abraham knew Him.  
 
 My friend, the final hour is near. Time is short. Jesus is coming…in flashes of lightning and peals of thunder! The nations of the earth will come against Him. And, the Bible says, **EVERY knee shall bow and EVERY tongue confess that HE IS LORD**. Run to Him now, before it is too late.
+
+Source: <a href ="https://discoverhistoricjesus.com/jesus-in-ezekiel/">Jesus in Ezekiel</a>

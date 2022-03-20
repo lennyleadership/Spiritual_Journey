@@ -9,7 +9,7 @@ lastmod: "2022-03-05"
 series: null
 tags:
 - Devotions
-title: blank
+title: Breaking the Bread
 toc: true
 ---
 
