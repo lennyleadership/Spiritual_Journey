@@ -8,7 +8,7 @@ featuredImage: null
 lastmod: "2022-03-08"
 series: null
 tags: null
-title: 
+title: 灵里贫穷 - 厌恶自己
 toc: true
 ---
 
