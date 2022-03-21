@@ -1,14 +1,14 @@
 ---
 authors:
 categories: null
-date: "2022-03-04"
+date: "2022-03-21"
 description: null
 draft: false
 featuredImage: null
-lastmod: "2022-03-04"
+lastmod: "2022-03-21"
 series: null
 tags: null
-title: 
+title: Consecration and Sanctification
 toc: true
 ---
 
