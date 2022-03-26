@@ -6,7 +6,7 @@ description: The Jesus' blood
 draft: false
 lastmod: "2022-02-08"
 series: null
-tags: null
+tags: [旷野吗哪, 宝血]
 title: The Jesus' blood
 toc: true
 ---

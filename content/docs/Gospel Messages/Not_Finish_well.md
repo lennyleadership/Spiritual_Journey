@@ -1,12 +1,12 @@
 ---
-authors: Good Friend Radio, edited by Lenny Lin
+authors: 旷野吗哪, edited by Lenny Lin
 categories: null
 date: "2021-04-10"
 description: #1
 draft: false
 lastmod: "2021-11-18"
 series: null
-tags: [Good Friend Radio]
+tags: [旷野吗哪]
 title: Not Finish Well
 toc: true
 ---
