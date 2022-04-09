@@ -1,5 +1,5 @@
 ---
-authors: null
+authors: Joni and Friends
 categories: null
 date: "2022-04-08"
 description: 
@@ -13,13 +13,34 @@ toc: true
 
 APRIL 8TH, 2022 | 04:00 | E40822
 
+
+<div class='container'>
+        <div>
+<iframe height="300" width="50%" frameborder="no" scrolling="no" seamless allow="autoplay" src="https://player.simplecast.com/979d9ce3-f852-4c56-b88a-37df40b1e940?dark=false"></iframe>
+        </div>  
+    <div style='margin-left:60px;'>
 Blessings don’t always look the way we expect. Jesus gives us something far deeper than we can imagine: he links blessings with suffering and pain. While these blessings may not be the worldly ones we are comfortable with, they give us the gifts of courage and perseverance. 
+    </div>
+</div>
+
+
+<div class='container2'>
+        <div>
+            <img src='http://ecx.images-amazon.com/images/I/21-leKb-zsL._SL500_AA300_.png' class='iconDetails'>
+        </div>  
+    <div style='margin-left:60px;'>
+    <h4>Facebook</h4>
+    <div style="font-size:.6em">fine location, GPS, coarse location</div>
+    <div style="float:right;font-size:.6em">0 mins ago</div>
+    </div>
+</div>
+
 <!--more-->
 
-<iframe height="300" width="50%" frameborder="no" scrolling="no" seamless allow="autoplay" src="https://player.simplecast.com/979d9ce3-f852-4c56-b88a-37df40b1e940?dark=false"></iframe> 
+ 
 
 
-##Transcript
+## Transcript
 
 I used to think God’s blessings were hard to come by.  
 
