@@ -7,8 +7,8 @@ draft: false
 featuredImage: null
 lastmod: "2022-04-05"
 series: null
-tags: null
-title: 
+tags: [但以理]
+title: 但以理书
 toc: true
 ---
 
