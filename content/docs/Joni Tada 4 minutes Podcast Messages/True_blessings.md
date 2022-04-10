@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-04-08"
 series: null
-tags: null
+tags: [Joni Eareckcon Tada]
 title: True Spiritual Blessing
 toc: true
 ---
@@ -14,29 +14,10 @@ toc: true
 APRIL 8TH, 2022 | 04:00 | E40822
 
 
-<div class='container'>
-        <div>
+Blessings don’t always look the way we expect. Jesus gives us something far deeper than we can imagine: he links blessings with suffering and pain. While these blessings may not be the worldly ones we are comfortable with, they give us the gifts of courage and perseverance.   
+
 <iframe height="300" width="50%" frameborder="no" scrolling="no" seamless allow="autoplay" src="https://player.simplecast.com/979d9ce3-f852-4c56-b88a-37df40b1e940?dark=false"></iframe>
-        </div>  
-    <div style='margin-left:60px;'>
-Blessings don’t always look the way we expect. Jesus gives us something far deeper than we can imagine: he links blessings with suffering and pain. While these blessings may not be the worldly ones we are comfortable with, they give us the gifts of courage and perseverance. 
-    </div>
-</div>
-
-
-<div class='container2'>
-        <div class="left">
-<iframe height="300" width="50%" frameborder="no" scrolling="no" seamless allow="autoplay" src="https://player.simplecast.com/979d9ce3-f852-4c56-b88a-37df40b1e940?dark=false"></iframe>
-        </div>  
-    <div   class="right" >
-Blessings don’t always look the way we expect. Jesus gives us something far deeper than we can imagine: he links blessings with suffering and pain. While these blessings may not be the worldly ones we are comfortable with, they give us the gifts of courage and perseverance. 
-    </div>
-</div>
-
-
 <!--more-->
-
- 
 
 
 ## Transcript

@@ -1,5 +1,5 @@
 ---
-authors: null
+authors: Martyn Lloyd-Jones
 categories: null
 date: "2021-11-27"
 description: 
@@ -11,4 +11,4 @@ title: 只夸十字架
 toc: true
 ---
 
-收集整理了关于十字架的信息。
+收集整理了钟马田关于十字架的信息。
