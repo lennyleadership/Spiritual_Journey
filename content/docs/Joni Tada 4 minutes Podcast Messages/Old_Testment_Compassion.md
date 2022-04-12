@@ -27,7 +27,7 @@ I mean, look at this: when Moses was on Mount Sinai with this God of smoke, and 
 
 I tell you, the God of the Old Testament is tender beyond description. He not only makes his compassion known, he pours out his love and mercy. In Ezekiel, he is shown as pouring out blessings, like showers. He not only chooses but longs to be gracious to his people. He desires, yearns, and even aches to show you the abundance of his care and compassion. This is who God is. And please, please do not misread him. We must not misjudge or misinterpret him, for if we do, we will grow to mistrust him in our afflictions and even despise him. If we misread him, we will fail to cling to him through our worst of afflictions!
 
-So if you are experiencing hardship today, consider these words of hope from Psalm 103. Remember them, impress them on your heart, for as the psalmist says, “The Lord is compassionate and gracious, slow to anger, abounding in love…he does not treat us as our sins deserve or repay us according to our iniquities.” So in your praise of God today, remember that not only does Jesus take pity on the weak and hurting, the glorious God of the Old Testament does, as well. And why shouldn’t they? The Father in the Old Testament and the Son in the New are one and the same. That’s your good word today from joniradio.org.  
+So if you are experiencing hardship today, consider these words of hope from Psalm 103. Remember them, impress them on your heart, for as the psalmist says, “The Lord is compassionate and gracious, slow to anger, abounding in love…he does not treat us as our sins deserve or repay us according to our iniquities.” So in your praise of God today, remember that not only does Jesus take pity on the weak and hurting, the glorious God of the Old Testament does, as well. And why shouldn’t they? The Father in the Old Testament and the Son in the New are one and the same. That’s your good word today from [joniradio.org](https://joniandfriendsradio.simplecast.com/episodes/old-testament-compassion).  
 
 
 
@@ -37,5 +37,5 @@ So if you are experiencing hardship today, consider these words of hope from Psa
 
 你会不会觉得旧约中的上帝跟新约中的上帝很不一样？新约中耶稣处处表现出温柔的爱。然而，旧约中的上帝会让你想到什么？火焰？西乃山上的雷电？诅咒以及毁灭性的灾难？责打与指正的杖、奇特的异象、又或是反常的命令？又或者是没有耐性、恼怒、冰雹、雷电？不过，我劝你还是好好想想，你实在漏了不少。
 
-比如，摩西眼里的上帝，以色列人的圣者，以西结看见的异象中的物件，又或是但以理的灾难，旧约中的上帝严禁以色列人咒诅哑巴，给盲人设陷阱，
+比如，摩西眼里的上帝，以色列人的圣者，以西结看见的异象中的物件，又或是但以理的灾难，旧约中的上帝严禁以色列人咒诅哑巴，绊倒盲人，
 
