@@ -31,7 +31,7 @@ So if you are experiencing hardship today, consider these words of hope from Psa
 
 
 
-## 中文文字版
+## 中文版讲稿
 
 在你心目中，旧约中的上帝是什么样子的？  
 
