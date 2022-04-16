@@ -11,34 +11,13 @@ title: The Weight of Sin
 toc: true
 ---
 
-<style>
-  body{
-  margin:0;
-  }
-  
-  .container{
-  width: 400px;
-  display: flex;
-  align-items: center:
-  }
-  
-  .container img{
-  width: 180px;
-  height: 100px;
-  margin-left: 20px;
-  }
-</style>
+
 
 APRIL 15TH, 2022 | 04:00 | E41522  
+Did you know there’s a plant called the “Crown of Thorns?” Aside from having beautiful blossoms, it also has sharp, nail-like thorns. Joni explains that this plant reminds her every Easter of the brutality of what Jesus suffered on our behalf. This remembrance leads to praise and thanksgiving to Jesus for all he’s done!  
 
-<body>
-<div class = "container">
-  <p>
-  Did you know there’s a plant called the “Crown of Thorns?” Aside from having beautiful blossoms, it also has sharp, nail-like thorns. Joni explains that this plant reminds her every Easter of the brutality of what Jesus suffered on our behalf. This remembrance leads to praise and thanksgiving to Jesus for all he’s done!  
-  </p>
-  <img src = "/docs/images/Crown_of_thrown.jpg"/>  
-</div>
-</body>
+<img width = "360" height = "200" src = "/docs/images/Crown_of_thrown.jpg"/>
+
 
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/48bc3f7c-e385-496a-8e1e-0b4ee974ed95?dark=false"></iframe>
