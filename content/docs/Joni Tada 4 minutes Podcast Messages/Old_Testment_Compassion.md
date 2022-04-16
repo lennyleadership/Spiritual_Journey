@@ -6,13 +6,14 @@ description:
 draft: false
 lastmod: "2022-04-08"
 series: null
-tags: null
+tags: [Joni and Friends]
 title: Old Testment Compassion
 toc: true
 ---
 MARCH 9TH, 2022 | 04:00 | E30922  
 
 Do you think of the God of the Old Testament as angry, wrathful, and vengeful? If so, consider that he describes himself as “merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness.” Be careful not to misread God. He is a tender, loving Father who has compassion for you in all your hardships.  
+
 <iframe height="200px" width="50%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/2868495f-da2d-4507-a37d-2f01beb172b5?dark=false"></iframe>
 <!--more-->
 
