@@ -1,19 +1,20 @@
 ---
-authors: Joni and Friends
+authors: Joni and Friends, Chinese translation by Lenny Lin
 categories: null
 date: "2022-04-08"
 description: 
 draft: false
 lastmod: "2022-04-08"
 series: null
-tags: [Joni and Friends]
+tags: [Joni and Friends, Sin]
 title: The Weight of Sin
 toc: true
 ---
 
 
 
-APRIL 15TH, 2022 | 04:00 | E41522  
+APRIL 15TH, 2022 | 04:00 | E41522   
+
 Did you know there’s a plant called the “Crown of Thorns?” Aside from having beautiful blossoms, it also has sharp, nail-like thorns. Joni explains that this plant reminds her every Easter of the brutality of what Jesus suffered on our behalf. This remembrance leads to praise and thanksgiving to Jesus for all he’s done!  
 
 <img width = "360" height = "200" src = "/docs/images/Crown_of_thrown.jpg"/>
@@ -35,3 +36,10 @@ And so, the apple of the Father’s eye turned brown with the rot of our sin. I 
 I hope you have a reminder of what it cost Jesus to die in your place because today is a day to remember. There aren’t many days in the church calendar when we are called to remember, but Good Friday is one of them. This day is specifically set aside for you to meditate on all that Jesus suffered, all the pain, and the shame, all the curse that characterized his death. There is no room for a casual sentimentality about the cross. It was an instrument of execution. And Jesus, your Savior and mine, endured it all. He became sin for you so that you might have freedom from sin, escape from hell, the power to live abundantly, and a lasting home in heaven. 
 
 So join me today on Good Friday. Carve out some quiet time to reflect on the awful weight of what this day means, and breathe a prayer of wonder and thanksgiving to Jesus, which is the best way to prepare your heart, to get it ready to really celebrate on Easter Sunday!
+
+
+## 中文版讲稿
+
+每年这个时候，我庭院里有一丛植物会开花。而且恰逢复活节前夕。  
+
+透过推拉的玻璃门，我总可以看到那丛植物开着鲜亮、红色的花。这丛植物学名叫Euphorbia milii，通常人们叫它“荆棘的冠冕”。我好想叫人把我推到这丛植物旁。因为，我总喜欢细细观赏这些美艳的花瓣，那样的纤薄、脆嫩、红得那么动人。可是，身子上满是刺。
