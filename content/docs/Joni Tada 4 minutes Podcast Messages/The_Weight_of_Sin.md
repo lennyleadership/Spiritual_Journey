@@ -17,20 +17,19 @@ toc: true
   }
   
   .container{
-  width: 300px;
+  width: 400px;
   display: flex;
   align-items: center:
   }
   
   .container img{
-  with: 50px;
-  margin-right: 20px;
+  width: 180px;
+  height: 100px;
+  margin-left: 20px;
   }
 </style>
 
 APRIL 15TH, 2022 | 04:00 | E41522  
-
-Did you know there’s a plant called the “Crown of Thorns?” Aside from having beautiful blossoms, it also has sharp, nail-like thorns. Joni explains that this plant reminds her every Easter of the brutality of what Jesus suffered on our behalf. This remembrance leads to praise and thanksgiving to Jesus for all he’s done!  
 
 <body>
 <div class = "container">
@@ -38,7 +37,6 @@ Did you know there’s a plant called the “Crown of Thorns?” Aside from havi
   Did you know there’s a plant called the “Crown of Thorns?” Aside from having beautiful blossoms, it also has sharp, nail-like thorns. Joni explains that this plant reminds her every Easter of the brutality of what Jesus suffered on our behalf. This remembrance leads to praise and thanksgiving to Jesus for all he’s done!  
   </p>
   <img src = "/docs/images/Crown_of_thrown.jpg"/>  
-  <figcaption><b>Figure: </b>Euphorbia milii, or The Crown of Thorns</figcaption>
 </div>
 </body>
 
