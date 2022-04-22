@@ -1,10 +1,10 @@
 ---
 authors: Joni and Friends, Chinese translation by Lenny Lin
 categories: null
-date: "2022-04-08"
+date: "2022-04-16"
 description: 
 draft: false
-lastmod: "2022-04-08"
+lastmod: "2022-04-16"
 series: null
 tags: [Joni and Friends, Sin]
 title: The Weight of Sin \n 罪的负荷
