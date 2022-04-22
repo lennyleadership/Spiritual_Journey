@@ -42,4 +42,4 @@ The burning bush is an Old Testament example of a New Testament truth: Christ in
 
 哦！如此殊荣！能成为上帝拣选的一簇荆棘！请跟我一起祷告：亲爱的耶稣，让我为你燃烧！挑旺我心灵的火焰！让你的生命从我里面发光！耶稣，就是今天！让我为你燃烧！
 
-© [Joni and Friends](https://joniandfriendsradio.simplecast.com/episodes/the-bush-doesnt-matter)
+© [Joni and Friends Radio](https://joniandfriendsradio.simplecast.com/episodes/the-bush-doesnt-matter)

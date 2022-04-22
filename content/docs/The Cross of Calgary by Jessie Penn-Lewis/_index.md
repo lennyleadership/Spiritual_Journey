@@ -12,6 +12,6 @@ toc: true
 ---
 
 
-This book collects thoughts and inspiring stories on leadership.
+This book collects Jessie Penn-Lewis' book "The Cross of Calvary".
 
 
