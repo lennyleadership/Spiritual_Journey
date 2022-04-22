@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-08"
 series: null
 tags: [Joni and Friends, Sin]
-title: The Weight of Sin 罪的负荷
+title: The Weight of Sin \n 罪的负荷
 toc: true
 ---
 
