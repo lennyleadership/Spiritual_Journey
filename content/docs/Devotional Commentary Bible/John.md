@@ -5,8 +5,8 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-23"
-series: null
-tags: null
+series: [圣经, 活泉小简]
+tags: [圣经, 活泉小简, 祷告, 宾路易师母]
 title: 约翰福音
 toc: true
 ---
