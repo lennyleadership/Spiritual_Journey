@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-19"
 series: null
 tags: 
-title: Meditation on Bible Verse
+title: Devotional Commentary of Bible
 toc: true
 ---
 
