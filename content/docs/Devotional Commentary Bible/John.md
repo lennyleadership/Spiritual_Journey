@@ -6,8 +6,8 @@ description:
 draft: false
 lastmod: "2022-04-23"
 series: [圣经, 活泉小简]
-tags: [圣经, 活泉小简, 祷告, 宾路易师母，默想]
-title: 约翰福音
+tags: [圣经, 活泉小简, 祷告, 宾路易师母, 默想]
+title: 104 约翰福音
 toc: true
 ---
 
@@ -1171,6 +1171,7 @@ toc: true
 约十五7  
 真实代祷的路不是与基督一同祷告，而是当他与基督联合时，联于基督(同一个灵)向父祈求;即在祂名里--在祂里面祈求。不是两种态度--基督与我，而是一个--与基督联合，求祂所求的--因为与基督联合是祷告的秘诀，祷告能力的秘诀是基于对此种联合的领会，所以我们才能在对的态度和对的地位来祷告。   
 --摘自《祷告》(宾路易师母) 
+<br />  
 
 [^3]: (Joh 17:1 KJV)  These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; <mark>glorify thy Son</mark>, that thy Son also may glorify thee:  
 (Joh 17:2 KJV)  As thou hast given him power over all flesh, that he should give eternal life to <mark>as many as thou hast given him</mark>.  
@@ -1182,5 +1183,6 @@ Answer: Kevin Yip confirmed my thought.  Good morning Lenny. Yes, I believe that
 ***  
 Jesus asked Father to glorify himself in Joh 17:1, 17:5.  
 Jesus was a man.   
+<br />  
 
 [^2]: test.

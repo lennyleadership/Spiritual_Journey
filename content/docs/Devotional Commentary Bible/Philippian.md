@@ -4,10 +4,10 @@ categories: null
 date: "2022-04-19"
 description: 
 draft: false
-lastmod: "2022-04-19"
+lastmod: "2022-04-23"
 series: [圣经]
 tags: [圣经, 默想]
-title: 腓立比书
+title: 111 腓立比书
 toc: true
 ---
 
