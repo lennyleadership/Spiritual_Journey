@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-04-19"
 series: [圣经, 活泉小简]
-tags: [圣经, 活泉小简]
+tags: [圣经, 活泉小简, 祷告, 宾路易师母]
 title: 罗马书
 toc: true
 ---
