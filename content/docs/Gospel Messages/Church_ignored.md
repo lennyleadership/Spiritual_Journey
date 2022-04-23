@@ -12,7 +12,7 @@ toc: true
 ---
 
 
-
+If you are a true follower of Christ. If you’ve given your life to Jesus. If you’ve been washed in the blood of the lamb. That means that you are now one part of the body of Christ! You are part of something greater than yourself! You are a part of the eternal family of God! That means blessing, that means help, that means accountability, and that means responsibility!
 <!--more-->
 
 This subject of our God given responsibility to the local church needs to be addressed because we live in a culture that is trying to “redefine Christianity” to fit into its definition instead of what God says the church is in His word.
@@ -27,7 +27,8 @@ Early believers understood this totally! Rick Warren says when talking about the
 
 If you are a true follower of Christ. If you’ve given your life to Jesus. If you’ve been washed in the blood of the lamb. That means that you are now one part of the body of Christ! You are part of something greater than yourself! You are a part of the eternal family of God! That means blessing, that means help, that means accountability, and that means responsibility!
 
-
 Christianity is not about self-centeredness, but about community. Rethinking Christianity means as you read this passage you see that Christianity is about something greater than just you and God, but you are now a part of the body of Christ made up of many parts. You don’t go to church! You are a part of the church. As our physical body is made up of many connected parts we are called to worship and be connected with other parts of the body of Christ! Together, not alone, we are the body of Christ. That’s what the word of God teaches us. We must never let our culture change Christ and the Bible, or Christ and the Bible will not be able to change our culture. Once you understand this you either follow it or you do not. My prayer for you today is that no matter what your experience has been you will take action to be with the other parts of the body of Christ. The Bible teaches that we are stronger and better together!
 
 I want to thank you for reading today’s article. I hope in some way it blesses your soul. This Sunday at South Side I will share week one of our new series entitled “Rethinking The Church.” Our onsite worship starts at 10:15, and our Children’s Ministry offers children’s classes for all ages. We are continuing to practice social distancing at our services. If you are unable to attend, our online services will be available at 3 on Facebook and our website. If you would like to give generously just text the word “help” to 84321 and follow the simple instructions. We would love to have you and your family worship with us! For more information visit us on our website at www.southsidewch.com or on Facebook.
+
+[Rethinking the church](https://www.recordherald.com/news/religion/63845/rethinking-the-church)

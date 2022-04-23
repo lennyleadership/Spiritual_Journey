@@ -29,4 +29,4 @@ The Apostle Paul wrote in 2 Corinthians 5:17, “Therefore, if anyone is in Chri
 
 I want to ask you today, how differently do you live now that you are a Christian than you did before? We need to understand especially in our western culture that being a Christian is more than just believing a certain set of beliefs and creeds. Being a Christian is a way of life in which we seek to identify as closely as we can with Jesus. Following Christ is a lifestyle choice: accepting him as Lord and Savior, choosing to believe when it seems impossible, choosing to love those whom you would much rather hate, and choosing to value God over all other attachments.
 
-[]()
+[What do you mean Christian?](https://www.recordherald.com/news/religion/61978/just-what-do-you-mean-christian)

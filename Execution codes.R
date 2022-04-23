@@ -44,10 +44,12 @@ blogdown::find_hugo()
 # Step #2: Delete the damaged repository at Github
 # Settings -> Danger Zone -> Delete this repository
 # Step #3: Recreate the repository with exactly identical name.
+
 # Step #4: Create a new project at RStudio.
 # new project -> Version control -> Git -> Repository URL -> paste the URL, create project as subdirectory of ...
 # in Console, type:
 #  blogdown::new_site(theme = "wangchucheng/hugo-eureka")
+
 # Remove:
 # any pre-installed info in directory 'content', 'public', 
 # overwrite:
