@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-19"
 series: null
 tags: null
-title: 027 但以理
+title: 027 但以理书
 toc: true
 ---
 
