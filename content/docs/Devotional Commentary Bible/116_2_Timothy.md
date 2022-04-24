@@ -46,17 +46,21 @@ toc: true
 2:3 你要和我同受苦难、好像基督耶稣的精兵。  
 2:4 凡在军中当兵的、不将世务缠身、好叫那招他当兵的人喜悦。  
 2:5 人若在场上比武、非按规矩、就不能得冠冕。  
-[^1]: [Strong in the grace] It means strength in grace。    
-(2Co 12:9 KJV)  And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness。   Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me。     
-(Heb 4:16 KJV)  Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need。    
-<br />  
-Kevin Yip: God will not leave you where grace can't find you。    
-Strong: determination of who I am. I need to go on。      
-Grace: God gives what we deserve。    
-<br />  
+[^1]: [2022.04.24 Sunday Kevin Yip church]  
+[Strong in the grace]  
+It means strength in grace.    
+(2Co 12:9 KJV)  And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.     
+(Heb 4:16 KJV)  Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.    
+<br />   
+Kevin Yip: God will not leave you where grace can't find you.    
+Strong: determination of who I am. I need to go on.      
+Grace: God gives what we deserve.    
+<br />   
 dare to believe that He loves me, 
-Mark Yip: motivation. fail and go on, not afraid to make fail。    
-so many undeserved things。  
+Mark Yip: motivation. fail and go on, not afraid to make fail.    
+so many undeserved things.  
+<br />  
+[魂的救恩] 竭力去做救恩的功夫。
 
 2:6 劳力的农夫、理当先得粮食。  
 2:7 我所说的话你要思想．因为凡事主必给你聪明。  
