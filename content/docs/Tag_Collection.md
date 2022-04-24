@@ -2,11 +2,11 @@
 title: Tag Index
 description:
 toc: true
-authors: Amy Carmichael
+authors: 
 date: 2022-04-24
 lastmod: 2022-04-24
 draft: false
-tag: [圣经, 敬畏]
+tags: [圣经, 敬畏]
 weight: 1
 ---
 
