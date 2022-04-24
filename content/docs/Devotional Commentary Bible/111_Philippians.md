@@ -52,7 +52,7 @@ toc: true
 1:30 你们的争战、就与你们在我身上从前所看见、现在所听见的一样。  
 
 
-* ----------------------------------------
+------------------------------------------
 
 ## 腓立比书 2章  
 
@@ -93,7 +93,7 @@ toc: true
 2:30 因他为作基督的工夫、几乎至死、不顾性命、要补足你们供给我的不及之处。  
 
 
-* ----------------------------------------
+------------------------------------------
 
 ## 腓立比书 3章  
 
@@ -123,7 +123,7 @@ toc: true
 
 3:21 他要按着那能叫万有归服自己的大能、将我们这卑贱的身体改变形状、和他自己荣耀的身体相似。  
 
-* ----------------------------------------
+------------------------------------------
 
 ## 腓立比书 4章  
 
@@ -160,7 +160,7 @@ toc: true
 [恐惧战兢] 我们因你的怒气而消灭，因你的忿怒而惊惶。(诗篇90:7 和合本)  
 [竭力] [提后二4] 凡在军中当兵的、不将世务缠身、好叫那招他当兵的人喜悦。  
 <br />  
-[John MacArthur] **work out your own salvation** The Gr. verb rendered "work out" means "to continually work to bring something to fulfillment or completion."  It can't refer to salvation by works (cf. Rom. 3:21-24; Eph. 2:8-9), but it does refer to the believer's responsibility for active pursuit of obedience in the process of sanctification (see notes on 3:13,14; Rom 6:19; cf. 1Cor. 9:24-27; 15:58; 2Cor. 7:1; Gal. 6:7-9; Eph 4:1; Col. 3:1-17; Heb. 6:10, 11; 12:1,2; 2Pet. 1:5-11)  
+[John MacArthur] **work out your own salvation*--The Gr. verb rendered "work out" means "to continually work to bring something to fulfillment or completion."  It can't refer to salvation by works (cf. Rom. 3:21-24; Eph. 2:8-9), but it does refer to the believer's responsibility for active pursuit of obedience in the process of sanctification (see notes on 3:13,14; Rom 6:19; cf. 1Cor. 9:24-27; 15:58; 2Cor. 7:1; Gal. 6:7-9; Eph 4:1; Col. 3:1-17; Heb. 6:10, 11; 12:1,2; 2Pet. 1:5-11)  
 **fear and trembling**. The attitude with which Christians are to pursue their sanctification.  It involves a healthy fear of offending God and a rightous awe and respect for Him (cf. Prov. 1:7; 9:10; Is. 66:1,2).  
 <br />
 [William MacDonald] [魂的救恩]  
