@@ -3,8 +3,8 @@ title: If 若
 description:
 toc: true
 authors: Amy Carmichael
-date: 2021-05-27T11:19:36-05:00
-lastmod: 2021-07-24T11:19:36-05:00
+date: 2021-05-27
+lastmod: 2021-07-24
 draft: false
 weight: 1
 ---
