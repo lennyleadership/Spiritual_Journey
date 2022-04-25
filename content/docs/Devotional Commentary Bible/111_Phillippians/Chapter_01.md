@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-23"
 series: [圣经]
 tags: 
-title: 111 腓立比书 第一章
+title: 1 第一章
 toc: true
 ---
 

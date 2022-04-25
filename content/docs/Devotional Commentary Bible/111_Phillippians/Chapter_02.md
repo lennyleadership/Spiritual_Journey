@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-23"
 series: [圣经]
 tags: [竭力, 恐惧战兢, 魂的救恩]
-title: 111 腓立比书 第二章
+title: 2 第二章
 toc: true
 ---
 
@@ -70,6 +70,7 @@ I. He exhorts them to diligence and seriousness in the Christian course: **Work 
 <br />
 II. He urges this from the consideration of their readiness always to obey the gospel: “As you have always obeyed, not as in my presence only, but now much more in my absence, Php 2:12. You have been always willing to comply with every discovery of the will of God; and that in my absence as well as presence. You make it to appear that regard to Christ, and care of your souls, sway more with you than any mode of showing respect whatsoever.” They were not merely awed by the apostle's presence, but did it even much more in his absence. “And because it is God who worketh in you, do you work out your salvation. Work, for he worketh.” It should encourage us to do our utmost, because our labour shall not be in vain. God is ready to concur with his grace, and assist our faithful endeavours. Observe, Though we must use our utmost endeavours in working out our salvation, yet still we must go forth, and go on, in a dependence upon the grace of God. His grace works in us in a way suitable to our natures, and in concurrence with our endeavours; and the operations of God's grace in us are so far from excusing, that they are intended to quicken and engage our endeavours. “And work out our salvation with fear and trembling, for he worketh in you.” All our working depends upon his working in us. “Do not trifle with God by neglects and delays, lest you provoke him to withdraw his help, and all your endeavours prove in vain. Work with fear, for he works of his good pleasure.” - To will and to do: he gives the whole ability. It is the grace of God which inclines the will to that which is good: and then enables us to perform it, and to act according to our principles. Thou hast wrought all our works in us, Isa 26:12. Of his good pleasure. As there is no strength in us, so there is no merit in us. As we cannot act without God's grace, so we cannot claim it, nor pretend to deserve it. God's good will to us is the cause of his good work in us; and he is under no engagements to his creatures, but those of his gracious promise.  
 <br />  
+
 [William MacDonald's Commentary]  
 Having set forth the example of Christ in such brilliant luster, the apostle is now ready to press home the exhortation based on it.  
 The Philippians had always obeyed Paul when he was present with them. Now much more in his absence, they should work out their own salvation with fear and trembling.  

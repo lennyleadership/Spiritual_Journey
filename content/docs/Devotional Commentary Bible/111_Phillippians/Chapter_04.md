@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-23"
 series: [圣经]
 tags: 
-title: 111 腓立比书 第四章
+title: 4 第四章
 toc: true
 ---
 
