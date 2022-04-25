@@ -28,7 +28,7 @@ toc: true
 2:11 无不口称耶稣基督为主、使荣耀归与父　神。  
 2:12 这样看来、我亲爱的弟兄、你们既是常顺服的、不但我在你们那里、就是我如今不在你们那里、更是顺服的、就当<mark>恐惧战兢</mark>、作成你们得救的工夫 [^1]。    
 2:13 因为你们立志行事、都是　神在你们心里运行、为要成就他的美意。  
-2:14 凡所行的、都不要发怨言、起争论、
+2:14 凡所行的、都不要发怨言、起争论、   
 2:15 使你们无可指摘、诚实无伪、在这弯曲悖谬的世代、作　神无瑕疵的儿女。你们显在这世代中、好像明光照耀、  
 
 2:16 将生命的道表明出来、叫我在基督的日子、好夸我没有空跑、也没有徒劳。  
@@ -53,7 +53,7 @@ toc: true
 
 [^1]: [腓二12]   
 [恐惧战兢] [诗篇九十7 和合本] 我们因你的怒气而消灭，因你的忿怒而惊惶。  
-[竭力] [提后二4] 凡在军中当兵的、不将世务缠身、好叫那招他当兵的人喜悦。  
+[竭力] [提后二4 和合本] 凡在军中当兵的、不将世务缠身、好叫那招他当兵的人喜悦。  
 <br />  
 [**John MacArthur**]  
 **work out your own salvation** The Gr. verb rendered "work out" means "to continually work to bring something to fulfillment or completion."  It can't refer to salvation by works (cf. Rom. 3:21-24; Eph. 2:8-9), but it does refer to the believer's responsibility for active pursuit of obedience in the process of sanctification (see notes on 3:13,14; Rom 6:19; cf. 1Cor. 9:24-27; 15:58; 2Cor. 7:1; Gal. 6:7-9; Eph 4:1; Col. 3:1-17; Heb. 6:10, 11; 12:1,2; 2Pet. 1:5-11)  
