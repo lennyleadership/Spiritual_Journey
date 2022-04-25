@@ -56,7 +56,7 @@ toc: true
 [竭力] [提后二4] 凡在军中当兵的、不将世务缠身、好叫那招他当兵的人喜悦。  
 <br />  
 [**John MacArthur**]  
-**work out your own salvation*--The Gr. verb rendered "work out" means "to continually work to bring something to fulfillment or completion."  It can't refer to salvation by works (cf. Rom. 3:21-24; Eph. 2:8-9), but it does refer to the believer's responsibility for active pursuit of obedience in the process of sanctification (see notes on 3:13,14; Rom 6:19; cf. 1Cor. 9:24-27; 15:58; 2Cor. 7:1; Gal. 6:7-9; Eph 4:1; Col. 3:1-17; Heb. 6:10, 11; 12:1,2; 2Pet. 1:5-11)  
+**work out your own salvation** The Gr. verb rendered "work out" means "to continually work to bring something to fulfillment or completion."  It can't refer to salvation by works (cf. Rom. 3:21-24; Eph. 2:8-9), but it does refer to the believer's responsibility for active pursuit of obedience in the process of sanctification (see notes on 3:13,14; Rom 6:19; cf. 1Cor. 9:24-27; 15:58; 2Cor. 7:1; Gal. 6:7-9; Eph 4:1; Col. 3:1-17; Heb. 6:10, 11; 12:1,2; 2Pet. 1:5-11)  
 **fear and trembling**. The attitude with which Christians are to pursue their sanctification.  It involves a healthy fear of offending God and a rightous awe and respect for Him (cf. Prov. 1:7; 9:10; Is. 66:1,2).  
 <br />  
 [**Matthew Henry's Commentary**] [魂的救恩]  
