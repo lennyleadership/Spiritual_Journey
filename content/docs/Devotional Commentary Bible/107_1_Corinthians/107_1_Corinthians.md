@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-19"
 series: null
 tags: null
-title: 107 哥林多前书
+title: 0 哥林多前书
 toc: true
 ---
 
