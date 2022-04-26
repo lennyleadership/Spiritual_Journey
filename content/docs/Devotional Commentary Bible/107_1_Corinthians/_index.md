@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-26"
 series: [圣经]
 tags: 
-title: 107 1 Corinthians
+title: 107 哥林多前书
 toc: true
 ---
 

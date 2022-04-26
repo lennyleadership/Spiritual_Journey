@@ -26,7 +26,7 @@ toc: true
 1:10 弟兄们、我借我们主耶稣基督的名、劝你们都说一样的话。  你们中间也不可分党。  只要一心一意彼此相合。  
 
 1:11 因为革来氏家里的人、曾对我提起弟兄们来、说你们中间有分争。  
-1:12 我的意思就是你们各人说、我是属保罗的。  我是属亚波罗的。  我是属矶法的。  我是属基督的。  
+1:12 我的意思就是你们各人说、我是属保罗的。我是属亚波罗的。我是属矶法的。我是属基督的。  
 1:13 基督是分开的么。  保罗为你们钉了十字架么。  你们是奉保罗的名受了洗么。  
 1:14 我感谢　神、除了基利司布并该犹以外、我没有给你们一个人施洗。  
 1:15 免得有人说、你们是奉我的名受洗。  
@@ -37,14 +37,14 @@ toc: true
 1:19 就如经上所记、『我要灭绝智慧人的智慧、废弃聪明人的聪明。』
 1:20 智慧人在那里。文士在那里。这世上的辩士在那里。　神岂不是叫这世上的智慧变成愚拙么。  
 
-1:21 世人凭自己的智慧、既不认识　神、　神就乐意用人所当作愚拙的道理、拯救那些信的人。  这就是　神的智慧了。  
+1:21 世人凭自己的智慧、既不认识　神、　神就乐意用人所当作愚拙的道理、拯救那些信的人。这就是　神的智慧了。  
 1:22 犹太人是要神迹、希利尼人是求智慧。  
 1:23 我们却是传钉十字架的基督、在犹太人为绊脚石、在外邦人为愚拙、
 1:24 但在那蒙召的、无论是犹太人、希利尼人、基督总为　神的能力、　神的智慧。  
-1:25 因　神的愚拙总比人智慧。  　神的软弱总比人强壮。  
+1:25 因　神的愚拙总比人智慧。　神的软弱总比人强壮。  
 
 1:26 弟兄们哪、可见你们蒙召的、按着肉体有智慧的不多、有能力的不多、有尊贵的也不多。  
-1:27 　神却拣选了世上愚拙的、叫有智慧的羞愧。  又拣选了世上软弱的、叫那强壮的羞愧。  
+1:27 　神却拣选了世上愚拙的、叫有智慧的羞愧。又拣选了世上软弱的、叫那强壮的羞愧。  
 1:28 　神也拣选了世上卑贱的、被人厌恶的、以及那无有的、为要废掉那有的。  
 1:29 使一切有血气的、在　神面前一个也不能自夸。  
 1:30 但你们得在基督耶稣里、是本乎　神、　神又使他成为我们的智慧、公义、圣洁、救赎。  
@@ -53,3 +53,6 @@ toc: true
 
 [^1]: [2022年04月22日 域多利华人宣道会：同心出发 01-04 刘志雄](https://youtube.com/playlist?list=PLqXK4CXm6Oq-lQwJliAK_nmIgFcQIs7Kx)   
 [^2]: <iframe width="360" height="200" src="https://www.youtube.com/embed/1bIQeiRGR88?list=PLqXK4CXm6Oq-lQwJliAK_nmIgFcQIs7Kx" title="2022年04月22日 域多利华人宣道会：同心出发 01 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="360" height="200" src="https://www.youtube.com/embed/IDZNT2VnrB8?list=PLqXK4CXm6Oq-lQwJliAK_nmIgFcQIs7Kx" title="2022年04月22日 域多利华人宣道会：同心出发 02 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="200" src="https://www.youtube.com/embed/0y_8k3MObiY?list=PLqXK4CXm6Oq-lQwJliAK_nmIgFcQIs7Kx" title="2022年04月22日 域多利华人宣道会：同心出发 03 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="200" src="https://www.youtube.com/embed/c2fO5o4tIvw?list=PLqXK4CXm6Oq-lQwJliAK_nmIgFcQIs7Kx" title="2022年04月22日 域多利华人宣道会：同心出发 04 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
