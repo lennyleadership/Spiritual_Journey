@@ -49,7 +49,7 @@ toc: true
 1:29 使一切有血气的、在　神面前一个也不能自夸。  
 1:30 但你们得在基督耶稣里、是本乎　神、　神又使他成为我们的智慧、公义、圣洁、救赎。  
 
-1:31 如经上所记、『夸口的当指着主夸口[^1][^,] [^2][^,] [^3], [^4], [^5] 。』
+1:31 如经上所记、『夸口的当指着主夸口[^1,][^2][^3][^4][^5] 。』
 
 [^1]: [2022年04月22日 域多利华人宣道会：同心出发 01-04 刘志雄](https://youtube.com/playlist?list=PLqXK4CXm6Oq-lQwJliAK_nmIgFcQIs7Kx)   
 [^2]: <iframe width="360" height="200" src="https://www.youtube.com/embed/1bIQeiRGR88?list=PLqXK4CXm6Oq-lQwJliAK_nmIgFcQIs7Kx" title="2022年04月22日 域多利华人宣道会：同心出发 01 刘志雄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
