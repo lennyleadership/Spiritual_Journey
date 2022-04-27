@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-26"
 series: [圣经]
 tags: [My Utmost for His Highest, Faith]
-title: 01 第一章
+title: 22 第二十二章
 toc: true
 ---
 创世纪
