@@ -53,14 +53,18 @@ toc: true
 
 [^1]: [腓二12]   
 [应当战兢] [诗篇九十7 和合本] 我们因你的怒气而消灭，因你的忿怒而惊惶。  
+[‪Psalm s‬90:7 NKJV] For we have been consumed by Your anger, And by Your wrath we are terrified.
 <br />  
 [战兢] [林前二3 和合本] 我在你们那里、又软弱、又惧怕、又甚<mark>战兢</mark>。  
+‪[1 Corinthians‬2:3 NKJV] I was with you in weakness, in fear, and in much trembling.
 <br />  
-[战兢] [传道书五1 和合本] 所罗门说，“你到神的殿，要<mark>谨慎脚步</mark>；因为近前听，胜过愚昧人献祭，他们本不知道所作的是恶。”  
+[战兢] [传道书五1 和合本] 所罗门说，“你到神的殿，要<mark>谨慎脚步</mark>；因为近前听，胜过愚昧人献祭，他们本不知道所作的是恶。”   
+[‪Ecclesiastes‬5:1 NKJV] Walk prudently when you go to the house of God; and draw near to hear rather than to give the sacrifice of fools, for they do not know that they do evil.  
 <br />  
 [应当战兢] “徒具形式，而没有敬虔的实意，不是出于心灵和诚实的敬拜”是枉然的。犹大书11节，主的兄弟犹大说，“他们有祸了！因为走了该隐的道路。”“他们”指的是徒有敬虔外貌，而违背敬虔实意的假教师。
 <br />  
 [竭力] [提后二4 和合本] 凡在军中当兵的、不将世务缠身、好叫那招他当兵的人喜悦。  
+‪[2 Timothy‬2:4 NKJV]  No one engaged in warfare entangles himself with the affairs of this life, that he may please him who enlisted him as a soldier.  
 <br />  
 [**William MacDonald's Commentary**]  
 Having set forth the example of Christ in such brilliant luster, the apostle is now ready to press home the exhortation based on it.  

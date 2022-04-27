@@ -46,6 +46,7 @@ toc: true
 4:26 塞特也生了一个儿子、起名叫以挪士。  那时候人才求告耶和华的名。  
 
 [^1]:  [希伯来书十一4] 亚伯因着信献祭与神，比该隐所献的更美，因此便得了称义的见证。  
+[‪Hebrews‬11:4 NKJV]  By faith Abel offered to God a more excellent sacrifice than Cain, through which he obtained witness that he was righteous, God testifying of his gifts; and through it he being dead still speaks.
 <br />  
 该隐先献，但是他并不认真，他随便拿地里的一些出产来献。  
 箴言3章9-10节，所罗门说，“你要以财物和一切初熟的土产尊荣耶和华。这样，你的仓房必充满有余；你的酒醡有新酒盈溢。”  
