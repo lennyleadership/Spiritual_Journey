@@ -3,14 +3,14 @@ authors: Lenny
 categories: null
 date: "2022-04-19"
 description: 
-draft: false
+draft: true
 lastmod: "2022-04-26"
 series: [圣经]
 tags: 
 title: 0 创世纪
 toc: true
 ---
-## 创世纪
+创世纪
 <!--more-->
 
 ## 创世纪 1章    
