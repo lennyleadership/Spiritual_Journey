@@ -52,7 +52,7 @@ toc: true
 
 
 [^1]: [腓二12]   
-[应当战兢] [诗篇九十7 和合本] 我们因你的怒气而消灭，因你的忿怒而惊惶。  
+[应当战兢][神的怒气] [诗篇九十7 和合本] 我们因你的怒气而消灭，因你的忿怒而惊惶。  
 [‪Psalm s‬90:7 NKJV] For we have been consumed by Your anger, And by Your wrath we are terrified.
 <br />  
 [战兢] [林前二3 和合本] 我在你们那里、又软弱、又惧怕、又甚<mark>战兢</mark>。  
@@ -62,6 +62,10 @@ toc: true
 [‪Ecclesiastes‬5:1 NKJV] Walk prudently when you go to the house of God; and draw near to hear rather than to give the sacrifice of fools, for they do not know that they do evil.  
 <br />  
 [应当战兢] “徒具形式，而没有敬虔的实意，不是出于心灵和诚实的敬拜”是枉然的。犹大书11节，主的兄弟犹大说，“他们有祸了！因为走了该隐的道路。”“他们”指的是徒有敬虔外貌，而违背敬虔实意的假教师。
+<br />  
+[神的怒气][敬畏]  (诗篇90:11 和合本)谁晓得你怒气的权势？谁按着你该受的敬畏晓得你的忿怒呢？  
+(Psalms90:11 NKJV) Who knows the power of Your anger? For as the fear of You, so is Your wrath.  
+(Psa 90:11 ESV) Who considers the power of your anger, and your wrath according to the fear of you?  
 <br />  
 [竭力] [提后二4 和合本] 凡在军中当兵的、不将世务缠身、好叫那招他当兵的人喜悦。  
 ‪[2 Timothy‬2:4 NKJV]  No one engaged in warfare entangles himself with the affairs of this life, that he may please him who enlisted him as a soldier.  
