@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-03-28"
 series: null
-tags: null
+tags: [Prayer]
 title: 求力量与坚韧
 toc: true
 ---
