@@ -7,7 +7,7 @@ draft: true
 lastmod: "2022-04-26"
 series: [圣经]
 tags: 
-title: 0 提摩太后书
+title: 00 提摩太后书
 toc: true
 ---
 
