@@ -13,8 +13,8 @@ toc: true
 哈巴谷书
 <!--more-->
 
-2:1 我要站在守望所、立在望楼上观看、看耶和华对我说甚么话、我可用甚么话向他诉冤。〔向他诉冤或作回答所疑问的〕
-2:2 他对我说、将这默示明明的写在版上、使读的人容易读。〔或作随跑随读〕
+2:1 我要站在守望所、立在望楼上观看、看耶和华对我说甚么话、我可用甚么话向他诉冤。〔向他诉冤或作回答所疑问的〕  
+2:2 他对我说、将这默示明明的写在版上、使读的人容易读。〔或作随跑随读〕  
 2:3 因为这默示有一定的日期、快要应验、并不虚谎。虽然迟延、还要等候。因为必然临到、不再迟延。[^1]  
 2:4 迦勒底人自高自大、心不正直。惟义人因信得生。  
 2:5 迦勒底人因酒诡诈、狂傲、不住在家中、扩充心欲好像阴间。他如死不能知足、聚集万国、堆积万民、都归自己。  
@@ -39,10 +39,8 @@ toc: true
 
 [^1]: The Relaxation Spiritually  
 Though it tarry, wait for it. Habakkuk 2:3  
+Beware of the danger of relaxation spiritually.  “What shall I render unto the LORD?” said the Psalmist, “I will take the cup of salvation.” We are apt to look for satisfaction in ourselves—“Now I have got the thing; now I am entirely sanctified; now I can endure.” Instantly we are on the road to ruin. Our reach must exceed our grasp. “Not as though I had already attained, either were already perfect.”   
 The vision of God is the source of patience, because it imparts a moral inspiration. A man with the vision of God is not devoted to a cause or to any particular issue; he is devoted to God Himself. You always know when the vision is of God because of the inspiration that comes with it.  
-The power to endure is there because you see God.  
 If we have only what we have experienced, we have nothing; if we have the inspiration of the vision of God, we have more than we can experience.  
-Beware of the danger of relaxation spiritually.  “What shall I render unto the LORD?” said the Psalmist, “I will take the cup of salvation.” We are apt to look for satisfaction in ourselves—“Now I have got the thing; now I am entirely sanctified; now I can endure.” Instantly we are on the road to ruin. Our reach must exceed our grasp. “Not as though I had already attained, either were already perfect.” 
-
 Chambers, Oswald. My Utmost for His Highest, Classic Edition (p. 151). Discovery House. Kindle Edition. 
 
