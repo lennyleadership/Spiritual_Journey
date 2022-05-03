@@ -7,7 +7,7 @@ draft: true
 lastmod: "2022-05-02"
 series: [圣经]
 tags: 
-title: 0 哈巴谷书
+title: 哈巴谷书
 toc: true
 ---
 
