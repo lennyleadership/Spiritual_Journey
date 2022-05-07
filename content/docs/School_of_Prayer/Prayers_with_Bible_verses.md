@@ -1,6 +1,6 @@
 ---
 authors: Lenny Lin
-categories: null
+categories: [test]
 date: "2022-03-28"
 description: 
 draft: false
