@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-04-30"
 series: [圣经]
-tags: []
+tags: [旷野吗哪, 律法]
 title: 05 第五章
 toc: true
 ---
