@@ -35,7 +35,7 @@ And let the beauty of the LORD our God be upon us, And establish the work of our
 你们要休息，要知道我是　神！我必在外邦中被尊崇，在遍地上也被尊崇。(诗篇 46:10 和合本)   
 Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth!(Psalms 46:10 NKJV)   
 
-**My prayer**: Ask God to give XXX a good sleep/rest, like a little child lieing still in God's arms, and knowing that you are God.  
+**My prayer**: Ask God to give XXX a good sleep/rest, like a little child lieing still in God's arms, and knowing that you are God.  He will sustain you and bring you through.  
 
 It is so when we are tempted to faint under affliction. God’s message to us is not, “Be strong and of good courage,” for He knows our strength and courage have fled away. But it is that sweet word, “Be still, and know that I am God.”   
 
