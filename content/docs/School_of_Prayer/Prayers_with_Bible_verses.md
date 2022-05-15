@@ -15,9 +15,26 @@ toc: true
 
 ## Worship God
 [used for an opening prayer]  
+
 ‪(Psalms‬90:16 NKJV) Let Your work appear to Your servants, And Your glory to their children.
 
 **My prayer**: May your work appear to us, may your glory appear to us.
+
+(Micah‬7:18-20 NKJ)V
+
+18 Who is a God like You,  
+Pardoning iniquity  
+And passing over the transgression of the remnant of His heritage?  
+He does not retain His anger forever,  
+Because He delights in mercy.  
+19 He will again have compassion on us,  
+And will subdue our iniquities.  
+You will cast all our sins  
+Into the depths of the sea.  
+20 You will give truth to Jacob  
+And mercy to Abraham,   
+Which You have sworn to our fathers  
+From days of old.  
 
 ## Walk in the way of goodness
 智慧必使你行善人的道，守义人的路。(箴言2:20 和合本)  
