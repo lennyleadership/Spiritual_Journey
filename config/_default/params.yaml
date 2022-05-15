@@ -43,7 +43,7 @@ math:
 
 comment:
   # Options: disqus and commento.
-  platform: disqus
+  handler: disqus
   disqus:
     shortname: <lennyl>
   commento:

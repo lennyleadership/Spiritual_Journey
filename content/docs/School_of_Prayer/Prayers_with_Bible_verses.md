@@ -36,6 +36,8 @@ And mercy to Abraham,
 Which You have sworn to our fathers  
 From days of old.  
 
+**My Prayer**:  There is no other God who pardons our sin, does not retain your anger forever, and delights in mercy.  
+
 ## Walk in the way of goodness
 智慧必使你行善人的道，守义人的路。(箴言2:20 和合本)  
 So you may walk in the way of goodness, And keep to the paths of righteousness.(Proverbs2:20 NKJV)  
