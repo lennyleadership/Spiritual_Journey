@@ -17,46 +17,49 @@ toc: true
 
 \[used for an opening prayer\]
 
-‪(Psalms‬90:16 NKJV) Let Your work appear to Your servants, And Your glory to their children.
+> ‪(Psalms‬90:16 NKJV) Let Your work appear to Your servants, And Your glory to their children.
 
 **My prayer**: May your work appear to us, may your glory appear to us.
 
-(Micah‬7:18-20 NKJ)V
-
-18 Who is a God like You,  
-Pardoning iniquity  
-And passing over the transgression of the remnant of His heritage?  
-He does not retain His anger forever,  
-Because He delights in mercy.  
-19 He will again have compassion on us,  
-And will subdue our iniquities.  
-You will cast all our sins  
-Into the depths of the sea.  
-20 You will give truth to Jacob  
-And mercy to Abraham,  
-Which You have sworn to our fathers  
-From days of old.
+>(Micah‬7:18-20 NKJ)V
+>18 Who is a God like You,  
+>Pardoning iniquity  
+>And passing over the transgression of the remnant of His heritage?  
+>He does not retain His anger forever,  
+>Because He delights in mercy.  
+>19 He will again have compassion on us,  
+>And will subdue our iniquities.  
+>You will cast all our sins  
+>Into the depths of the sea.  
+>20 You will give truth to Jacob  
+>And mercy to Abraham,  
+>Which You have sworn to our fathers  
+>From days of old.
 
 **My Prayer**: There is no other God who pardons our sin, does not retain your anger forever, and delights in mercy.
 
-## Walk in the way of goodness
+## Guidance and Protection
 
-智慧必使你行善人的道，守义人的路。(箴言2:20 和合本)  
-So you may walk in the way of goodness, And keep to the paths of righteousness.(Proverbs2:20 NKJV)
+>智慧必使你行善人的道，守义人的路。(箴言2:20 和合本)  
+>So you may walk in the way of goodness, And keep to the paths of righteousness.(Proverbs2:20 NKJV)
 
 **My prayer**: Pray that God help me walk in the way of goodness, keep me to the paths of righteousness.
 
+
+>因他要为你吩咐他的使者，在你行的一切道路上保护你。(诗篇 91:11 和合本)   
+>For He shall give His angels charge over you, To keep you in all your ways.(Psalms 91:11 NKJV) 
+
 ## Ask God to bless our work
 
-愿主－我们　神的荣美归于我们身上。愿你坚立我们手所做的工；我们手所做的工，愿你坚立。(诗篇90:17 和合本)  
-And let the beauty of the LORD our God be upon us, And establish the work of our hands for us; Yes, establish the work of our hands.(Psalms90:17 NKJV)
+>愿主－我们　神的荣美归于我们身上。愿你坚立我们手所做的工；我们手所做的工，愿你坚立。(诗篇90:17 和合本)  
+>And let the beauty of the LORD our God be upon us, And establish the work of our hands for us; Yes, establish the work of our hands.(Psalms90:17 NKJV)
 
 **My prayer**: Pray that Your beauty lives in us (may Your beauty lives in us), pray that you establish our work for us.
 
 ## Pray for a person who is in sick
 
-你们要休息，要知道我是　神！我必在外邦中被尊崇，在遍地上也被尊崇。(诗篇 46:10 和合本)  
-Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth!(Psalms 46:10 NKJV)
+>你们要休息，要知道我是　神！我必在外邦中被尊崇，在遍地上也被尊崇。(诗篇 46:10 和合本)  
+>Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth!(Psalms 46:10 NKJV)
 
 **My prayer**: Ask God to give XXX a good sleep/rest, like a little child lieing still in God's arms, and knowing that you are God. He will sustain you and bring you through.
 
