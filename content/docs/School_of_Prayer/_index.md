@@ -7,8 +7,7 @@ description:
 draft: false
 lastmod: "2022-03-28"
 series: null
-tags:
-- Devotions
+tags: [Prayer]
 title: School of Prayer
 toc: true
 ---
