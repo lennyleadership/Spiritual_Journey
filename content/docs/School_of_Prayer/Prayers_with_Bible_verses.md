@@ -1,7 +1,7 @@
 ---
 authors: Lenny Lin
 categories: [test]
-date:
+date: ""
 description: 
 draft: false
 lastmod: "2022-05-16"
