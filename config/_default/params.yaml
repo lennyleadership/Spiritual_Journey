@@ -46,6 +46,7 @@ comment:
   handler: disqus
   disqus:
     shortname: <lennyl>
+  
   commento:
     # If self-hosting, please enter the url (e.g. https://commento.example.com) here. Otherwise leave empty.
     url: ''
