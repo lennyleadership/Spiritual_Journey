@@ -19,9 +19,6 @@ hasCJKLanguage: true # Set `true` for Chinese/Japanese/Korean.
 
 defaultContentLanguageInSubdir: false
 
-params:
-- ShowDatesOnPosts: false
-
 # Uncomment for google analytics
 # googleAnalytics: UA-123-45
 
