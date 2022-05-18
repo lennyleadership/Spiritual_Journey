@@ -19,8 +19,11 @@ When life is hard, and you think your situation is impossible, choose to believe
 
 # English Transcript
 There’s not a cross so heavy that it outweighs the grace given to carry it. 
+没有一副十字架的分量会比上帝给你的恩典还重！  
 
 I’m not sure who said that, but it has been my motto for years. Hi, I’m Joni Eareckson Tada, and it’s true. Jesus will never give you or me a cross so burdensome, so hard, so heavy, that it outweighs the grace God gives to carry it. And I believe that. ’Cause in this wheelchair, every day I’ve got this incredible chance to prove it. Especially as I get older. Age only makes my disability harder and heavier to bear. And when that happens, first thing in the morning when I sit up in my wheelchair; when I sit there, you know, kind of like assessing things – my stiffness; my soreness; my goodness, there’s some new pain in my shoulder – when that happens, I remind myself that Christ did not call me to follow him; he called me to die for him.
+上面那句话出自一位无名氏。有好长一段时间我一直把它作为我的座右铭。我对此感同身受！耶稣不会给你一副十字架，是那么的重，是那么的艰辛！在轮椅上，每一天的日子都在证明这一个看法。尤其随着年纪渐长，我的状况越来越糟。早晨的第一件事，就是坐在轮椅上，看看自己的身子是否僵硬，是否哪里酸痛，又或者我的肩膀不对劲。我时常提醒自己，基督不是叫我跟随祂，而是叫我为祂死。
+
 
 For me – and for you, too – the Christian life isn’t something we agree to as though it were a pact between you and Jesus. The Christian life is not a letter of agreement, but now that things are really hard, you’re wondering what you signed up for. No, it’s not a negotiation between you and God. It is not a contract. The Christian life is a death. It is not a “follow me” sort of thing; it is a “death” sort of thing. It is a daily dying to yourself and living for Jesus. So, exactly what did you sign up for? Well, Jesus says in Luke 9:23; he said, “If anyone wants to follow me, let him deny himself, and take up his cross.” And you know what happens on a cross, right?! However painful and unpleasant it is – no matter how difficult your situation – you take up the cross and you say, “I have been crucified with Christ; it is no longer I who lives, but Christ who lives in me. The life I now live in the flesh, I live by faith in the Son of God who loved me and gave himself for me.”
 
@@ -30,7 +33,4 @@ Oh, friend, right there is the way you die to self and live to Christ. As you pr
 
 
 # 中文版讲稿
-没有一副十字架重到你无法背负。上帝会给你够用的恩典！  
-
-上面那句话出自一位无名氏。有好长一段时间我一直把它作为我的座右铭。我对此深有同感！在轮椅上的每一天都在宣告这样的事实：没有什么十字架的苦难是我承受不起的。尤其随着年纪渐长，我的状况越来越糟。当我那天感到
 

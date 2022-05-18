@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Warning 警示 on Faith Blog</title>
+    <link>/docs/warning/</link>
+    <description>Recent content in Warning 警示 on Faith Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Lenny Lin
+</copyright>
+    <lastBuildDate>Sat, 05 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/docs/warning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blank</title>
+      <link>/docs/warning/blank/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/warning/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>以西结的提醒</title>
+      <link>/docs/warning/ezekiel/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/warning/ezekiel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>娱乐化的敬拜</title>
+      <link>/docs/warning/wrong_worship_style/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/warning/wrong_worship_style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>心里早已决定要去埃及</title>
+      <link>/docs/warning/already_determine_my_way/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/warning/already_determine_my_way/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>心骄气傲</title>
+      <link>/docs/warning/self_pride/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/warning/self_pride/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

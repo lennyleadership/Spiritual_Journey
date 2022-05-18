@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prayer on Faith Blog</title>
+    <link>/tags/prayer/</link>
+    <description>Recent content in Prayer on Faith Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Lenny Lin
+</copyright>
+    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/prayer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag Index</title>
+      <link>/docs/tag_collection/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/tag_collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prayers with Bible Verses 经文祷告</title>
+      <link>/docs/school_of_prayer/prayers_with_bible_verses/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/school_of_prayer/prayers_with_bible_verses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School of Prayer</title>
+      <link>/docs/school_of_prayer/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/school_of_prayer/</guid>
+      <description>This book collects thoughts on how to pray and what to pray.</description>
+    </item>
+    
+    <item>
+      <title>求力量与坚韧</title>
+      <link>/docs/school_of_prayer/what_to_pray/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/school_of_prayer/what_to_pray/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

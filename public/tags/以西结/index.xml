@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>以西结 on Faith Blog</title>
+    <link>/tags/%E4%BB%A5%E8%A5%BF%E7%BB%93/</link>
+    <description>Recent content in 以西结 on Faith Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Lenny Lin
+</copyright>
+    <lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%E4%BB%A5%E8%A5%BF%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Faith Grows</title>
+      <link>/posts/how_to_grow_faith/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how_to_grow_faith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>仰赖上帝</title>
+      <link>/posts/dependent_on_god/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dependent_on_god/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>末世的情景</title>
+      <link>/posts/end_time/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/end_time/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breaking the Bread on Faith Blog</title>
+    <link>/docs/break-the-bread/</link>
+    <description>Recent content in Breaking the Bread on Faith Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Lenny Lin
+</copyright>
+    <lastBuildDate>Sat, 05 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/docs/break-the-bread/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I was crucified - the past tense</title>
+      <link>/docs/break-the-bread/i_was_crucified/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/break-the-bread/i_was_crucified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blank</title>
+      <link>/docs/break-the-bread/blank/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/break-the-bread/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesus in Ezekiel</title>
+      <link>/docs/break-the-bread/jesus_in_ezekiel/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/break-the-bread/jesus_in_ezekiel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

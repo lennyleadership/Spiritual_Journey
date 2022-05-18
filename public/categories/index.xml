@@ -6,7 +6,17 @@
     <description>Recent content in Categories on Faith Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2021 Lenny Lin
-</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2022 Lenny Lin
+</copyright>
+    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>/categories/test/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

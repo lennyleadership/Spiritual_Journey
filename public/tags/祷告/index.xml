@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>祷告 on Faith Blog</title>
+    <link>/tags/%E7%A5%B7%E5%91%8A/</link>
+    <description>Recent content in 祷告 on Faith Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Lenny Lin
+</copyright>
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%E7%A5%B7%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag Index</title>
+      <link>/docs/tag_collection/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/tag_collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>104 约翰福音</title>
+      <link>/docs/devotional-commentary-bible/104_john/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/devotional-commentary-bible/104_john/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>106 罗马书</title>
+      <link>/docs/devotional-commentary-bible/106_romans/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/devotional-commentary-bible/106_romans/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
