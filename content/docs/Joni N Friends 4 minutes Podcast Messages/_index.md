@@ -1,13 +1,12 @@
 ---
-authors:
-- Edited by Lenny Lin
+authors: Joni and Friends, Translated by Lenny Lin
 categories: null
 date: "2022-04-08"
 description: 
 draft: false
 lastmod: "2022-04-08"
 series: null
-tags: [Joni Eareckcon Tada]
+tags: [Joni Eareckcon Tada， Joni and Friends]
 title: Joni Eareckson Tada 4 Minutes Podcast Messages
 toc: true
 ---

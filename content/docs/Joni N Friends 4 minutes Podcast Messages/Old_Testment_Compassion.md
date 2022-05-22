@@ -1,7 +1,7 @@
 ---
-authors: Joni and Friends
+authors: Joni and Friends, Translated by Lenny Lin
 categories: null
-date: "2022-04-08"
+date: "2022-03-09"
 description: 
 draft: false
 lastmod: "2022-04-08"

@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-19"
-series: [圣经]
+series: 
 tags: 
 title: 01 路一章
 toc: true

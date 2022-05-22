@@ -1,10 +1,10 @@
 ---
-authors: Joni and Friend, Chinese Translation by Lenny Lin
+authors: Joni and Friend, Translated by Lenny Lin
 categories: null
 date: "2022-04-21"
 description: 
 draft: false
-lastmod: "2022-04-21"
+lastmod: "2022-05-21"
 series: null
 tags: null
 title: The Bush Doesn't Matter  你我都不算什么
