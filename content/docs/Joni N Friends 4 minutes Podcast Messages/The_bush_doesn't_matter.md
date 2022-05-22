@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-05-21"
 series: null
 tags: null
-title: The Bush Doesn't Matter  你我都不算什么
+title: The Bush Doesn't Matter  让上帝使用我们
 toc: true
 ---
 APRIL 21ST, 2022 | 04:00 | E42122  
@@ -20,7 +20,7 @@ We are like Moses’ burning bush, vessels through which the Lord speaks. There 
 <figcaption><b>Figure </b>: Burning Bush</figcaption>
 
 <!--more-->
-<iframe height="200px" width="50%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/fcbb04f8-8236-4dcf-bde8-88ede92709cd?dark=false"></iframe>  
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/fcbb04f8-8236-4dcf-bde8-88ede92709cd?dark=false"></iframe>  
 
 ## Eglish Transcript
 I love the book of Exodus, and let me tell you why.  
