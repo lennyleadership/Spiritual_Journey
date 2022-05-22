@@ -1,12 +1,12 @@
 ---
-authors: 
+authors: Lenny
 categories: null
-date: "2022-02-05"
+date: "2022-04-19"
 description: 
 draft: false
-lastmod: "2022-02-05"
-series: null
-tags: null
+lastmod: "2022-04-26"
+series: [圣经]
+tags: 
 title: 
 toc: true
 ---
