@@ -8,22 +8,31 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 Lenny Lin
 </copyright>
-    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lenny Lin</title>
       <link>/authors/lenny-lin/</link>
-      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/authors/lenny-lin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Joni and Friend, Chinese Translation by Lenny Lin</title>
-      <link>/authors/joni-and-friend-chinese-translation-by-lenny-lin/</link>
+      <title>Joni and Friends, Translated by Lenny Lin</title>
+      <link>/authors/joni-and-friends-translated-by-lenny-lin/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/joni-and-friends-translated-by-lenny-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joni and Friend, Translated by Lenny Lin</title>
+      <link>/authors/joni-and-friend-translated-by-lenny-lin/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/authors/joni-and-friend-chinese-translation-by-lenny-lin/</guid>
+      <guid>/authors/joni-and-friend-translated-by-lenny-lin/</guid>
       <description></description>
     </item>
     
@@ -33,15 +42,6 @@
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/authors/lenny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joni and Friends, Chinese translation by Lenny Lin</title>
-      <link>/authors/joni-and-friends-chinese-translation-by-lenny-lin/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/joni-and-friends-chinese-translation-by-lenny-lin/</guid>
       <description></description>
     </item>
     
@@ -66,18 +66,9 @@
     <item>
       <title>Edited by Lenny Lin</title>
       <link>/authors/edited-by-lenny-lin/</link>
-      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>/authors/edited-by-lenny-lin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joni and Friends</title>
-      <link>/authors/joni-and-friends/</link>
-      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/joni-and-friends/</guid>
       <description></description>
     </item>
     
@@ -105,6 +96,15 @@
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>/authors/manna-in-the-wilderness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conor Neil, Edited by Lenny Lin</title>
+      <link>/authors/conor-neil-edited-by-lenny-lin/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/conor-neil-edited-by-lenny-lin/</guid>
       <description></description>
     </item>
     

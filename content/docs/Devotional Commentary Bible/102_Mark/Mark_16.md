@@ -44,6 +44,10 @@ toc: true
 18 they **will** take up serpents; and if they drink anything deadly, it will by no means hurt them; they **will** lay hands on the sick, and they will recover.”  
 **Believer's Bible** says:  
 We believe that these signs were intended primarily for the apostolic age, before the complete Bible was available in written form. Most of these signs are found in the Book of Acts.  
-What was the purpose of these miracles? We believe the answer is found in Heb_2:3-4. Before the NT was available in completed form, men would ask the apostles and others for proof that the gospel was divine. To confirm the preaching, God bore witness with signs and wonders and various gifts of the Holy Spirit.  
+What was the purpose of these miracles? We believe the answer is found in Heb 2:3-4 [^2]. Before the NT was available in completed form, men would ask the apostles and others for proof that the gospel was divine. To confirm the preaching, God bore witness with signs and wonders and various gifts of the Holy Spirit.  
 The need for these signs is gone today. We have the complete Bible. If men won't believe that, they wouldn't believe anyway. Mark did not say that the miracles would continue. The words “to the end of the age” are not found here as they are in Mat_28:18-20.  
 However, Martin Luther suggested that “the signs here spoken of are to be used according to need. When the need arises, and the Gospel is hard pressed, then we must definitely do these signs, before we allow the Gospel to be maligned and knocked down.”  
+[^2]: ‪Hebrews‬2:2-4 NKJV
+2 For if the word spoken through angels proved steadfast, and every transgression and disobedience received a just reward,   
+3 how shall we escape if we neglect so great a salvation, which at the first began to be spoken by the Lord, and was confirmed to us by those who heard Him,  
+4 God also bearing witness both with signs and wonders, with various miracles, and gifts of the Holy Spirit, according to His own will?  

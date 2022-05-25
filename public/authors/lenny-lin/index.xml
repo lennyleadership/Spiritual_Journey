@@ -8,7 +8,7 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 Lenny Lin
 </copyright>
-    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/authors/lenny-lin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/authors/lenny-lin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tag Index</title>
       <link>/docs/tag_collection/</link>
@@ -16,6 +16,15 @@
       
       <guid>/docs/tag_collection/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Bible Verses Recitation 圣经经文背诵</title>
+      <link>/docs/bible-verses-recitation/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/bible-verses-recitation/</guid>
+      <description>This book collects bible verses I should memorize.</description>
     </item>
     
     <item>
@@ -28,7 +37,7 @@
     </item>
     
     <item>
-      <title>0</title>
+      <title></title>
       <link>/docs/devotional-commentary-bible/0_blank/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
@@ -103,6 +112,33 @@
       
       <guid>/docs/devotional-commentary-bible/033_micah/micah_02/</guid>
       <description>&lt;p&gt;弥迦书&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>026 Ezekiel</title>
+      <link>/docs/devotional-commentary-bible/026_ezekiel/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/devotional-commentary-bible/026_ezekiel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>027 但以理书</title>
+      <link>/docs/devotional-commentary-bible/027_daniel/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/devotional-commentary-bible/027_daniel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>028 何西阿书</title>
+      <link>/docs/devotional-commentary-bible/028_hosea/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/devotional-commentary-bible/028_hosea/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -197,6 +233,24 @@
     </item>
     
     <item>
+      <title>102 马可福音</title>
+      <link>/docs/devotional-commentary-bible/102_mark/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/devotional-commentary-bible/102_mark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>103 路加福音</title>
+      <link>/docs/devotional-commentary-bible/103_luke/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/devotional-commentary-bible/103_luke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>107 哥林多前书</title>
       <link>/docs/devotional-commentary-bible/107_1_corinthians/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
@@ -211,6 +265,15 @@
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/docs/devotional-commentary-bible/108_2_corinthians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>11 但十一章</title>
+      <link>/docs/devotional-commentary-bible/027_daniel/daniel_11/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/devotional-commentary-bible/027_daniel/daniel_11/</guid>
       <description></description>
     </item>
     
