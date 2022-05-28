@@ -1,6 +1,6 @@
 main:
-  - name: Docs
-    url: /notebooks/
+  - name: Notebooks
+    url: /docs/
     weight: 1
   - name: Posts
     url: /posts/
