@@ -75,3 +75,14 @@ blogdown::find_hugo()
 # copy and paste: git config --global user.email "lenny.leadership@hotmail.com"
 # copy and paste: git add -A
 # then 'Commit', and 'push'
+
+
+# Procedure to build a new blog:
+# Create a new repository.
+# Create a new project on the local computer.
+# execute blogdown::new_site(theme = "###/theme name") in console
+# commit to github if error messages are shown when building site.
+# setup at netlify.[refer to https://www.youtube.com/watch?v=9Jqvaoeh1W4&t=1081s]
+# 
+
+# need to update hugo from time to time.
