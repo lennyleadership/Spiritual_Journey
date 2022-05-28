@@ -3,7 +3,7 @@ authors: Lenny
 categories: null
 date: "2022-04-19"
 description: 
-draft: false
+draft: true
 lastmod: "2022-04-23"
 series: [圣经, 默想]
 tags: [圣经, 默想]
@@ -160,4 +160,3 @@ toc: true
 5:13 在巴比伦与你们同蒙拣选的教会问你们安。  我儿子马可也问你们安。  
 5:14 你们要用爱心彼此亲嘴问安。  愿平安归与你们凡在基督里的人。  
 
-[^1]: (1Pe 2:25 KJV)  For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your <mark>souls</mark>.  It mentions souls.
