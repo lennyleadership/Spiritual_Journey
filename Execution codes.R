@@ -90,3 +90,10 @@ blogdown::find_hugo()
 # [Hugo 主题 Eureka 自定义](https://imnerd.org/custom-hugo-theme-eureka.html#%E5%BD%92%E6%A1%A3)
 
 # [Eureka 主题性能优化小结](https://imnerd.org/eureka-theme-performance-optimize.html)
+
+
+#log:
+# 创建 layouts/partials/header.html 文件用来覆盖默认的头部模板。
+# 在 layouts/partials/custom-head.html 中自定义了一些样式。
+# 增加 layouts/_default/search.html, layouts/_default/archive.html
+# 在 layouts/ 下增加 index.json 文件
