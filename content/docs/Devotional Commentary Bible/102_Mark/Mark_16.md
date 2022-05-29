@@ -47,6 +47,18 @@ We believe that these signs were intended primarily for the apostolic age, befor
 What was the purpose of these miracles? We believe the answer is found in Heb 2:3-4 [^2]. Before the NT was available in completed form, men would ask the apostles and others for proof that the gospel was divine. To confirm the preaching, God bore witness with signs and wonders and various gifts of the Holy Spirit.  
 The need for these signs is gone today. We have the complete Bible. If men won't believe that, they wouldn't believe anyway. Mark did not say that the miracles would continue. The words “to the end of the age” are not found here as they are in Mat_28:18-20.  
 However, Martin Luther suggested that “the signs here spoken of are to be used according to need. When the need arises, and the Gospel is hard pressed, then we must definitely do these signs, before we allow the Gospel to be maligned and knocked down.”  
+**弟兄D**与**弟兄L**的交流：  
+弟兄D: 在这个世界里有撒旦，有毒物，有害人的东西，在信的人有神的保守。手按病人这里讲到了不止一个人，所以不是一个人追求。感谢主。他是牧者，我们是他的羊。  
+父亲爱孩子，在不同的阶段用不同的方式表达，小的时候可以给糖吃，但是不会一直给糖。圣经里面的神迹是为了让我们看其所代表的，而不只是看其表面。  
+盼望人不停留在追求神迹的阶段。  
+弟兄L: 哦，你的看法是“行神迹”是有时效性的。在信徒早期的经历里会发生。  
+弟兄D: 现在也仍然会有, 是神的供应和保守, 但有些神迹只是在特别的情况下，看怎么定义神迹？  
+弟兄L: 我想：要是神迹能引那人走向耶稣，那是耶稣想看到的。否则，要是单单满足那人的需要，可能求也求不到，或者没有下一次了。  
+我认同这个观点：最大的神迹是人生命的改变。人人都当追求这个。  
+弟兄D: 阿们
+弟兄L: 我是否可以说：神迹是神的恩典中的一种。虽然神迹是神通过信徒这个管道行出来的，但追求“行神迹的能力”是不可取的。
+弟兄D: 感谢主，这是属灵的看见。  
+不管是miracle还是sign，这是神的一个表号，为了要彰显他自己。满有恩慈是神的神性。圣灵凭己意行万事。  
 [^2]: ‪Hebrews‬2:2-4 NKJV
 2 For if the word spoken through angels proved steadfast, and every transgression and disobedience received a just reward,   
 3 how shall we escape if we neglect so great a salvation, which at the first began to be spoken by the Lord, and was confirmed to us by those who heard Him,  
