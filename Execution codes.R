@@ -77,7 +77,7 @@ blogdown::find_hugo()
 # then 'Commit', and 'push'
 
 
-# Procedure to build a new blog:
+# Procedure to build a new blog ----
 # Create a new repository.
 # Create a new project on the local computer.
 # execute blogdown::new_site(theme = "###/theme name") in console
@@ -86,3 +86,5 @@ blogdown::find_hugo()
 # 
 
 # need to update hugo from time to time.
+
+[Hugo 主题 Eureka 自定义](https://imnerd.org/custom-hugo-theme-eureka.html#%E5%BD%92%E6%A1%A3)
