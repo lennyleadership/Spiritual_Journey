@@ -87,4 +87,6 @@ blogdown::find_hugo()
 
 # need to update hugo from time to time.
 
-[Hugo 主题 Eureka 自定义](https://imnerd.org/custom-hugo-theme-eureka.html#%E5%BD%92%E6%A1%A3)
+# [Hugo 主题 Eureka 自定义](https://imnerd.org/custom-hugo-theme-eureka.html#%E5%BD%92%E6%A1%A3)
+
+# [Eureka 主题性能优化小结](https://imnerd.org/eureka-theme-performance-optimize.html)
