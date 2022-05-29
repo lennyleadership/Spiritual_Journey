@@ -9,6 +9,7 @@ series: [圣经]
 tags: 
 title: 16 可十六章
 toc: true
+ enableComment: true 
 ---
 马可福音
 <!--more-->
