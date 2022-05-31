@@ -58,17 +58,7 @@ toc: true
 3:36 信子的人有永生。不信子的人得不着永生、〔原文作不得见永生〕神的震怒常在他身上。  
 
 
-[^1]: I read a Spurgeon's devotional message today:  
-“The conies are but a feeble folk, yet make they their houses in the rocks.” — Proverbs 30:26   
-Conscious of their own natural defenselessness, the conies resort to burrows in the rocks, and are secure from their enemies.  
-Thou art as weak and as exposed to peril as the timid cony, be as wise to seek a shelter.  My best security is within the munitions of an immutable Jehovah, where His unalterable promises stand like giant walls of rock.  
-This message helps me understand John 3:16.
-(KJV)  
-For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.  
-I now understand a bit more about what "believeth in him" means.  why not say "believeth him".  
-"in" means: human beings are no different from conies, we once are under control of sin, therefore we suffered from consequences of it.  What shall we do?  To find a shelter and hide ourselves in it.  Jesus is such the shelter.  We submit ourselves to him, we experienced peace, love from him, therefore we trust him, therefore in Him, we believe Him.  
-[MORNING & EVENING NOV 20th](https://www.monergism.com/thethreshold/sdg/spurgeon/CHS_Morning_and_Evening_Daily_Readings.PDF)  
-[^2]: 2022年5月31日活泉小简  
+[^1]: 2022年5月31日活泉小简  
 住在磐石中   
 「沙番是软弱之类，却在磐石中造房。 (箴三十 26)   
 沙番知道自己肉体的软弱，只好躲在岩石中的洞穴，躲避敌人以保安全。我的心哪，愿你从这些软弱之类来学习功课。你像胆怯的沙番一般软弱。生命充满危险，因此要学它们聪明地寻找庇护处。我的安全是在永不改变之耶和华的坚垒里，在其内，祂的应许坚立如磐石巨壁。沙番不会建造城堡，可是它们利用现有的磐石，我不能为自己建造避难所，可是耶稣已为我供应。   
@@ -78,6 +68,16 @@ I now understand a bit more about what "believeth in him" means.  why not say "b
 和合本只翻“信他”，NIV版本是"believes in him"。为什么不是"believes him"?  
 我们岂不像“沙番”吗？我们一生中满了痛苦、患难；被罪辖制，苦不堪言。因此需要在耶稣那里避难、求保护。  
 "in" 的意思是：在耶稣那里，我们经历了平安，经历了保护，所以我们信靠祂。我把我自己放在上帝的手中，相信祂必看顾我！   
+[^2]: I read a Spurgeon's devotional message today:  
+“The conies are but a feeble folk, yet make they their houses in the rocks.” — Proverbs 30:26   
+Conscious of their own natural defenselessness, the conies resort to burrows in the rocks, and are secure from their enemies.  
+Thou art as weak and as exposed to peril as the timid cony, be as wise to seek a shelter.  My best security is within the munitions of an immutable Jehovah, where His unalterable promises stand like giant walls of rock.  
+This message helps me understand John 3:16.
+(KJV)  
+For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.  
+I now understand a bit more about what "believeth in him" means.  why not say "believeth him".  
+"in" means: human beings are no different from conies, we once are under control of sin, therefore we suffered from consequences of it.  What shall we do?  To find a shelter and hide ourselves in it.  Jesus is such the shelter.  We submit ourselves to him, we experienced peace, love from him, therefore we trust him, therefore in Him, we believe Him.  
+[MORNING & EVENING NOV 20th](https://www.monergism.com/thethreshold/sdg/spurgeon/CHS_Morning_and_Evening_Daily_Readings.PDF)  
 [^3]: ‪Psalms‬143:8 KJV 
 Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.  
 [^4]: Brother J: That is so true. Only in humility will we turn from our own designs and strength and find shelter in him. And only be being in him allows us to share in his death and resurrection.   
