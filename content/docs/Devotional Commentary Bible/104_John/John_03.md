@@ -31,7 +31,7 @@ toc: true
 3:14 摩西在旷野怎样举蛇、人子也必照样被举起来。
 3:15 叫一切信他的都得永生。  〔或作叫一切信的人在他里面得永生〕  
 
-3:16 　神爱世人、甚至将他的独生子赐给他们、叫一切信他的、不至灭亡、反得永生。&nbsp; &nbsp; [^1]  
+3:16 　神爱世人、甚至将他的独生子赐给他们、叫一切信他的、不至灭亡、反得永生。&nbsp; &nbsp; [^1]&nbsp; &nbsp;[^2]&nbsp; &nbsp;[^3]&nbsp; &nbsp;[^4]   
 3:17 因为　神差他的儿子降世、不是要定世人的罪、〔或作审判世人下同〕乃是要叫世人因他得救。  
 3:18 信他的人、不被定罪。不信的人、罪已经定了、因为他不信　神独生子的名。  
 3:19 光来到世间、世人因自己的行为是恶的、不爱光倒爱黑暗、定他们的罪就是在此。  
@@ -68,7 +68,7 @@ For God so loved the world, that he gave his only begotten Son, that whosoever b
 I now understand a bit more about what "believeth in him" means.  why not say "believeth him".  
 "in" means: human beings are no different from conies, we once are under control of sin, therefore we suffered from consequences of it.  What shall we do?  To find a shelter and hide ourselves in it.  Jesus is such the shelter.  We submit ourselves to him, we experienced peace, love from him, therefore we trust him, therefore in Him, we believe Him.  
 [MORNING & EVENING NOV 20th](https://www.monergism.com/thethreshold/sdg/spurgeon/CHS_Morning_and_Evening_Daily_Readings.PDF)  
-2022年5月31日活泉小简  
+[^2]: 2022年5月31日活泉小简  
 住在磐石中   
 「沙番是软弱之类，却在磐石中造房。 (箴三十 26)   
 沙番知道自己肉体的软弱，只好躲在岩石中的洞穴，躲避敌人以保安全。我的心哪，愿你从这些软弱之类来学习功课。你像胆怯的沙番一般软弱。生命充满危险，因此要学它们聪明地寻找庇护处。我的安全是在永不改变之耶和华的坚垒里，在其内，祂的应许坚立如磐石巨壁。沙番不会建造城堡，可是它们利用现有的磐石，我不能为自己建造避难所，可是耶稣已为我供应。   
@@ -78,3 +78,7 @@ I now understand a bit more about what "believeth in him" means.  why not say "b
 和合本只翻“信他”，NIV版本是"believes in him"。为什么不是"believes him"?  
 我们岂不像“沙番”吗？我们一生中满了痛苦、患难；被罪辖制，苦不堪言。因此需要在耶稣那里避难、求保护。  
 "in" 的意思是：在耶稣那里，我们经历了平安，经历了保护，所以我们信靠祂。我把我自己放在上帝的手中，相信祂必看顾我！   
+[^3]: ‪Psalms‬143:8 KJV 
+Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.  
+[^4]: Brother J: That is so true. Only in humility will we turn from our own designs and strength and find shelter in him. And only be being in him allows us to share in his death and resurrection.   
+Brother J: The  depth of our belief in him (and faith) is demonstrated by how we live our lives. True faith and belief will manifest in the decisions we make.   
