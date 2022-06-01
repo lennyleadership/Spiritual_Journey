@@ -39,44 +39,44 @@ Satan’s angelic name is Lucifer:
 
 Isaiah 14:12 King James Bible
 
-    12 How art thou fallen from heaven, O Lucifer, son of the morning! [how] art thou cut down to the ground, which didst weaken the nations!
+>12 How art thou fallen from heaven, O Lucifer, son of the morning! [how] art thou cut down to the ground, which didst weaken the nations!  
 
 We do not know Satan’s name when he was an angel. The name Lucifer came about because of the KJV translation of this Hebrew scripture in Isaiah which had nothing to do with Satan but was discussing a King of Babylon most likely Nebuchadnezzar. One of his titles was “morning star” in Hebrew which a translator mistranslated into the Latin Lucifer which translated to English reads "light bringer or bearer" not "morning star".
 
 The correct translation is:
 
     12 “How you have fallen from heaven,
-    O star of the morning, son of the dawn!
+    O **star of the morning**, son of the dawn!
     You have been cut down to the earth,
     You who have weakened the nations!
 
-It is accepted by Bible scholars that the name Lucifer is incorect, this name allegedly for Satan only appears in the original 1611 King James Bible and any direct copies of it.
+It is accepted by Bible scholars that the name Lucifer is incorect, this name allegedly for Satan only appears in the original 1611 King James Bible and any direct copies of it.  
 
-The next is one which has resulted in major doctrinal disputes among Bible Scholars:
+The next is one which has resulted in major doctrinal disputes among Bible Scholars:  
 
-Jesus is God they are one and equal:
+Jesus is God they are one and equal:  
 
 John 1:1 King James Bible
 
-    In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was in the beginning with God
+    In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was in the beginning with God  
 
-This translation appears in the 1611 King James Bible (and the many subsequent "clones" of it)
+This translation appears in the 1611 King James Bible (and the many subsequent "clones" of it)  
 
-That said there are several other translations that render this verse as follows:
+That said there are several other translations that render this verse as follows:  
 
     "In a beginning was the Word, and the Word was with the God, and a god was the word."
 
-(John 1:1, DGT) Direct from the Greek Translation and others.
+(John 1:1, DGT) Direct from the Greek Translation and others.  
 
-Their are many who will debate the above translation stating this does not fit the rules of Greek grammar. I cannot comment on that, however there are many, many other scriptures in the Bible that clearly state that Jesus is not God nor did he ever claim to be God. One has to consider ALL scriptures regarding a matter rather than just one that support ones beliefs.
+Their are many who will debate the above translation stating this does not fit the rules of Greek grammar. I cannot comment on that, however there are many, many other scriptures in the Bible that clearly state that Jesus is not God nor did he ever claim to be God. One has to consider ALL scriptures regarding a matter rather than just one that support ones beliefs.  
 
-Then there is the “Trinity” scripture in 1 John 5:7-8 KJV
+Then there is the “Trinity” scripture in 1 John 5:7-8 KJV  
 
-    “For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one.”
+    “For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one.”  
 
-The words in italics are simply not a part of the generally accepted New Testament manuscripts. Regrettably, in this particular passage some other versions read essentially the same. Most available early manuscripts do not render these verses as stated in the KJV.
+The words in italics are simply not a part of the generally accepted New Testament manuscripts. Regrettably, in this particular passage some other versions read essentially the same. Most available early manuscripts do not render these verses as stated in the KJV.  
 
-Most Bibles render this as:
+Most Bibles render this as:  
 
 1 John 7-8 NIV
 
@@ -92,7 +92,7 @@ Philippians 2:5–7 KJV
 
     6 Who, being in the form of God, thought it not robbery to be equal with God:
 
-One can interpret this as stating that Jesus was equal to God after all that IS what it reads like. But here is the same verses rendered in today's English and sentence structure.:
+One can interpret this as stating that Jesus was equal to God after all that IS what it reads like. But here is the same verses rendered in today's English and sentence structure:
 
 Philippians 2:5–7 NASB
 
@@ -106,4 +106,8 @@ Totally opposite of the rendering in the KJV.
 
 There are now other more accurate Bible translations available which correct many if not all of the KJV errors. The New American Standard Bible, The New International Version, English Standard Version and others. Keep it in mind however, that most of these are King James “clones” in the majority of their texts.
 
-All this stated, if one wishes to insist that the KJV is the ONLY true bible, I will not debate it.
+All this stated, if one wishes to insist that the KJV is the ONLY true bible, I will not debate it.  
+
+
+[Ben Smith](https://www.quora.com/Which-English-bible-translation-will-be-the-easiest-to-memorize-the-psalms):  
+conveying proper context - In Proverbs 28:21, the King James Version cautions, oddly, that “to have respect of persons is not good.” What!? 400 years ago “respect” meant “to be partial to”, but that meaning has changed, even in English! So, how should that passage be translated? Should we add all the necessary words to get to “to show partiality of persons is not good”? Or, is that “adding to the text?”

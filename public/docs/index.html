@@ -4,7 +4,7 @@
 
 
 <title>Docs | Faith Blog</title>
-<link rel="stylesheet" href="/css/eureka.min.css">
+<link rel="stylesheet" href="/css/eureka.css">
 <script defer src="/js/eureka.min.js"></script>
 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -52,6 +52,8 @@
 
 <script defer src="https://cdn.jsdelivr.net/npm/mermaid@8.9.2/dist/mermaid.min.js" 
   integrity="sha256-Zmpaaj&#43;GXFsPF5WdPArSrnW3b30dovldeKsW00xBVwE="  crossorigin></script>
+
+
 
 
 <link rel="icon" type="image/png" sizes="32x32" href="/images/icon_hu1d103d7eb8c5d97808fbbc55c993d059_32977_32x32_fill_q75_box_center.jpg">
@@ -145,7 +147,7 @@
     <div id="target"
         class="hidden block md:flex md:flex-grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
         <div class="md:flex md:h-16 text-sm md:flex-grow pb-4 md:pb-0 border-b md:border-b-0">
-            <a href="/docs/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  selected-menu-item  mr-4">Docs</a>
+            <a href="/docs/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  selected-menu-item  mr-4">Notebooks</a>
             <a href="/posts/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">Posts</a>
             <a href="/#about" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">About</a>
         </div>
@@ -249,6 +251,28 @@
       <div class=""></div>
   </div>
   
+  
+  <div class="-mx-4 my-4 border-t"></div>
+  <div class="">
+      <div class="mb-2">
+          <a href="/docs/bible-verses-recitation/1pt_2_9_royal_priesthood/" class="font-semibold hover:text-eureka">1 Pt 2:9 Royal Priesthood</a>
+      </div>
+      <div class="">(和合本) 惟有你们是被拣选的族类，是有君尊的祭司，是圣洁的国度，是属　神的子民，要叫你们宣扬那召你们出黑暗、入奇妙光明者的美德。
+(NKJV) But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light;
+</div>
+  </div>
+  
+  
+  <div class="-mx-4 my-4 border-t"></div>
+  <div class="">
+      <div class="mb-2">
+          <a href="/docs/bible-verses-recitation/mat18_20_small_gathering/" class="font-semibold hover:text-eureka">Matthew 18:20 Small Gathering</a>
+      </div>
+      <div class="">(和合本) 因为哪里有两三个人奉我的名聚集，我就在哪里，在他们当中。
+(NKJV) For where two or three are gathered together in My name, I am there in the midst of them.
+</div>
+  </div>
+  
   <div class="pt-6 hover:text-eureka">
       <a href="/docs/bible-verses-recitation/" class="font-semibold">Read More</a>
       <i class="fas fa-caret-right ml-1"></i>
@@ -316,37 +340,35 @@
 
 </div>
 
-<ul class="pagination">
-  <li class="page-item">
-    <a href="/docs/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
-  </li>
-  <li class="page-item disabled">
-    <a  class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
-  </li>
-  <li class="page-item active">
-    <a class="page-link" href="/docs/">1</a>
-  </li>
-  <li class="page-item">
-    <a class="page-link" href="/docs/page/2/">2</a>
-  </li>
-  <li class="page-item">
-    <a class="page-link" href="/docs/page/3/">3</a>
-  </li>
-  <li class="page-item disabled">
-    <span aria-hidden="true">&nbsp;&hellip;&nbsp;</span>
-  </li>
-  <li class="page-item">
-    <a class="page-link" href="/docs/page/7/">7</a>
-  </li>
-  <li class="page-item">
-    <a href="/docs/page/2/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
-  </li>
-  <li class="page-item">
-    <a href="/docs/page/7/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
-  </li>
-</ul>
-
-
+    <ul class="pagination pagination-default">
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 1" class="page-link" role="button">1</a>
+      </li>
+      <li class="page-item">
+        <a href="/docs/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
+      </li>
+      <li class="page-item">
+        <a href="/docs/page/3/" aria-label="Page 3" class="page-link" role="button">3</a>
+      </li>
+      <li class="page-item">
+        <a href="/docs/page/4/" aria-label="Page 4" class="page-link" role="button">4</a>
+      </li>
+      <li class="page-item">
+        <a href="/docs/page/5/" aria-label="Page 5" class="page-link" role="button">5</a>
+      </li>
+      <li class="page-item">
+        <a href="/docs/page/2/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/docs/page/7/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
 
       </div>
     </div>
