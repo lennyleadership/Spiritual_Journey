@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: true
 lastmod: "2022-05-19"
-series: [圣经]
+series:
 tags: 
 title: 路加福音
 toc: true
