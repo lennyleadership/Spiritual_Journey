@@ -64,11 +64,10 @@ toc: true
 10:41 耶稣回答说、马大、马大、你为许多的事、思虑烦扰。  
 10:42 但是不可少的只有一件。马利亚已经选择那上好的福分、是不能夺去的。  
 
-[^1]: Brother L:  
-The verse of Luke 10:27 says this: Love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself (KJV).  
+[^1]: The verse of Luke 10:27 says this: Love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself (KJV).  
 The cross-reference of this verse can be found in Mat 22:35-40, Mark 12:28-34, Deut 6:4-5, and Duet 30:1-6.  However only this verse links the great commandment in law with the eternal life.  
 <br />  
-1) What does "everylasting life" mean?  
+**What does "everylasting life" mean?**  
 Does it mean a person who believes in Jesus will go to heaven after death? or something else?   
 The strong number of life in Luke 10:25 is 2222.  
 <br />  
@@ -79,13 +78,13 @@ This verse tells me three things, 1) it is new; 2) we have this life once we bel
 The strong number 222 also appears in John 17:3. It says this:
 ‪(KJV) And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.  As brother K pointed it out that having eternal life is to know God in a personal relationship with Him. This is why when God saved us He made us His children, and not His servants. So that we can have a loving relationship with Him. God want a loving relationship with us. This is why He sent His Son to reconcile us to himself. This is why we as Christians are given the ministry of reconciliation (2 Cor 5:18) to mend a broken relationship. In a broken relationship the children of Adam do not know how to love God. This is why the lawyer asked “what must I do” to inherit eternal life. The lawyer’s religion is one of gaining favour with God. Whereas God wants a restored loving relationship.  
 <br />  
-2) Jesus is the only way.  
+**Jesus is the only way**.  
 ‪Romans‬ 6:22-23 (KJV) says this,
 22 But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.   
 23 For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.  
 They tell us Jesus is the way for a non-believer to have the everlasting life. 
 <br />  
-3) Why did Jesus not point it out to the lawyer that He is the way?  
+**Why did Jesus not point it out to the lawyer that He is the way?**  
 The Baptist John described these Pharisees in Mat 3:7 as the generation of viper.  These Pharisees got a warning message from the Baptist John about repentance.  I assume the lawyer in Luke 10:25 would know of this warning message.  When the lawyer met Jesus, he did not take the opportunity of repentance, but 'tempting' Him.  Jesus did not repeat the warning message.  Did Jesus not give him an opportunity of salvation?  I wish the lawyer would get another opportunity.  
 The contrary story is Paul's life.  Paul introduced himself in Philippians 3:4-6 (He was a Pharisee, and blamelss in the law).  Of course, he knew "love the Lord your God with all ...", but "persecuted Jesus" (Acts 9:4).  However when Paul met Jesus in a miracle, he called Him 'Lord'. Jesus selected him even though Paul was one of Pharisees (Acts 9:3).  
 > Matthew‬3:7 KJV
@@ -99,5 +98,5 @@ The contrary story is Paul's life.  Paul introduced himself in Philippians 3:4-6
 <br />  
 What made difference between the lawyer and Paul for salvation?  Jesus 'selection'? or their attitudes/repent towards Jesus?  
 <br />  
-4) what does "love the Lord thy God with all my heart, my soul, my strength, my mind" have to do with the eternal life?  
-5) When Jesus answered in Luke 10:28, He broke down the meaning of "eternal life" into two components, "life" which is the present life style, and "eternal". Jesus just addressed " life", but didn't address about "eternal". 
+**what does "love the Lord thy God with all my heart, my soul, my strength, my mind" have to do with the eternal life?**  
+**When Jesus answered in Luke 10:28, He broke down the meaning of "eternal life" into two components, "life" which is the present life style, and "eternal"**. Jesus just addressed " life", but didn't address about "eternal". 
