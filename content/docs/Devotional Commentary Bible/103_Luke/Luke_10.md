@@ -87,16 +87,17 @@ They tell us Jesus is the way for a non-believer to have the everlasting life.
 **Why did Jesus not point it out to the lawyer that He is the way?**  
 The Baptist John described these Pharisees in Mat 3:7 as the generation of viper.  These Pharisees got a warning message from the Baptist John about repentance.  I assume the lawyer in Luke 10:25 would know of this warning message.  When the lawyer met Jesus, he did not take the opportunity of repentance, but 'tempting' Him.  Jesus did not repeat the warning message.  Did Jesus not give him an opportunity of salvation?  I wish the lawyer would get another opportunity.  
 The contrary story is Paul's life.  Paul introduced himself in Philippians 3:4-6 (He was a Pharisee, and blamelss in the law).  Of course, he knew "love the Lord your God with all ...", but "persecuted Jesus" (Acts 9:4).  However when Paul met Jesus in a miracle, he called Him 'Lord'. Jesus selected him even though Paul was one of Pharisees (Acts 9:3).  
-> Matthew‬3:7 KJV
-> 7 But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?  
-> Philippians‬3:4-6 KJV 
-> 4 Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:  
-> 5 Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;  
-> 6 Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.    
-> Acts‬9:3 KJV  
-> 3 And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:  
+    Matthew ‬3:7 KJV 
+    7 But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?  
+    Philippians ‬3:4-6 KJV  
+    4 Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:  
+    5 Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;  
+    6 Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.    
+    <br />  
+    Acts ‬9:3 KJV  
+    3 And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:  
 <br />  
-What made difference between the lawyer and Paul for salvation?  Jesus 'selection'? or their attitudes/repent towards Jesus?  
+    What made difference between the lawyer and Paul for salvation?  Jesus 'selection'? or their attitudes/repent towards Jesus?  
 <br />  
 **what does "love the Lord thy God with all my heart, my soul, my strength, my mind" have to do with the eternal life?**  
 **When Jesus answered in Luke 10:28, He broke down the meaning of "eternal life" into two components, "life" which is the present life style, and "eternal"**. Jesus just addressed " life", but didn't address about "eternal". 
