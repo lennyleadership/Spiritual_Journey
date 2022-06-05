@@ -11,8 +11,8 @@ categories:
 tags: [活泉小简, 竭诚为主, 旷野吗哪, 圣经综合解读,   
 My Utmost for His Highest, Sara's Note,   
 默想, 敬畏, 战兢, 竭力, 祷告, 圣灵, 活着是基督, 教会, 魂的救恩, 神的旨意, 神的性情, 神的怒气, 寻求, 内心世界, 祷告, 
-日记, 律法, 家谱, 等候, 赞美, 在神凡事都能, 耶和华的名, 末世, 信心, 灵魂, 得救,
-Prayer, Holy Spirit, To Live is Christ, Faith,    
+日记, 律法, 家谱, 等候, 赞美, 在神凡事都能, 耶和华的名, 末世, 信心, 灵魂, 得救, 
+Prayer, Holy Spirit, To Live is Christ, Faith, Thanks, Hope,     
 宾路易师母, 司布真, Charles H. Spurgeon, LibertyBC]
 weight: 1
 ---

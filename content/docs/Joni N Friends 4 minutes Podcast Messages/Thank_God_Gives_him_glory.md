@@ -1,15 +1,17 @@
 ---
 authors: null
 categories: null
-date: "2022-04-08"
+date: "2022-06-02"
 description: 
 draft: false
-lastmod: "2022-04-08"
+lastmod: "2022-06-04"
 series: null
-tags: 
+tags: [Thanks] 
 title: To Thank God Gives Him Glory
 toc: true
 ---
+JUNE 2ND, 2022 | 04:00 | E60222
+
 Give thanks in tough times.    
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/84fdcbdb-90fa-47c4-90a8-4355d59dd6af?dark=false"></iframe>
