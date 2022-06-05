@@ -10,9 +10,11 @@ tags: null
 title: Dying to Self
 toc: true
 ---
+FEBRUARY 25TH, 2022 | 04:00 | E22522  
+
 When life is hard, and you think your situation is impossible, choose to believe God. Believe that he will give you the grace to endure. Believe that he will strengthen you in Christ. You can rejoice in suffering, but only when you die to self and live to Christ!  
 
-你当下可能觉得日子过得挺辛苦的。你要对上帝有信心！相信你会有够用的供应来过日子；相信上帝会使你坚强起来。盼望你在苦难中有喜乐！不过，钉死老我，活出基督。  
+生活越是艰难，你还觉得一切皆不可能！你越要相信上帝！相信祂会供应你会有够用的恩典。相信祂会使你靠着耶稣坚强起来。你可以在苦难中有喜乐！不过，你需要钉死老我，活出基督。  
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/8851d15a-ae52-4fe9-8671-2a46bbbba0ff?dark=false"></iframe>
 <!--more-->

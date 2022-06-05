@@ -4,7 +4,7 @@ categories: null
 date: "2022-05-22"
 description: 
 draft: false
-lastmod: "2022-05-28"
+lastmod: "2022-06-05"
 series: null
 tags: null
 title: 1 Pt 2:9 Royal Priesthood
