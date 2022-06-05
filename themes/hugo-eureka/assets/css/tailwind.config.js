@@ -13,7 +13,7 @@ module.exports = {
   },
   theme: {
     fontFamily: {
-      'serif': ['Garamond'], /*'Lora', 'Noto Serif SC', 'serif'*/
+      'serif': ['Lora', 'Noto Serif SC', 'serif'],
       'mono': ['SFMono-Regular', 'Menlo'],
     },
     extend: {

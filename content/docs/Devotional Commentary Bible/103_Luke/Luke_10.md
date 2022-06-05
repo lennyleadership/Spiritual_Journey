@@ -41,7 +41,7 @@ toc: true
 10:22 一切所有的、都是我父交付我的。除了父、没有人知道子是谁。除了子和子所愿意指示的、没有人知道父是谁。  
 10:23 耶稣转身暗暗的对门徒说。看见你们所看见的、那眼睛就有福了。  
 10:24 我告诉你们、从前有许多先知和君王、要看你们所看的、却没有看见。要听你们所听的、却没有听见。  
-10:25 有一个律法师、起来试探耶稣说、夫子、我该作甚么才可以承受永生。[^1]  
+10:25 有一个律法师、起来试探耶稣说、夫子、我该作甚么才可以承受永生。&nbsp; &nbsp; [^1]  
 
 10:26 耶稣对他说、律法上写的是甚么。你念的是怎样呢。  
 10:27 他回答说、『你要尽心、尽性、尽力、尽意、爱主你的　神。又要爱邻舍如同自己。』
@@ -99,5 +99,6 @@ The contrary story is Paul's life.  Paul introduced himself in Philippians 3:4-6
 <br />  
     What made difference between the lawyer and Paul for salvation?  Jesus 'selection'? or their attitudes/repent towards Jesus?  
 <br />  
-**what does "love the Lord thy God with all my heart, my soul, my strength, my mind" have to do with the eternal life?**  
-**When Jesus answered in Luke 10:28, He broke down the meaning of "eternal life" into two components, "life" which is the present life style, and "eternal"**. Jesus just addressed " life", but didn't address about "eternal". 
+what does "love the Lord thy God with all my heart, my soul, my strength, my mind" have to do with the eternal life?    
+When Jesus answered in Luke 10:28, He broke down the meaning of "eternal life" into two components, "life" which is the present life style, and "eternal".  
+Jesus just addressed "life", but didn't address about "eternal". 
