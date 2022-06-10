@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-05-19"
 series: 
-tags: [Prayer, 活泉小简, Darby]
+tags: [Prayer, 活泉小简, Darby, Brother D, Brother K, Brother L, Sister G]
 title: 11 路十一章
 toc: true
 ---
