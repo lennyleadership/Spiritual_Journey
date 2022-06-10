@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-05-19"
 series: 
-tags: [Prayer]
+tags: [Prayer, 活泉小简, Darby]
 title: 11 路十一章
 toc: true
 ---
