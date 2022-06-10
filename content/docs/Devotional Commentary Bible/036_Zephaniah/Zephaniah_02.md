@@ -4,7 +4,7 @@ categories: null
 date: "2022-04-19"
 description: 
 draft: false
-lastmod: "2022-04-26"
+lastmod: "2022-06-09"
 series:
 tags: 
 title: 02 番二章
