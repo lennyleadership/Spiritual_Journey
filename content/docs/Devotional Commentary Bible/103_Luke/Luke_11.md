@@ -90,10 +90,13 @@ Communion with God is the retiring place of the heart.
 by John Darby [Pigrim Portions - Chapter 11](http://www.sedin.org/portions/p11eng.html)  
 <br>
 Brother L: 我以为祈求就是祷告。原文其实指的是大多数信徒祷告的通病 - 以自我需要为中心的祷告。  
+<br>
 Brother D: 因为　神不是叫人混乱，乃是叫人安静。(哥林多前书 14:33 和合本)  
 又要立志作安静人，办自己的事，亲手做工，正如我们从前所吩咐你们的， (帖撒罗尼迦前书 4:11 和合本)  
 只要以里面存着长久温柔、安静的心为妆饰；这在　神面前是极宝贵的。(彼得前书 3:4 和合本)  
 安静这个词在旧约和新约都有，是指内心有平稳still，休息rest，和平peace, 沉静quietness。安静与 和平平安有相似的地方，但两者是不同的字。我有时祷告，满了要说的话，但是安静的时候，才有可能听见主要说的话。我要说话，是交托，是祈求；听主说话，才能明白主心意，才知道如何行。彼前三章4节讲到的是我们的里面人(inner self)要有一个安静的灵(quite spirit)，并说这在神的面前，是极宝贵的妆饰。  
 安静就可以有安稳，可以有很好的休息，可以重新得力。与主同在，其实不用说很多的话，安静的人是祂所喜悦的。感谢主。  
+<br>
 Sister G: 现在在问题是，我们知道不能以自己需要、计划去向神祷告，不要向神陈上自己想要的计划表，求上帝批准。基督徒基本上是知道不应该这样祷告的。但是多数人是真不明白，自己问的哪些是以自己为中心的呢？基督徒的生命是在一个认识过程中，那么，他们有的可能根本完全没有意识到这是错误或不正确的祷告，更不知道祷告其实是如何认识神，并如何慢慢建立与神在灵性生命的关系的过程。因此，多数基督徒需要时间，每个人走到与神同行的路程各有不同。所以，只能是分享自己的经历认知过程，不能要求每个基督徒要与你有相同的认识… 由此，我不认定人有多属灵，我只对神衷心只认祂的真理的话。
+<br>
 Brother K:  I believe when Darby used the word communion he used it as “the sharing or exchanging of intimate thoughts and feelings, especially when the exchange is on a mental or spiritual level.” I agree with what Darby said. Coming to God and enjoying God’s presence is not the same as coming to Him hurriedly solely for asking him to answer our prayers.  
