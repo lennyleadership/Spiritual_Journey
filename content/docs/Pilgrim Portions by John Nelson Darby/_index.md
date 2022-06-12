@@ -4,10 +4,10 @@ categories: null
 date: "2021-04-10"
 description: 
 draft: false
-lastmod: "2021-04-10"
+lastmod: "2021-06-12"
 series: null
 tags: null
-title:  Pilgrim Portions
+title:  Pilgrim Portions 基督是我们的满足
 toc: true
 ---
 
@@ -25,3 +25,5 @@ Apartat 2002
 08200 SABADELL  
 (Barcelona) ESPAÑA  
 It may be reproduced wholly or in part for non-commercial purposes provided credit is given by quoting the above and this notice.  
+
+中文来源于：<a href = "http://www.ccdigest.net/book/Darby/darby01.htm">灵命进深</a>
