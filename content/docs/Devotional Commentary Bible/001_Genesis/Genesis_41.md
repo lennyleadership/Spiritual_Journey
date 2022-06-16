@@ -172,7 +172,7 @@ ___________________________________________________
 
 Remember: it is not enough to acknowledge Jesus as Lord. Demons do that and tremble. But the issue is: do you own Him today as YOUR Lord. Is He? Indeed, does His Name, which is above all names, sound sweetly in your ear when you hear it spoken?  
 
-A BRIDE  
+*<font color ="blue">A BRIDE</font>*  
 
 We also read in the second part of Genesis 41:45 that Pharoah gave Joseph a wife: or Asenath, the daughter of a man named Potiphera - a priest of On. We are not told of any other details of Asenath or of her father.  
 
