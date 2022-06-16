@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-04-26"
 series: [圣经]
-tags: 
+tags: [Louis Voyer]
 title: 41 第四十一章
 toc: true
 ---
@@ -87,28 +87,29 @@ toc: true
 
 ### FROM PRISON TO PALACE - PART 6  
 
-In our ongoing study of Genesis chapter 41 where we read of Joseph's elevation from an Egyptian prison to a high and honoured position second only to Pharoah, we noted first of all in verse 42 what Joseph received from the Monarch's own hand as 'emblems' of his new exalted role in the kingdom:
+In our ongoing study of Genesis chapter 41 where we read of Joseph's elevation from an Egyptian prison to a high and honoured position second only to Pharoah, we noted first of all in verse 42 what Joseph received from the Monarch's own hand as 'emblems' of his new exalted role in the kingdom:  
 •	a ring or a signet  
 •	vestures or clothes of fine linen  
 •	a gold chain around his neck.  
+
 A question arises immediately: does the vindication of Joseph mean that all believers who have suffered the  unfairness of false accusation and discrimination live to see their vindication in their earthly lifetime? Is this always the case as it was for Joseph? 
 
 History shows clearly that this is not the case. For not a few are called to "be faithful unto death" (Rev. 2:10).  
 But whether vindicated in life or in death, all will attest to the truth of God's promise in Isaiah 54:4 - "Fear not; for thou shalt not be ashamed".  
 
 (1) We shall not be ashamed of our faith.  
-•	Carping critics may assail the Scriptures upon which we ground our belief - but our Lord will make it more and more clear to all that in His Book there is no error, no excess, no omission.  
-•	It is never a discredit to be a simple believer in Jesus: for as it has been said: "the faith which looks alone to Jesus is a crown of honour on any man's head...”  
+&nbsp; •	Carping critics may assail the Scriptures upon which we ground our belief - but our Lord will make it more and more clear to all that in His Book there is no error, no excess, no omission.  
+&nbsp; •	It is never a discredit to be a simple believer in Jesus: for as it has been said: "the faith which looks alone to Jesus is a crown of honour on any man's head...”  
 (2) We shall not be ashamed of our hope.  
-•	How we shall glory in the Lord who first gave us lively hope and then gave us that which we had hoped for! 
+&nbsp; •	How we shall glory in the Lord who first gave us lively hope and then gave us that which we had hoped for! 
 (3) We shall not be ashamed of our love.  
-•	Jesus is to us altogether lovely: and never shall we have to blush because we have yielded our hearts to Him.  
-•	For the sight of our glorious Well-Beloved shall fully justify the most enthusiastic attachment to Him.  
+&nbsp; •	Jesus is to us altogether lovely: and never shall we have to blush because we have yielded our hearts to Him.  
+&nbsp; •	For the sight of our glorious Well-Beloved shall fully justify the most enthusiastic attachment to Him.  
 Remember - none will blame the martyrs for dying for Him. When the enemies of Christ are one day clothed with everlasting contempt - the lovers of Jesus shall find themselves honoured by all holy beings because they chose the reproach of Christ more than the vain treasures of Egypt.  
 
 Vindicated now or then - it matters not! For vindicated all His own shall be!  
 
-A GREATER THAN JOSEPH  
+*<font color ="blue">A GREATER THAN JOSEPH</font>*  
 
 Before we move on today - let us ever keep before our minds that Joseph was exalted purely on the ground of his personal worth and for his service unto God that he performed for Egypt's profit.  
 
@@ -123,7 +124,7 @@ For this Jesus is "gone into heaven, and is on the right hand of God; angels and
 
 All power has been given unto Jesus Christ in heaven and in earth (Matthew 28:18). To Him, God has given over the control and the government of the world.  
 
-AUTHORITY PUBLICLY OWNED  
+*<font color ="blue">AUTHORITY PUBLICLY OWNED</font>*  
 
 "And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him ruler over all the land of Egypt" (Genesis 41:43).  
 
@@ -137,7 +138,7 @@ If not, may you be constrained to do so without further delay (yea, voluntarily 
 
 To make this confession willingly means that you have passed from death to life, from judgment to security - and that you have become a child of God and a citizen of a kingdom which can never be destroyed.  
 
-A NEW NAME 
+*<font color ="blue">A NEW NAME</font>* 
 
 We are told in Genesis 41:45 that Joseph was given a new name by Pharoah. He was henceforth to be called
 Zaphnath-Paaneah. It was not unusual in ancient days to give new names to people on particular occasions.  
@@ -188,7 +189,7 @@ One Jewish tradition has it that Asenath was already a convert to Joseph's God. 
 But let all Christians take heed however: this example in the Word of God is NOT to be used as an excuse to be unequally yoked with an unbeliever (as it is taught clearly in the Scriptures).  
 _____________________________________________________ 
 
-Historical Footnote  
+*<font color ="blue">Historical Footnote</font>*  
 
 My readers may find this of some interest. The city of On mentioned in reference to the father of Asenath is called Aven in Ezekiel 30:17. On was one of the oldest cities in the world, situated on the east side of the Nile about five miles above modern Cairo.  
 
@@ -197,7 +198,7 @@ The city of On was also called Heliopolis by the Greeks or the City of the Sun. 
 "Being an Arabian colony, Heliopolis would not have had in it the base superstitions of Egypt. Rather, the city would have retained some of the patriarchal or the Abrahamic religion to have made a female from there like Asenath to be nearer to the faith of Joseph than in any other part of Egypt.”  
 ____________________________________________________  
 
-FINAL NOTE  
+*<font color ="blue">FINAL NOTE</font>*  
 
 We read in Genesis 41:50-51 that two sons were born of the union in marriage of Joseph and Asenath: the firstborn named Manasseh and the youngest bearing the name Ephraim.  
 

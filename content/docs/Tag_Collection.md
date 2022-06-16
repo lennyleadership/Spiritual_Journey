@@ -14,7 +14,7 @@ My Utmost for His Highest, Sara's Note,
 Prayer, Holy Spirit, To Live is Christ, Faith, Thanks, Hope,  salvation of soul,    
 LibertyBC, 
 Brother D, Brother K, Brother L, Sister G, 
-宾路易师母, 司布真, Charles H. Spurgeon, Darby]
+宾路易师母, 司布真, Charles H. Spurgeon, Darby, Louis Voyer]
 weight: 1
 ---
 
