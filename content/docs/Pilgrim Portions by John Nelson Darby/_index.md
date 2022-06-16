@@ -11,7 +11,7 @@ title:  Pilgrim Portions 基督是我们的满足
 toc: true
 ---
 
-This book was written by John Nelson Darby. The online resource: <a href = "http://www.sedin.org/portions/p02eng.html">here</a>
+This book was written by John Nelson Darby. The English online resource: <a href = "http://www.sedin.org/portions/p02eng.html">Pilgrim Portions</a>
 
 
 Pilgrim Portions - Meditations for the Day of Rest -  
