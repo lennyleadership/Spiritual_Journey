@@ -45,13 +45,13 @@ Could see His heart’s anguish and pain.
 }
 
 .row {
-  margin-left:-5px;
-  margin-right:-5px;
+  margin-left:-1px;
+  margin-right:-1px;
 }
   
 .column {
   float: left;
-  padding: 5px; /* space between two tables*/
+  padding: 1px; /* space between two tables*/
 }
 
 /* Clearfix (clear floats) */
