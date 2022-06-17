@@ -15,6 +15,7 @@ toc: true
 
 <div class="row">
   <div class="column">
+
 1  
 祂的脸面，祂的天使常看见，  
 但不认识祂的大爱；  
@@ -72,6 +73,7 @@ toc: true
 [Source: Hymnal](https://www.hymnal.net/cn/hymn/ch/303)
   </div>
   <div class="column">
+
 Verse 1
 His angels His countenance always behold,  
 But never experience His grace;  
