@@ -74,7 +74,7 @@ toc: true
   </div>
   <div class="column">
 
-Verse 1
+Verse 1  
 His angels His countenance always behold,  
 But never experience His grace;  
 His saints, while they know His unlimited love,  
@@ -85,7 +85,7 @@ But Mary, beholding His tears as He wept,
 Could see His heart’s anguish and pain,  
 Could see His heart’s anguish and pain. 
 
-Verse 2
+Verse 2  
 We soon will see Jesus, our Lord, face to face,  
 We’ll know Him as never before;  
 But then we’ll no longer need His tender hand  
@@ -96,7 +96,7 @@ Nor ever a burden to roll on our Friend,
 Or place for our burdensome prayers,  
 Or place for our burdensome prayers. 
 
-Verse 3
+Verse 3  
 In heavenly glory, that day we’ll be crowned  
 And nevermore carry a cross.  
 ’Tis only on earth where our Lord was disowned  
@@ -107,7 +107,7 @@ His sorrow and shame we’ll no more with Him share,
 Or sacrifice pleasures for Him,  
 Or sacrifice pleasures for Him. 
 
-Verse 4
+Verse 4  
 Alas, we are left with few chances to share,  
 To learn, and to taste of His grief.  
 Yet still for His sake His reproach we may bear—  
@@ -118,16 +118,16 @@ I treasure these temporal blessings I’ve known,
 For thus, Lord, I’m made one with Thee,  
 For thus, Lord, I’m made one with Thee.
 
-Verse 5
-I long, Lord, to gaze on Thy wonderful face—
-‘Tis better by far Thee to meet.
-But now I would choose Thy dear suffering grace
-And not miss such fellowship sweet.
-Have mercy on me; fill me, Lord, with Thy love
-To live for Thee here at all cost,
-Lest earnestly seeking a heaven above
-I then regret chances were lost,
-I then regret chances were lost.
+Verse 5  
+I long, Lord, to gaze on Thy wonderful face—  
+‘Tis better by far Thee to meet.  
+But now I would choose Thy dear suffering grace  
+And not miss such fellowship sweet.  
+Have mercy on me; fill me, Lord, with Thy love  
+To live for Thee here at all cost,  
+Lest earnestly seeking a heaven above  
+I then regret chances were lost,  
+I then regret chances were lost.  
 
 [Source: A Sweet Savor Bible School](https://asweetsavor.org/his-angels-his-countenance-always-behold-by-watchman-nee-1-of-2/)
   </div>
