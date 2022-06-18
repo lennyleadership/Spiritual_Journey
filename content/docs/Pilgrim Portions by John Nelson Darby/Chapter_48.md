@@ -26,7 +26,8 @@ The heart is satisfied; can ask no more;
 All thought of self is now for ever o’er:  
 Christ, its unmingled object, fills the heart  
 In blest adoring love - its endless part.  
----
+
+___
 
 Christ is the key to the puzzle of this world.  
 
@@ -75,7 +76,8 @@ He has purchased a “peculiar people, to be zealous of good works.” He has br
 　　所有的“己”全了结；  
 　　我心满足不再多求，  
 　　爱戴敬拜永无休。   
-----
+　　
+___
 
 　　基督是打开宇宙之谜的钥匙。  
 

@@ -29,7 +29,8 @@ Father! Thy sovereign love has sought
 The work that Thine Own Son hath wrought,  
     Has brought us back — in peace and free!  
 
-___
+___  
+
 A single sin is more horrible to God than a thousand sins — nay, than all the sins in the world — are to us.  
 
 
@@ -71,7 +72,8 @@ Directly grace acts in the heart, it gives the consciousness of sin; but, at the
 
 诗：父啊！你的大爱寻找那远离你的罪囚；
 你儿子工作使我们回家──享平安自由！
-----
+
+___  
 
 
   在神看来，有一个罪甚至比我们看一千个罪、世界上所有的罪，都更可恶。  
