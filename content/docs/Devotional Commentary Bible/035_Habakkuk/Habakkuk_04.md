@@ -16,7 +16,7 @@ toc: true
 
 2022.06.19  
 
-圣经的教导是不要行义过分。  
+圣经的教导是不要行义过分。不要自以为公义。    
 
 哈巴谷站在守望所、立在望楼上观看、等候耶和华对他说话[二1]。  
 哈巴谷看见强暴[1]、罪孽[2]、奸恶[3]、毁灭[3]、强暴[3]、争端[3]、相斗[3]的事，而且律法放松[3]、公理也不显明[3]、恶人围困义人[3]。于是向上帝祷告，但上帝没有理会他。他觉得公理显然颠倒[3]。  你为何看着不理[13]？你为何静默不语呢[13]?  
@@ -40,7 +40,7 @@ ____
 [有义人行义，反致灭亡(传道书 7:15 和合本)](http://analytics.christiantimes.cn/news/28478/%E8%AE%BA%E4%B8%8D%E8%A6%81%E8%A1%8C%E4%B9%89%E8%BF%87%E5%88%86)  
 Ecc 7:15 (KJV)  
 All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.  
-
+Burn-out 就是灭亡吧。
 
 ____  
 1) 我们要向哈巴谷学习。学习他向神敞开心扉，又向神臣服。  
