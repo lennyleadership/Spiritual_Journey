@@ -35,7 +35,7 @@ toc: true
 1:15 他用钩钩住、用网捕获、用拉网聚集他们。因此、他欢喜快乐。
 
 1:16 就向网献祭、向网烧香、因他由此得肥美的分、和富裕的食物。  
-1:17 他岂可屡次倒空网罗、将列国的人时常杀戮、毫不顾惜呢。&nbsp;&nbsp;<sup>(</sup>[^5]<sup>)</sup>  
+1:17 他岂可屡次倒空网罗、将列国的人时常杀戮、毫不顾惜呢。&nbsp;&nbsp;<sup>(</sup>[^5]<sup>)</sup>&nbsp;&nbsp;<sup>(</sup>[^6]<sup>)</sup>  
 
 [^1]: 2-4节是哈巴谷的第一个问题：神为什么对百姓的罪恶坐视不管? 世人最喜欢这样控告神，把一切的责任都推给神，觉得自己比神还要公义、慈爱；信徒也常常这样质疑神，因为人的头脑都同样有限。但神「嗤笑」（诗二4）世人的狂妄，却耐心地回答先知的问题，因为祂乐意向自己的百姓启示真理，所以「这些事惟有属灵的人才能看透」（林前二14）。   
 3-4节所描述的，不是外邦人的社会黑暗，而是神百姓的全然败坏。先知无法理解的是，公义的神竟然「看着奸恶而不理」（3节）；他为了神的公义和国度祷告，而神竟然迟迟「不应允」（2节）、「不拯救」（2节）！  
@@ -53,4 +53,6 @@ Act 13:40-41 (KJV)
 [哈巴谷书第2章逐节注解、祷读](https://cmcbiblereading.com/2016/10/19/%e5%93%88%e5%b7%b4%e8%b0%b7%e4%b9%a6%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)  
 [^5]: 神的第一个回答让先知大跌眼镜。先知看到国中「恶人围困义人」（4节），所以求神伸张公义、拯救义人（2节）；但神不但没有拯救义人，反而将使用「残忍暴躁之民」（6节）把恶人和义人连锅端。因此，这个回答不但没有解除哈巴谷的疑问，反而使他的问题更多了：12-17节是哈巴谷发出的第二个问题：神为什么使用恶人来惩罚义人？  
 先知相信神是信实守约的神，所以祂所拣选的百姓「必不致死」（12节）。先知也承认神有权借着人的手来「刑罚人、惩治人」（12节），但他不明白「眼目清洁，不看邪僻，不看奸恶」（13节）的神，怎么会使用残暴诡诈、敬拜偶像的巴比伦人来惩罚百姓中的义人？在先知看来，这违反了神公义、圣洁的本性，神的做事方法与他的神学观点完全不一致。  
-[哈巴谷书第1章逐节注解、祷读](https://cmcbiblereading.com/2016/10/18/%e5%93%88%e5%b7%b4%e8%b0%b7%e4%b9%a6%e7%ac%ac1%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
+[哈巴谷书第1章逐节注解、祷读](https://cmcbiblereading.com/2016/10/18/%e5%93%88%e5%b7%b4%e8%b0%b7%e4%b9%a6%e7%ac%ac1%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)  
+[^6]: J. E. Evans explains:  
+An analogy was drawn from the life of a fisherman. The men were like fishes whom the fisherman collected in his net, and then paid divine honors to the net by which he has been so enriched. In this comparison, the world was the sea; the nation was the fishes; Nebuchadnezzar was the fisherman; the net was the military might of the Chaldean by which he was able to gain great wealth through the conquest.  [Believer's Bible]
