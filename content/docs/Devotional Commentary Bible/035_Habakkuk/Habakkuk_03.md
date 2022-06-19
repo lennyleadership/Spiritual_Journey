@@ -46,5 +46,13 @@ Php 4:10-11 (KJV)
 (10)  But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.  
 (11)  Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.  
 [Believer's Bible]   
-[^4]: 信靠神的大卫相信神在他一生所要经历的曲折道路中，必然保守他行走稳当、有惊无险。同样，信靠神的义人若顺服在神的管教之下，神也必保守我们「稳行在高处」。
-[哈巴谷书第3章逐节注解、祷读](https://cmcbiblereading.com/2016/10/19/%e5%93%88%e5%b7%b4%e8%b0%b7%e4%b9%a6%e7%ac%ac3%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
+[^4]: 信靠神的大卫相信神在他一生所要经历的曲折道路中，必然保守他行走稳当、有惊无险。同样，信靠神的义人若顺服在神的管教之下，神也必保守我们「稳行在高处」。  
+[哈巴谷书第3章逐节注解、祷读](https://cmcbiblereading.com/2016/10/19/%e5%93%88%e5%b7%b4%e8%b0%b7%e4%b9%a6%e7%ac%ac3%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)  
+<br>  
+In the meantime, whatever trials the Prophet Habakkuk and his people might be called upon to endure as a result of the Babylonian invasion.   
+Baxter exclaims:  
+The literal is "I will jump for joy in the Lord; I will spin around for delight in God." Here is the hilarity of faith!—joy at its best with circumstances at their worst! What a victory! May it be ours!  
+[Believer's Bible]  
+Hab 2:20 (KJV)  
+But the LORD is in his holy temple: let all the earth keep silence before him.  
+耶和华坐着为王。  
