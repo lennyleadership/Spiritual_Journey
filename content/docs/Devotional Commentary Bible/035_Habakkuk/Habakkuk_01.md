@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-18"
-series: [圣经]
+series: 
 tags: 
 title: 01 哈一章
 toc: true
