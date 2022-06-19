@@ -16,7 +16,7 @@ toc: true
 2:1 我要站在守望所、立在望楼上观看、看耶和华对我说甚么话、我可用甚么话向他诉冤。〔向他诉冤或作回答所疑问的〕  
 2:2 他对我说、将这默示明明的写在版上、使读的人容易读。〔或作随跑随读〕  
 2:3 因为这默示有一定的日期、快要应验、并不虚谎。<mark>虽然迟延、还要等候</mark>。因为必然临到、不再迟延。&nbsp;&nbsp;<sup>(</sup>[^1]<sup>)</sup> &nbsp;&nbsp;<sup>(</sup>[^2]<sup>)</sup>  
-2:4 迦勒底人自高自大、心不正直。惟<mark>义人因信得生</mark>。&nbsp;&nbsp;<sup>(</sup>[^3]<sup>)</sup>  
+2:4 迦勒底人自高自大、心不正直。惟<mark>义人因信得生</mark>。&nbsp;&nbsp;<sup>(</sup>[^3]<sup>)</sup> &nbsp;&nbsp;<sup>(</sup>[^4]<sup>)</sup>  
 2:5 迦勒底人因酒诡诈、狂傲、不住在家中、扩充心欲好像阴间。他如死不能知足、聚集万国、堆积万民、都归自己。  
 
 2:6 这些国的民、岂不都要提起诗歌、并俗语、讥刺他、说、祸哉迦勒底人、你增添不属自己的财物、多多取人的当头、要到几时为止呢。  
@@ -28,14 +28,14 @@ toc: true
 2:11 墙里的石头必呼叫、房内的栋梁必应声。  
 2:12 以人血建城、以罪孽立邑的有祸了。  
 2:13 众民所劳碌得来的、被火焚烧、列国由劳乏而得的、归于虚空、不都是出于万军之耶和华么。  
-2:14 认识耶和华荣耀的知识、要充满遍地、好像水充满洋海一般。&nbsp;&nbsp;<sup>(</sup>[^4]<sup>)</sup>  
+2:14 认识耶和华荣耀的知识、要充满遍地、好像水充满洋海一般。&nbsp;&nbsp;<sup>(</sup>[^5]<sup>)</sup>  
 2:15 给人酒喝、又加上毒物、使他喝醉、好看见他下体的、有祸了。  
 
 2:16 你满受羞辱、不得荣耀。你也喝吧、显出是未受割礼的。耶和华右手的杯、必传到你那里、你的荣耀、就变为大大地羞辱。  
 2:17 你向利巴嫩行强暴、与残害惊吓野兽的事、必遮盖你。因你杀人流血、向国内的城、并城中一切居民施行强暴。  
 2:18 雕刻的偶像、人将他刻出来、有甚么益处呢。铸造的偶像、就是虚谎的师傅。制造者倚靠这哑巴偶像、有甚么益处呢。  
 2:19 对木偶说、醒起、对哑巴石像说、起来、那人有祸了。这个还能教训人么。看哪、是包裹金银的、其中毫无气息。  
-2:20 惟耶和华在他的圣殿中。全地的人、都当在他面前肃敬静默。&nbsp;&nbsp;<sup>(</sup>[^5]<sup>)</sup>  
+2:20 惟耶和华在他的圣殿中。全地的人、都当在他面前肃敬静默。&nbsp;&nbsp;<sup>(</sup>[^6]<sup>)</sup>  
 
 [^1]: The Relaxation Spiritually  
 Though it tarry, wait for it. Habakkuk 2:3  
@@ -50,6 +50,17 @@ Chambers, Oswald. My Utmost for His Highest, Classic Edition (p. 151).   Discove
 新约多次引用第4节说明因信称义的真理（罗一17；加三11；来十38-39）。希伯来文的「信 אֱמוּנָה」原文意思是「坚固、忠诚、坚定不移、稳固」，而希腊文的「信 πίστις」原文意思是「坚信、相信、忠贞、忠实」。因此， 「信心」和「忠心」在英文里干脆就是同一个词（faith），「信心」也意味着「忠心」，真正的「信心」是对神持续的「忠心」，而不是只有刹那间的相信。所以，主耶稣反复宣告：「惟有忍耐到底的必然得救」（太十22；二十四13；可十三13）。  
 [^4]: 大约七十年后，玛代和波斯联军于主前539年攻陷巴比伦，消灭了迦勒底人的王朝。本书的预言是主前605年尼布甲尼撒二世在迦基米施战役（Battle of Carchemish）中打败亚述和埃及联军之前，新巴比伦帝国的国势 还没有到达巅峰，神就宣告了她在七十年后的末日。因此，当这个预言应验的时候，将让「认识耶和华荣耀的知识要充满遍地，好像水充满洋海一般」（14节），使全地的人都能认识神、归荣耀给祂（拉一2）。  
 14节引自赛十一9，最终将在千年国度里应验。  
+[^4]: Hab 2:4 has the distinction of being quoted three times in the NT.[Believer's Bible]    
+Joh 3:36 (KJV)  
+He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.  
+Rom 1:17 (KJV)  
+For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.  
+Heb 10:38 (KJV)  
+Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.  
+
+
+
+
 [^5]: 「肃敬静默」（20节）原文是「静默」，人在闭嘴以后，才能看得清楚、想得明白；哈巴谷安静下来思想神的话，才明白自己眼中的「义人」和「恶人」，在神眼中都是全然败坏的罪人，所以整个心思都改变了。他不再争辩、不再替神出主意，而是甘心接受神的彻底拆毁，进入第三章的敬拜颂赞。「肃敬静默」，也是每一个信徒在敬拜、祷告时所应有的态度。  
 [哈巴谷书第2章逐节注解、祷读](https://cmcbiblereading.com/2016/10/19/%e5%93%88%e5%b7%b4%e8%b0%b7%e4%b9%a6%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
 
