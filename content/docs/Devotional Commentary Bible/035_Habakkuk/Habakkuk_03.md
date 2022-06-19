@@ -39,7 +39,7 @@ toc: true
 
 [^1]: 虽然他一想到即将临到的灾祸就「战兢」（16节），但他知道神必得胜，所以在「战兢」中静待神的管教到来。先知在「战兢」中的信靠，引出了17-19节的信心凯歌。  
 [^2]: 人若「在耶和华里」看见供应人、拯救人的立约之神在一切之上掌权，就可以「狂喜」；无论是「犯境之民上来」（16节）、还是生活困苦缺乏（17节），都能得着力量、满有「喜乐」地拥抱即将到来的管教。因为我们的盼望乃是根据与神不可动摇的立约关系，而不是根据自己灵性的刚强或软弱；是根据神的信实和大能，而不是根据自己的挣扎或努力。所以，我们「深信无论是死，是生，是天使，是掌权的，是有能的，是现在的事，是将来的事，是高处的，是低处的，是别的受造之物，都不能叫我们与神的爱隔绝」（罗八38-39）。立约之神坚定不移的爱，必「使我的脚快如母鹿的蹄，又使我稳行在高处」，在管教和困苦中蒙保守、得恢复。  
-[^3]: Also, compare Hab_3:17-18 with Php_4:4, 10–19. Both the prophet and the apostle could rejoice in their God no matter what the outward circumstances of life might be.  
+[^3]: Also, compare Hab 3:17-18 with Php 4:4, 10–19. Both the prophet and the apostle could rejoice in their God no matter what the outward circumstances of life might be.  
 Php 4:4 (KJV)  
 (4)  Rejoice in the Lord alway: and again I say, Rejoice.  
 Php 4:10-11 (KJV)  

@@ -37,7 +37,7 @@ ____
 ____  
 
 <br />  
-[有义人行义，反致灭亡(传道书 7:15 和合本)] (http://analytics.christiantimes.cn/news/28478/%E8%AE%BA%E4%B8%8D%E8%A6%81%E8%A1%8C%E4%B9%89%E8%BF%87%E5%88%86)  
+[有义人行义，反致灭亡(传道书 7:15 和合本)](http://analytics.christiantimes.cn/news/28478/%E8%AE%BA%E4%B8%8D%E8%A6%81%E8%A1%8C%E4%B9%89%E8%BF%87%E5%88%86)  
 Ecc 7:15 (KJV)  
 All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.  
 
