@@ -27,8 +27,8 @@ Habakkuk 哈巴谷书
 
 2:11 墙里的石头必呼叫、房内的栋梁必应声。  
 2:12 以人血建城、以罪孽立邑的有祸了。  
-2:13 众民所劳碌得来的、被火焚烧、列国由劳乏而得的、归于虚空、不都是出于万军之耶和华么。  
-2:14 认识耶和华荣耀的知识、要充满遍地、好像水充满洋海一般。&nbsp;&nbsp;<sup>(</sup>[^7]<sup>)</sup>  
+<mark>2:13 众民所劳碌得来的、被火焚烧、列国由劳乏而得的、归于虚空、不都是出于万军之耶和华么。  
+2:14 认识耶和华荣耀的知识、要充满遍地、好像水充满洋海一般。</mark>&nbsp;&nbsp;<sup>(</sup>[^7]<sup>)</sup>  
 2:15 给人酒喝、又加上毒物、使他喝醉、好看见他下体的、有祸了。  
 
 2:16 你满受羞辱、不得荣耀。你也喝吧、显出是未受割礼的。耶和华右手的杯、必传到你那里、你的荣耀、就变为大大地羞辱。  
@@ -66,9 +66,7 @@ Mar 13:13 (KJV)
 And ye shall be hated of all men for my name's sake: but he that shall endure unto the end, the same shall be saved.  
 ‪马可福音‬13:13 (和合本)  
 并且你们要为我的名被众人恨恶。惟有忍耐到底的，必然得救。”
-[^6]: 大约七十年后，玛代和波斯联军于主前539年攻陷巴比伦，消灭了迦勒底人的王朝。本书的预言是主前605年尼布甲尼撒二世在迦基米施战役（Battle of Carchemish）中打败亚述和埃及联军 之前，新巴比伦帝国的国势还没有到达巅峰，神就宣告了她在七十年后的末日。因此，当这个预言应验的时候，将让「认识耶和华荣耀的知识要充满遍地，好像水充满洋海一般」（14节），使全地的人都能认识神、归荣耀给祂（拉一2）。  
-14节引自赛十一9，最终将在千年国度里应验。  
-[^7]: Hab 2:4 has the distinction of being quoted three times in the NT.  
+[^6]: Hab 2:4 has the distinction of being quoted three times in the NT.  
 Rom 1:17 (KJV)  
 For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.  
 Gal 3:11 (KJV)  
@@ -79,6 +77,13 @@ Now the just shall live by faith: but if any man draw back, my soul shall have n
 Joh 3:36 (KJV)  
 He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.  
 [John MacArthur's The Study Bible]   
+[^7]: 大约七十年后，玛代和波斯联军于主前539年攻陷巴比伦，消灭了迦勒底人的王朝。本书的预言是主前605年尼布甲尼撒二世在迦基米施战役（Battle of Carchemish）中打败亚述和埃及联军 之前，新巴比伦帝国的国势还没有到达巅峰，神就宣告了她在七十年后的末日。因此，当这个预言应验的时候，将让「认识耶和华荣耀的知识要充满遍地，好像水充满洋海一般」（14节），使全地的人都能认识神、归荣耀给祂（拉一2）。  
+14节引自赛十一9，最终将在千年国度里应验。  
+<br>  
+But a day is coming when the one true God will be globally acknowledged. This glorious time is predicted in a deservedly famous poetic comparison: "For the earth will be filled with the knowledge of the glory of the LORD, as the waters cover the sea" (2:14). [Believer's Bible]    
+<br>
+不要为当今的时局纠结；不要为自己的处境焦虑。要把关注的焦点放在上帝的作为上。  
+不要问为什么上帝把我放在这里。  
 [^8]: 「肃敬静默」（20节）原文是「静默」，人在闭嘴以后，才能看得清楚、想得明白；哈巴谷安静下来思想神的话，才明白自己眼中的「义人」和「恶人」，在神眼中都是全然败坏的罪人，所以整个心思都改变了。他不再争辩、不再替神出主意，而是甘心接受神的彻底拆毁，进入第三章的敬拜颂赞。「肃敬静默」，也是每一个信徒在敬拜、祷告时所应有的态度。  
 [哈巴谷书第2章逐节注解、祷读](https://cmcbiblereading.com/2016/10/19/%e5%93%88%e5%b7%b4%e8%b0%b7%e4%b9%a6%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
 
