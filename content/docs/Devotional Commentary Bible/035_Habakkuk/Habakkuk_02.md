@@ -42,7 +42,7 @@ Though it tarry, wait for it. Habakkuk 2:3
 Beware of the danger of relaxation spiritually.  “What shall I render unto the LORD?” said the Psalmist, “I will take the cup of salvation.” We are apt to look for satisfaction in ourselves—“Now I have got the thing; now I am entirely sanctified; now I can endure.” Instantly we are on the road to ruin. Our reach must exceed our grasp. “Not as though I had already attained, either were already perfect.”   
 The vision of God is the source of patience, because it imparts a moral inspiration. A man with the vision of God is not devoted to a cause or to any particular issue; he is devoted to God Himself. You always know when the vision is of God because of the inspiration that comes with it.  
 If we have only what we have experienced, we have nothing; if we have the inspiration of the vision of God, we have more than we can experience.  
-Chambers, Oswald. My Utmost for His Highest, Classic Edition (p. 151). Discovery House. Kindle Edition.  
+Chambers, Oswald. My Utmost for His Highest, Classic Edition (p. 151).   Discovery House. Kindle Edition.  
 [^2]: 神做工的目的不是为了解决事，而是为了得着人。人肉体的倾向，对神必成就的事，总是希望可以再等等；而对于自己所要的事，却总是希望不要「迟延」。因此，我们的祷告一定要注意不要教神做什么、怎么做、何时做，而要「肃敬静默」（20节）地听神要我们做什么。    
 [^3]: 人被神称为义的唯一途径，就是效法「亚伯拉罕信神，这就算为他的义」（罗四3；创十五6）。因此，「义人」「不是有自己因律法而得的义，乃是有信基督的义，就是因信神而来的义」（腓三9）。  
 神使用迦勒底人来管教犹大，并不是因为他们比犹大更加谦卑、正直，也不是让他们来教导犹大人怎样做「好人」，更不是让他们把犹大改造成一个「好社会」，而是为了把百姓带到困苦绝望、无可倚靠的地步，好让祂所拣选的「义人因信得生」，重新回到祂的权柄下。因此，虽然受管教的犹大亡国了，但并不是所有的百姓都要灭亡，那些忠心等候神（3节）的人必能在「自高自大，心不正直」（4节）的迦勒底人中间得着活路，因为「困苦的百姓，祢必拯救；高傲的眼目，祢必使他降卑」（诗十八27）。  
