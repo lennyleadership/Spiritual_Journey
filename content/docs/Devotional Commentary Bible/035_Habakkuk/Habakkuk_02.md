@@ -10,7 +10,7 @@ tags: [竭诚为主]
 title: 02 第二章
 toc: true
 ---
-哈巴谷书
+Habakkuk 哈巴谷书
 <!--more-->
 
 2:1 我要站在守望所、立在望楼上观看、看耶和华对我说甚么话、我可用甚么话向他诉冤。〔向他诉冤或作回答所疑问的〕&nbsp;&nbsp;<sup>(</sup>[^1]<sup>)</sup>  
@@ -39,6 +39,7 @@ toc: true
 
 [^1]: Habakkuk retired to his watchtower to see how the Lord would answer him. He wanted to get alone in order to gain God's perspective. This is a most important principle for believers today as well. Whether we call it our "quiet time," "devotions," or by some other term, daily communion with God is crucial for every Christian. [Believer's Bible]  
 [^2]: The Relaxation Spiritually  
+May 2  
 Though it tarry, wait for it. Habakkuk 2:3  
 Beware of the danger of relaxation spiritually.  “What shall I render unto the LORD?” said the Psalmist, “I will take the cup of salvation.” We are apt to look for satisfaction in ourselves—“Now I have got the thing; now I am entirely sanctified; now I can endure.” Instantly we are on the road to ruin. Our reach must exceed our grasp. “Not as though I had already attained, either were already perfect.”   
 The vision of God is the source of patience, because it imparts a moral inspiration. A man with the vision of God is not devoted to a cause or to any particular issue; he is devoted to God Himself. You always know when the vision is of God because of the inspiration that comes with it.  
@@ -48,8 +49,22 @@ Chambers, Oswald. My Utmost for His Highest, Classic Edition (p. 151).   Discove
 [^4]: 人被神称为义的唯一途径，就是效法「亚伯拉罕信神，这就算为他的义」（罗四3；创十五6）。因此，「义人」「不是有自己因律法而得的义，乃是有信基督的义，就是因信神而来的义」（腓三9）。  
 神使用迦勒底人来管教犹大，并不是因为他们比犹大更加谦卑、正直，也不是让他们来教导犹大人怎样做「好人」，更不是让他们把犹大改造成一个「好社会」，而是为了把百姓带到困苦绝望、无可倚靠的地步，好让祂所拣选的「义人因信得生」，重新回到祂的权柄下。因此，虽然受管教的犹大亡国了，但并不是所有的百姓都要灭亡，那些忠心等候神（3节）的人必能在「自高自大，心不正直」（4节）的迦勒底人中间得着活路，因为「困苦的百姓，祢必拯救；高傲的眼目，祢必使他降卑」（诗十八27）。  
 现今，俄罗斯与乌克兰的战争也让我们重新回到祂的权柄下。  
-新约多次引用第4节说明因信称义的真理（罗一17；加三11；来十38-39）。希伯来文的「信 אֱמוּנָה」原文意思是「坚固、忠诚、坚定不移、稳固」，而希腊文的「信 πίστις」原文意思是「坚信、相信、忠贞、忠实」。因此， 「信心」和「忠心」在英文里干脆就是同一个词（faith），「信心」也意味着「忠心」，真正的「信心」是对神持续的「忠心」，而不是只有刹那间的相信。所以，主耶稣反复宣告：「惟有忍耐到底的必然得救」（太十22；二十四13；可十三13）。  
-[^5]: 大约七十年后，玛代和波斯联军于主前539年攻陷巴比伦，消灭了迦勒底人的王朝。本书的预言是主前605年尼布甲尼撒二世在迦基米施战役（Battle of Carchemish）中打败亚述和埃及联军之前，新巴比伦帝国的国势 还没有到达巅峰，神就宣告了她在七十年后的末日。因此，当这个预言应验的时候，将让「认识耶和华荣耀的知识要充满遍地，好像水充满洋海一般」（14节），使全地的人都能认识神、归荣耀给祂（拉一2）。  
+新约多次引用第4节说明因信称义的真理（罗一17；加三11；来十38-39）。希伯来文的「信 אֱמוּנָה」原文意思是「坚固、忠诚、坚定不移、稳固」，而希腊文的「信 πίστις」原文意思是「坚信、相信、忠贞、忠实」。因此，「信心」和「忠心」在英文里干脆就是同一个词（faith），「信心」也意味着「忠心」，真正的「信心」是对神持续的「忠心」，而不是只有刹那间的相信。所以，主耶稣反复宣告：「惟有忍耐到底的必然得救」（太十22；二十四13；可十三13）。   
+Mat 10:22 (KJV)  
+And ye shall be hated of all men for my name's sake: but he that endureth to the end shall be saved.  
+马太福音‬10:22 (和合本)  
+并且你们要为我的名被众人恨恶。惟有忍耐到底的必然得救。  
+<br>  
+Mat 24:13 (KJV)
+But he that shall endure unto the end, the same shall be saved.  
+‪‪马太福音‬24:13 (和合本)
+惟有忍耐到底的，必然得救。  
+<br>  
+Mar 13:13 (KJV)
+And ye shall be hated of all men for my name's sake: but he that shall endure unto the end, the same shall be saved.  
+‪马可福音‬13:13 (和合本)  
+并且你们要为我的名被众人恨恶。惟有忍耐到底的，必然得救。”
+[^5]: 大约七十年后，玛代和波斯联军于主前539年攻陷巴比伦，消灭了迦勒底人的王朝。本书的预言是主前605年尼布甲尼撒二世在迦基米施战役（Battle of Carchemish）中打败亚述和埃及联军 之前，新巴比伦帝国的国势还没有到达巅峰，神就宣告了她在七十年后的末日。因此，当这个预言应验的时候，将让「认识耶和华荣耀的知识要充满遍地，好像水充满洋海一般」（14节），使全地的人都能认识神、归荣耀给祂（拉一2）。  
 14节引自赛十一9，最终将在千年国度里应验。  
 [^6]: Hab 2:4 has the distinction of being quoted three times in the NT.[Believer's Bible]    
 Joh 3:36 (KJV)  
@@ -58,6 +73,8 @@ Rom 1:17 (KJV)
 For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.  
 Heb 10:38 (KJV)  
 Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.  
+Gal 3:11 (KJV)  
+But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.  
 [^7]: 「肃敬静默」（20节）原文是「静默」，人在闭嘴以后，才能看得清楚、想得明白；哈巴谷安静下来思想神的话，才明白自己眼中的「义人」和「恶人」，在神眼中都是全然败坏的罪人，所以整个心思都改变了。他不再争辩、不再替神出主意，而是甘心接受神的彻底拆毁，进入第三章的敬拜颂赞。「肃敬静默」，也是每一个信徒在敬拜、祷告时所应有的态度。  
 [哈巴谷书第2章逐节注解、祷读](https://cmcbiblereading.com/2016/10/19/%e5%93%88%e5%b7%b4%e8%b0%b7%e4%b9%a6%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
 

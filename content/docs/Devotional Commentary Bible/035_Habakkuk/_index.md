@@ -26,7 +26,7 @@ by Richard W. De Haan
 <br />  
 Preferring the meaning "to embrace," Feinberg quotes Martin Luther with favor as follows:
 Habakkuk signifies an embracer, or one who embraces another, takes him into his arms. He embraces his people, and takes them to his arms, i.e., he comforts them and holds them up, as one embraces a weeping child, to quiet it with the assurance that, if God wills, it shall soon be better. 
-<br /> 
+<br />  
 OUTLINE  
 I. THE PROPHET IS PERPLEXED THAT GOD DOES NOT PUNISH THE INIQUITY OF JUDAH (1:1-4)  
 II. THE LORD REPLIES THAT HE WILL USE THE BABYLONIANS TO PUNISH JUDAH (1:5-11)  
