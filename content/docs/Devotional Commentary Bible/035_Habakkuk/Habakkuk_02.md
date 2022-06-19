@@ -82,7 +82,7 @@ He that believeth on the Son hath everlasting life: and he that believeth not th
 <br>  
 But a day is coming when the one true God will be globally acknowledged. This glorious time is predicted in a deservedly famous poetic comparison: "For the earth will be filled with the knowledge of the glory of the LORD, as the waters cover the sea" (2:14). [Believer's Bible]    
 <br>
-不要为当今的时局纠结；不要为自己的处境焦虑。要把关注的焦点放在上帝的作为上。  
+不要为当今的时局纠结；不要为自己的处境焦虑；不要为不义愤愤不平。上帝不是要伸张正义！要把关注的焦点放在上帝的作为上。上帝说，伸冤在我，我必报应！  
 不要问为什么上帝把我放在这里。  
 [^8]: 「肃敬静默」（20节）原文是「静默」，人在闭嘴以后，才能看得清楚、想得明白；哈巴谷安静下来思想神的话，才明白自己眼中的「义人」和「恶人」，在神眼中都是全然败坏的罪人，所以整个心思都改变了。他不再争辩、不再替神出主意，而是甘心接受神的彻底拆毁，进入第三章的敬拜颂赞。「肃敬静默」，也是每一个信徒在敬拜、祷告时所应有的态度。  
 [哈巴谷书第2章逐节注解、祷读](https://cmcbiblereading.com/2016/10/19/%e5%93%88%e5%b7%b4%e8%b0%b7%e4%b9%a6%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
