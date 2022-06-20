@@ -43,5 +43,13 @@ All things have I seen in the days of my vanity: there is a just man that perish
 Burn-out 就是灭亡吧。
 
 ____  
+
+上帝的作为  
+
+【该一10】「所以为你们的缘故，天就不降甘露，地也不出土产。」
+
+【该一11】「我命干旱临到地土、山冈、五谷、新酒，和油，并地上的出产、人民、牲畜，以及人手一切劳碌得来的。』」
+
+____
 1) 我们要向哈巴谷学习。学习他向神敞开心扉，又向神臣服。  
 2) How do we justify the social justice?  
