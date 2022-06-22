@@ -1,11 +1,11 @@
 ---
 authors: Lenny Lin
 categories: null
-date: "2021-04-10T13:11:22+08:00"
+date: "2021-04-10"
 description: null
 draft: false
 featuredImage: null
-lastmod: "2021-04-10T13:11:22+08:00"
+lastmod: "2022-06-22"
 series: null
 tags: null
 title: 链接 Weblinks
@@ -53,4 +53,8 @@ Chinese version: <a href = "http://www.ccdigest.net/book/Darby/darby01.htm">基�
 ## Andrew Murry 著作
 Chinese version:<a href ="http://www.bodani.cn/article/?bk=100739#107002&6">基督的灵</a>
 
+## C S Lewis 路易斯著作
+[地狱来鸿 - 道声出版社](https://wellsofgrace.com/books/spiritual/letters/index.htm)
 
+## 属灵书籍Spiritual Books
+[属灵书籍Spiritual Books](https://wellsofgrace.com/books/book_index.htm)
