@@ -5,7 +5,7 @@ date: "2021-04-10"
 description: null
 draft: false
 featuredImage: null
-lastmod: "2022-06-22"
+lastmod: "2022-06-25"
 series: null
 tags: null
 title: 链接 Weblinks
@@ -45,9 +45,50 @@ toc: true
 
 
 ## John Nelson Darby 著作
-English version: <a href = "http://www.sedin.org/portions/p00eng.html">Pilgrim Portions</a>  
 
-Chinese version: <a href = "http://www.ccdigest.net/book/Darby/darby01.htm">基督是我们的满足</a>
+Pilgrim Portions (基督是我们的满足)
+<div class="row">
+  <div class="column">
+  <a href = "http://www.sedin.org/portions/p00eng.html">Pilgrim Portions (English)</a>
+  </div>
+  <div class="column">
+  <a href = "http://www.ccdigest.net/book/Darby/darby01.htm">基督是我们的满足(中译)</a>
+  </div>
+</div> 
+
+
+[John Nelson Darby Collections](https://bibletruthpublishers.com/john-nelson-darby-jnd-collections/lucl13)
+
+
+<style type = "text/css">
+/* image and text side-by-side */
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  margin-left:-5px;
+  margin-right:-5px;
+}
+  
+.column {
+  float: left;
+  padding: 5px; /* space between two tables*/
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* end of the setting for two tables side-by-side */
+</style>
+
+  
+
+
 
 
 ## Andrew Murry 著作
