@@ -19,11 +19,20 @@ toc: true
 
 
 ## 倪柝声著作
-<a href= "http://mswe1.org/reading/book/2019">正常的基督徒生活</a>  
 
-<a href= "https://www.tochrist.org/Doc/Books/Watchman%20Nee/The%20Normal%20Christian%20Life.pdf">正常的基督徒生活(PDF 英文版)</a>
+<div class="row">
+  <div class="column">
+  <a href= "http://mswe1.org/reading/book/2019">正常的基督徒生活</a>
+  </div>
+  <div class="column">
+  <a href= "https://www.youtube.com/playlist?list=PLqXK4CXm6Oq_SJlgexwZLpFTjgvJ4Wnar">正常的基督徒生活(有声版)</a>    
+  </div>  
+  <div class="column">
+  <a href= "https://www.tochrist.org/Doc/Books/Watchman%20Nee/The%20Normal%20Christian%20Life.pdf">The Normal Christian Life (PDF)</a>
+  </div>
+</div> 
 
-<a href= "https://www.youtube.com/playlist?list=PLqXK4CXm6Oq_SJlgexwZLpFTjgvJ4Wnar">正常的基督徒生活(有声版)</a>  
+  
 
 <a href = "http://ccbiblestudy.net/New%20Testament/49Eph/49Ephesians-E/490002%E3%80%8ASit,%20Walk,%20Stand%E3%80%8B(Watchman%20Nee).pdf">坐、立、行(PDF 英文版)</a>  
 
@@ -46,13 +55,12 @@ toc: true
 
 ## John Nelson Darby 著作
 
-Pilgrim Portions (基督是我们的满足)
 <div class="row">
   <div class="column">
-  <a href = "http://www.sedin.org/portions/p00eng.html">Pilgrim Portions (English)</a>
+  <a href = "http://www.sedin.org/portions/p00eng.html">Pilgrim Portions</a>
   </div>
   <div class="column">
-  <a href = "http://www.ccdigest.net/book/Darby/darby01.htm">基督是我们的满足(中译)</a>
+  <a href = "http://www.ccdigest.net/book/Darby/darby01.htm">中译本：基督是我们的满足</a>
   </div>
 </div> 
 
@@ -97,5 +105,5 @@ Chinese version:<a href ="http://www.bodani.cn/article/?bk=100739#107002&6">基�
 ## C S Lewis 路易斯著作
 [地狱来鸿 - 道声出版社](https://wellsofgrace.com/books/spiritual/letters/index.htm)
 
-## 属灵书籍Spiritual Books
-[属灵书籍Spiritual Books](https://wellsofgrace.com/books/book_index.htm)
+## 属灵书籍 Spiritual Books
+[属灵书籍 Spiritual Books](https://wellsofgrace.com/books/book_index.htm)
