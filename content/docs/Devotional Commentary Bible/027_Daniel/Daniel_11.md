@@ -5,8 +5,8 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
-series: [圣经]
-tags: [圣经综合解读]
+series:
+tags:
 title: 11 但十一章
 toc: true
 ---

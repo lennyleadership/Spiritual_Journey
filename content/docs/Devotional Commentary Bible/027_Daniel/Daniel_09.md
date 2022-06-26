@@ -5,12 +5,12 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
-series: [圣经]
+series:
 tags: 
 title: 09 但九章
 toc: true
 ---
-
+但以理书
 <!--more-->
 
 9:1 玛代族、亚哈随鲁的儿子大利乌、立为迦勒底国的王元年、
