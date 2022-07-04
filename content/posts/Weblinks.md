@@ -5,7 +5,7 @@ date: "2021-04-10"
 description: null
 draft: false
 featuredImage: null
-lastmod: "2022-06-25"
+lastmod: "2022-07-03"
 series: null
 tags: null
 title: 链接 Weblinks
@@ -73,6 +73,24 @@ toc: true
 [John Nelson Darby Collections](https://bibletruthpublishers.com/john-nelson-darby-jnd-collections/lucl13)
 
 
+
+## Andrew Murry 著作
+Chinese version:<a href ="http://www.bodani.cn/article/?bk=100739#107002&6">基督的灵</a>
+
+
+
+## C S Lewis 路易斯著作
+[地狱来鸿 - 道声出版社](https://wellsofgrace.com/books/spiritual/letters/index.htm)
+
+
+
+## 属灵书籍 Spiritual Books
+[属灵书籍 Spiritual Books](https://wellsofgrace.com/books/book_index.htm)
+
+
+## 圣经参考资料 Bible Resources
+[biblenotes: G. Campbell Morgan, C.H. Spurgeon, Dwight L., Moody, Matthew Henry, John H. Jowett, Alexander Maclaren](https://biblenotes.online/resources/contents.htm)
+
 <style type = "text/css">
 /* image and text side-by-side */
 * {
@@ -98,17 +116,3 @@ toc: true
 
 /* end of the setting for two tables side-by-side */
 </style>
-
-  
-
-
-
-
-## Andrew Murry 著作
-Chinese version:<a href ="http://www.bodani.cn/article/?bk=100739#107002&6">基督的灵</a>
-
-## C S Lewis 路易斯著作
-[地狱来鸿 - 道声出版社](https://wellsofgrace.com/books/spiritual/letters/index.htm)
-
-## 属灵书籍 Spiritual Books
-[属灵书籍 Spiritual Books](https://wellsofgrace.com/books/book_index.htm)
