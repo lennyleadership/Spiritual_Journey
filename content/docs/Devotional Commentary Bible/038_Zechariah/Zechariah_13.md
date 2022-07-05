@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-05-13"
 series: [圣经]
 tags: [Faith's Cheque Book, Spurgeon]
-title: 13 第十三章
+title: 13 亚十三章
 toc: true
 ---
 撒迦利亚书
