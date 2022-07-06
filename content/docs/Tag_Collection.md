@@ -21,7 +21,7 @@ My Utmost for His Highest, Sara's Note,
 上帝的保护, 先求神的国, 
 建圣殿, 医治, 
 
-Prayer, Holy Spirit, To Live is Christ, Faith, Thanks, Hope,  salvation of soul,    
+Prayer, Holy Spirit, To Live is Christ, Faith, Thanks, Hope,  salvation of soul, Lord's Prayer,   
 
 LibertyBC, 
 
