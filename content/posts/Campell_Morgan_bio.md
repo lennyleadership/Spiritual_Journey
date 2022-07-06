@@ -15,4 +15,4 @@ toc: true
 <!--more-->
 
 
-[Campbell Morgan](https://wellsofgrace.com/biography/biography/morgan.htm)
+[Campbell Morgan Biography](https://wellsofgrace.com/biography/biography/morgan.htm)
