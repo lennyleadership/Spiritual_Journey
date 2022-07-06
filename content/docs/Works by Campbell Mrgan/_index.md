@@ -7,11 +7,11 @@ draft: false
 lastmod: "2022-07-05"
 series: null
 tags:
-title: 
+title: The Works of G. Campbell Morgan
 toc: true
 ---
 
 
-This is collection of works by Campbell Morgan.
+This is collection of works by G. Campbell Morgan.
 
 
