@@ -11,6 +11,9 @@ title: 4 The Preparation of Prayer
 toc: true
 ---
 
+<iframe width="720" height="400" src="https://www.youtube.com/embed/tNl1_PKtqro" title="The Practice of Prayer - G. Campbell Morgan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Chapter 4 starts at 47:21.
 <!--more-->
 
 >"Fear not, little flock; for it is your Father's good pleasure to give you the Kingdom."

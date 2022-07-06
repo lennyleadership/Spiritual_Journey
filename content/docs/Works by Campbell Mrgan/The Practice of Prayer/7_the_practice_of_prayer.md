@@ -11,6 +11,9 @@ title: 7 The Practice of Prayer
 toc: true
 ---
 
+<iframe width="720" height="400" src="https://www.youtube.com/embed/tNl1_PKtqro" title="The Practice of Prayer - G. Campbell Morgan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Chapter 7 starts at 2:12:16.
 <!--more-->
 
 >"And when ye pray, ye shall not be as the hypocrites: for they love to stand and pray in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward. But thou, when thou prayest, enter into thine inner chamber, and having shut thy door, pray to thy Father which is in secret, and thy Father which seeth in secret shall recompense thee. And in praying use not vain repetitions, as the Gentiles do; for they think that they shall be heard for their much speaking. Be not therefore like unto them: for your Father knoweth what things ye have need of, before ye ask Him."

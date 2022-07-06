@@ -11,6 +11,9 @@ title: 1 Preliminary
 toc: true
 ---
 
+<iframe width="720" height="400" src="https://www.youtube.com/embed/tNl1_PKtqro" title="The Practice of Prayer - G. Campbell Morgan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Chapter 1 starts at 00:00.
 <!--more-->
 
 >"And it came to pass, as He was praying in a certain place, that when He ceased, one of His disciples said unto Him, Lord, teach us to pray, even as John also taught his disciples. And He said unto them. When ye pray, say. Father, Hallowed be Thy name. Thy kingdom come. Give us day by day our daily bread. And forgive us our sins; for we ourselves also forgive every one that is indebted to us, and bring us not into temptation. And He said unto them. Which of you shall have a friend, and shall go unto him at midnight, and say to him, Friend, lend me three loaves; for a friend of mine is come to me from a journey, and I have nothing to set before him ; and he from within shall answer and say, Trouble me not; the door is now shut, and my children are with me in bed; I cannot rise and give thee? I say unto you, Though he will not rise and give him, because he is his friend, yet because of his importunity he will arise and give him as many as he needeth. And I say unto you. Ask, and it shall be given you: seek, and ye shall find: knock, and it shall be opened unto you. For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. And of which of you that is a father shall his son ask a loaf, and he give him a stone? or a fish, and he for a fish give him a serpent? Or if he shall ask an egg, will he give him a scorpion? If ye then, being evil, know how to give good gifts unto your children, how much more shall your heavenly Father give the Holy Spirit to them that ask Him?"  

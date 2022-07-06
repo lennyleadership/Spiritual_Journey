@@ -11,6 +11,9 @@ title: 5 The Plane of Prayer - The Purpose of God
 toc: true
 ---
 
+<iframe width="720" height="400" src="https://www.youtube.com/embed/tNl1_PKtqro" title="The Practice of Prayer - G. Campbell Morgan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Chapter 5 starts at 1:13:20.
 <!--more-->
 
 >"Our Father which art in heaven, Hallowed be Thy name. Thy Kingdom come. Thy will be done, as in heaven, so on earth."

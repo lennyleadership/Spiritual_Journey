@@ -11,6 +11,9 @@ title: 6 The Plane of Prayer - The Pilgrimage of Man
 toc: true
 ---
 
+<iframe width="720" height="400" src="https://www.youtube.com/embed/tNl1_PKtqro" title="The Practice of Prayer - G. Campbell Morgan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Chapter 6 starts at 1:43:30.
 <!--more-->
 
 >"Give us this day our daily bread. And forgive us our debts, as we also have forgiven our debtors. And bring us not into temptation, but deliver us from the evil one."

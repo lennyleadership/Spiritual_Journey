@@ -11,6 +11,9 @@ title: 2 The Possibility of Prayer
 toc: true
 ---
 
+<iframe width="720" height="400" src="https://www.youtube.com/embed/tNl1_PKtqro" title="The Practice of Prayer - G. Campbell Morgan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Chapter 2 starts at 10:22.
 <!--more-->
 
 >"He that cometh to God must believe that He is, and that He is a rewarder of them that seek after Him."

@@ -11,6 +11,9 @@ title: 3 The Platform of Prayer
 toc: true
 ---
 
+<iframe width="720" height="400" src="https://www.youtube.com/embed/tNl1_PKtqro" title="The Practice of Prayer - G. Campbell Morgan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Chapter 3 starts at 22:49.
 <!--more-->
 
 >"No man hath seen God at any time; but the only begotten Son which is in the bosom of the Father, He hath declared Him."
