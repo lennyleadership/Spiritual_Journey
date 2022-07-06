@@ -16,14 +16,14 @@ toc: true
 Chapter 2 starts at 10:22.
 <!--more-->
 
->"He that cometh to God must believe that He is, and that He is a rewarder of them that seek after Him."
-Hebrews 11:7
+><em>"He that cometh to God must believe that He is, and that He is a rewarder of them that seek after Him."  
+Hebrews 11:7</em>
 
->"If ye abide in Me, and My words abide in you, ask whatsoever ye will, and it shall be done unto you."
-John 15:7
+><em>"If ye abide in Me, and My words abide in you, ask whatsoever ye will, and it shall be done unto you."  
+John 15:7</em>
 
->"And they continued steadfastly in the Apostles' teaching and fellowship, in the breaking of bread and the prayers."
-Acts 2:42
+><em>"And they continued steadfastly in the Apostles' teaching and fellowship, in the breaking of bread and the prayers."  
+Acts 2:42</em>
 
 While the purpose of the present series of studies is that of stating the positive truth of the Christian faith concerning prayer, it is necessary at least to recognize the fact that among the things of weakness characterizing our age is a far spread doubt of the possibility of prayer. It is affirmed that the advance of scientific knowledge has made it impossible to believe that the desires and petitions of individual souls or of companies in agreement can have any effect upon the affairs of a universe conditioned absolutely within law. Some there are, therefore, and those the more consistent, who abandon prayer in every form, while others urge the maintenance of the habit of prayer because of the effect it produces upon those who pray. These claim that prayer, while devoid of objective value, has yet a subjective value. It is not my purpose to attempt any philosophical discussion on this question. I believe that the majority of persons who read will concede at once the objective value of prayer, and I do not think anything said in defence of the theory will bring conviction to those in doubt. It is only by praying that the possibility is proven. He has proved the objective value of prayer who has asked and received, who has sought and found, who has knocked and known the door opened in answer. Yet there are certain of the simplest things which may be said in this connection.
 

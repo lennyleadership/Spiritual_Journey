@@ -16,19 +16,19 @@ toc: true
 Chapter 3 starts at 22:49.
 <!--more-->
 
->"No man hath seen God at any time; but the only begotten Son which is in the bosom of the Father, He hath declared Him."
-John 1:18
+><em>"No man hath seen God at any time; but the only begotten Son which is in the bosom of the Father, He hath declared Him."  
+John 1:18</em>
 
->"We that cometh from above is above all; he that is of the earth is of the earth, and of the earth he speaketh: He that cometh from heaven is above all. What He hath seen and heard, of that He beareth witness; and no man receiveth His witness. He that hath received His witness hath set His seal to this, that God is true."
-John 3:31-33
+><em>"We that cometh from above is above all; he that is of the earth is of the earth, and of the earth he speaketh: He that cometh from heaven is above all. What He hath seen and heard, of that He beareth witness; and no man receiveth His witness. He that hath received His witness hath set His seal to this, that God is true."  
+John 3:31-33</em>
 
->"1 am the good Shepherd the good Shepherd layeth down His life for the sheep. ... Therefore doth the Father love Me, because I lay down BIy life, that I may take it again. No one taketh it away from Me, but I lay it down of Myself. I have power to lay it down, and I have power to take it again. This commandment received I from My Father."
-John 10:11,17,18
+><em>"1 am the good Shepherd the good Shepherd layeth down His life for the sheep. ... Therefore doth the Father love Me, because I lay down BIy life, that I may take it again. No one taketh it away from Me, but I lay it down of Myself. I have power to lay it down, and I have power to take it again. This commandment received I from My Father."  
+John 10:11,17,18</em>
 
->"Verily, verily, I say unto you, He that believeth on Me, the works that I do shall he do also; and greater works than these shall he do: because I go unto the Father. And whatsoever ye shall ask in My name, that will I do, that the Father may be glorified in the Son. If ye shall ask Me anything in My name, that will I do."
+><em>"Verily, verily, I say unto you, He that believeth on Me, the works that I do shall he do also; and greater works than these shall he do: because I go unto the Father. And whatsoever ye shall ask in My name, that will I do, that the Father may be glorified in the Son. If ye shall ask Me anything in My name, that will I do."</em>  
 
->"And I will pray the Father, and He shall give you another Comforter, that He may be with you forever, even the Spirit of truth: whom the world cannot receive ; for it beholdeth Him not, neither knoweth Him: ye know Him; for He abideth with you, and shall be in you. ... But the Comforter, even the Holy Spirit, whom the Father will send in My name. He shall teach you all things, and bring to your remembrance all that I said unto you."
-John 14:16,17,26
+><em>"And I will pray the Father, and He shall give you another Comforter, that He may be with you forever, even the Spirit of truth: whom the world cannot receive ; for it beholdeth Him not, neither knoweth Him: ye know Him; for He abideth with you, and shall be in you. ... But the Comforter, even the Holy Spirit, whom the Father will send in My name. He shall teach you all things, and bring to your remembrance all that I said unto you."  
+John 14:16,17,26</em>
 
 >"But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, He shall bear witness of Me."
 John 15:26

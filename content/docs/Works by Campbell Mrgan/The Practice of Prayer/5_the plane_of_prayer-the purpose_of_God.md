@@ -16,8 +16,8 @@ toc: true
 Chapter 5 starts at 1:13:20.
 <!--more-->
 
->"Our Father which art in heaven, Hallowed be Thy name. Thy Kingdom come. Thy will be done, as in heaven, so on earth."
-Matthew 6:9,10
+><em>"Our Father which art in heaven, Hallowed be Thy name. Thy Kingdom come. Thy will be done, as in heaven, so on earth."  
+Matthew 6:9,10</em>
 
 We now come to the consideration of the plane upon which prayer is operative, the subjects concerning which we have authority to pray. This plane is revealed in the pattern prayer as it occurs in the Manifesto of the King.
 
