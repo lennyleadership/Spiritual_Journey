@@ -16,8 +16,8 @@ toc: true
 Chapter 6 starts at 1:43:30.
 <!--more-->
 
->"Give us this day our daily bread. And forgive us our debts, as we also have forgiven our debtors. And bring us not into temptation, but deliver us from the evil one."
-Matthew 6:11-13
+><em>"Give us this day our daily bread. And forgive us our debts, as we also have forgiven our debtors. And bring us not into temptation, but deliver us from the evil one."
+Matthew 6:11-13</em>
 
 We now come to the second part of the pattern prayer. As the first part has to do with the interests of God, the second half deals with the pilgrimage of man; that is to say, it has to do with the needs of man in the days of his sojourn in this world. Its three petitions express the needs of these days of pilgrimage towards the Father's home. It will be impossible to use these petitions when we reach that home. They express our present need in the listening ear of God.
 
