@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-06-26"
-series: [圣经]
+series:
 tags: [一次得救永远得救]
 title: 48 结四十八章
 toc: true
