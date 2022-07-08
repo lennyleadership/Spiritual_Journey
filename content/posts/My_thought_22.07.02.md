@@ -3,7 +3,7 @@ authors:
 categories: null
 date: "2022-07-02"
 description: null
-draft: false
+draft: true
 featuredImage: null
 lastmod: "2022-07-02"
 series: null
