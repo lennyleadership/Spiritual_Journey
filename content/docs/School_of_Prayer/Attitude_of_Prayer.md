@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-03-29"
 series: null
-tags: null
+tags: [Prayer, 祷告]
 title: Attitude of Prayer
 toc: true
 ---
