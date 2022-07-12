@@ -30,4 +30,10 @@ And I will bring the third part through the fire, and will refine them as silver
 Grace transmutes us into precious metal, and then the fire and the furnace follows as a necessary consequence. Do we start at this? Would we sooner be accounted worthless, that we might enjoy repose, like the stones of the field! This would be to choose the viler part—like Esau, to take the pottage and give up the covenant portion. No, Lord; we will gladly be cast into the furnace rather than be cast out from Thy presence!  
 The fire only refines; it does not destroy. We are to be brought through the fire, not left in it. The Lord values His people as silver, and therefore He is at pains to purge away their dross. If we are wise, we shall rather welcome the refining process than decline it. Our prayer will be that our alloy may be taken from us rather than that we should be withdrawn from the crucible.  
 O Lord, Thou triest us indeed! We are ready to melt under the fierceness of the flame. Still, this is Thy way, and Thy way is the best. Sustain us under the trial and complete the process of our purifying, and we will be Thine forever and ever.  
-[Spurgeon: Faith's Cheque Book](https://archive.spurgeon.org/fcb/fcb-bod.htm)
+[Spurgeon: Faith's Cheque Book](https://archive.spurgeon.org/fcb/fcb-bod.htm)  
+<br>  
+神首先启示了救恩的应许：祂所拣选的「三分之一仍必存留」（8节）；接着启示了人得应许的途径：「他们必求告我的名，我必应允他们」（9节）。这两个条件缺一不可：
+若没有神主动的预备和拣选，任何人的道德、行为或哲学、方法，都只能使人自我陶醉，并不能使人真正得救；
+任何模棱两可、「心持两意」（王上十八21），不必弃绝自己、专心「求告」神的门道，都只能使人自欺欺人，并不能得着神所应许的救恩。
+以色列人和外邦人顽梗悖逆的本相是一样的，得救的途径也是一样的：因着神的拣选、「凡求告主名的就必得救」（罗十13；徒二21）。顽梗的犹太教经历了两千年的苦难，仍然拒绝接受主耶稣为基督，结果「凡不认子的，就没有父」（约壹二23）。因此，信实守约的神「必将那施恩叫人恳求的灵，浇灌大卫家和耶路撒冷的居民」（十二10），并且「使这三分之一经火」（9节），使蒙拣选的以色列余民能真正「求告耶和华名」（珥二32），被恢复成「祭司的国度」（出十九6）。  
+[撒迦利亚书第13章逐节注解、祷读](https://cmcbiblereading.com/2016/11/01/%e6%92%92%e8%bf%a6%e5%88%a9%e4%ba%9a%e4%b9%a6%e7%ac%ac13%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
