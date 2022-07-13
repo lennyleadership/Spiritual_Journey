@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-13"
-series: [圣经]
+series: 
 tags: [Faith's Cheque Book, Spurgeon]
 title: 13 亚十三章
 toc: true
