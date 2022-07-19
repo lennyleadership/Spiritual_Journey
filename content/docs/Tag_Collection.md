@@ -21,7 +21,7 @@ My Utmost for His Highest, Sara's Note,
 寻求, 内心世界, 祷告, 日记, 律法, 家谱, 等候, 赞美, 在神凡事都能, 耶和华的名, 末世, 信心, 灵魂, 分别为圣, 荣耀神, 
 依靠上帝, 认识神, 在神凡事都能, 属灵的法则, 职场, 复兴, 
 上帝的保护, 先求神的国, 
-建圣殿, 医治, 骄傲,
+建圣殿, 医治, 骄傲, 叶公好龙, 
 
 Prayer, Holy Spirit, To Live is Christ, Faith, Thanks, Hope,  salvation of soul, Lord's Prayer,   
 
