@@ -22,7 +22,7 @@ My Utmost for His Highest, Sara's Note,
 神的怒气, 神的管教, 上帝的保护, 先求神的国, 
 悔改, 审判, 得救, 拣选, 末世, 
 建圣殿, 医治, 骄傲, 内心世界, 
-叶公好龙, 职场, 默想, 谐音, 家谱, 日记, 战兢, 竭力, 心里早已决定要去埃及, 推罗, 以色列复国, 
+叶公好龙, 职场, 默想, 谐音, 家谱, 日记, 战兢, 竭力, 心里早已决定要去埃及, 推罗, 以色列复国, 参政, 
 把福音传回耶路撒冷, 
 Prayer, Holy Spirit, To Live is Christ, Faith, Thanks, Hope,  salvation of soul, Lord's Prayer,   
 
