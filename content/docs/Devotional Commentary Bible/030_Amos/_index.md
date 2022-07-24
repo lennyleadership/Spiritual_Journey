@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-07-22"
 series:
-tags: 
+tags: [参政]
 title: 030 阿摩司书
 toc: true
 ---
