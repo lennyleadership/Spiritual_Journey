@@ -16,7 +16,7 @@ My Utmost for His Highest, Sara's Note,
 魂的救恩, 救恩, 一次得救永远得救, 
 千年国度, 属灵争战, 
 耶稣被出卖, 耶稣, 
-神的旨意, 神的性情, 神的爱, 耶和华的名, 
+神的旨意, 将心意指示人, 神的性情, 神的爱, 耶和华的名, 
 寻求, 律法, 等候, 赞美, 在神凡事都能, 信心, 灵魂, 分别为圣, 荣耀神, 
 依靠上帝, 认识神, 在神凡事都能, 属灵的法则, 复兴, 
 神的怒气, 神的管教, 上帝的保护, 先求神的国, 
@@ -30,7 +30,8 @@ LibertyBC,
 
 Brother D, Brother K, Brother L, Sister G, 
 
-宾路易师母, 司布真, Charles H. Spurgeon, 黑格尔, Hegel, 坎伯摩根, Campell Morgan, Darby, Louis Voyer]
+宾路易师母, 司布真, Charles H. Spurgeon, 黑格尔, Hegel, 坎伯摩根, Campell Morgan, Darby, Louis Voyer, 
+hovertip]
 weight: 1
 ---
 
