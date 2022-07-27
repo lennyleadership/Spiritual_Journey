@@ -22,7 +22,7 @@ toc: true
 3:5 若没有机槛、雀鸟岂能陷在网罗里呢。网罗若无所得、岂能从地上翻起呢。  
 
 3:6 城中若吹角、百姓岂不惊恐呢。灾祸若临到一城、岂非耶和华所降的么。  
-3:7 主耶和华若不将奥秘指示他的仆人众先知、就一无所行。[<span class = "hovertext" data-hover = "神总是先借着先知警告百姓，然后才降下惩罚。神在降灾给埃及之前，先通过摩西警告法老；而在北国灭亡之前，神也反复通过「祂的仆人众先知」（7节）发出了充分的预言和劝告，因此，百姓在管教面前无可推诿。">**注二**</span>]  
+3:7 主耶和华若不将奥秘指示他的仆人众先知、就一无所行。[<span class = "hovertip" data-hover = "神总是先借着先知警告百姓，然后才降下惩罚。神在降灾给埃及之前，先通过摩西警告法老；而在北国灭亡之前，神也反复通过「祂的仆人众先知」（7节）发出了充分的预言和劝告，因此，百姓在管教面前无可推诿。">**注二**</span>]  
 3:8 狮子吼叫、谁不惧怕呢。主耶和华发命、谁能不说预言呢。  
 3:9 要在亚实突的宫殿中、和埃及地的宫殿里传扬说、你们要聚集在撒玛利亚的山上、就看见城中有何等大的扰乱与欺压的事。  
 3:10 那些以强暴抢夺财物、积蓄在自己家中的人不知道行正直的事。这是耶和华说的。  
@@ -93,12 +93,12 @@ I would like to share my meditation on one verse.  The first part of the verse g
 [阿摩司书第3章逐节注解、祷读](https://cmcbiblereading.com/2016/10/03/%e9%98%bf%e6%91%a9%e5%8f%b8%e4%b9%a6%e7%ac%ac3%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/)
 
 <style type="text/css">
-.hovertext {
+.hovertip {
   position: relative;
   border-bottom: 1px dotted black;
 }
 
-.hovertext:before {
+.hovertip:before {
   content: attr(data-hover);
   visibility: hidden;
 
@@ -119,7 +119,18 @@ I would like to share my meditation on one verse.  The first part of the verse g
   bottom: 110%;
 }
 
-.hovertext:hover:before {
+.hovertip.hovertiptext::after {
+  content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.hovertip:hover:before {
   opacity: 1;
   visibility: visible;
 }
