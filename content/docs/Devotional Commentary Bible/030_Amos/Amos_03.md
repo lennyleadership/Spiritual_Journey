@@ -16,7 +16,7 @@ toc: true
 <!--more-->
 
 3:1 以色列人哪、你们全家是我从埃及地领上来的、当听耶和华攻击你们的话。  
-3:2 在地上万族中、我只认识你们。因此、我必追讨你们的一切罪孽。[<span class = "hovertext" data-hover = "First: We will break the line here &#13; Second: then continue on this line.">**注一**</span>] [^1]  
+3:2 在地上万族中、我只认识你们。因此、我必追讨你们的一切罪孽。[<span class = "hovertext" data-hover = "First: 第一行 &#13; Second: then continue on this line.">**注一**</span>] [^1]  
 3:3 二人若不同心、岂能同行呢。  
 3:4 狮子若非抓食、岂能在林中咆哮呢。少壮狮子若无所得、岂能从洞中发声呢。  
 3:5 若没有机槛、雀鸟岂能陷在网罗里呢。网罗若无所得、岂能从地上翻起呢。  
