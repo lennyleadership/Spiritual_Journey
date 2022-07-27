@@ -120,7 +120,7 @@ I would like to share my meditation on one verse.  The first part of the verse g
   margin-left: -60px;
 }
 
-.hovertip.hovertiptext::after {
+.hovertip.hovertiptext::before {
   content: " ";
   position: absolute;
   top: 100%; /* At the bottom of the tooltip */
