@@ -108,7 +108,7 @@ I would like to share my meditation on one verse.  The first part of the verse g
   background-color: black;
   color: #fff;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 50px;
   padding: 5px 0;
   transition: opacity 1s ease-in-out;
 
