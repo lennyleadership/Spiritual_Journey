@@ -101,19 +101,22 @@ I would like to share my meditation on one verse.  The first part of the verse g
 .hovertext:before {
   content: attr(data-hover);
   visibility: hidden;
-  opacity: 0;
+
   width: 250px;
   background-color: #add8e6;
   color: black;
   text-align: left;
   border-radius: 5px;
   padding: 5px 0;
+  /* fade-in*/
+  opacity: 0;  
   transition: opacity 1s ease-in-out;
 
+  /* top tooltip*/
   position: absolute;
   z-index: 1;
-  left: 0;
-  top: 110%;
+  left: 50%;
+  bottom: 110%;
 }
 
 .hovertext:hover:before {
