@@ -117,6 +117,7 @@ I would like to share my meditation on one verse.  The first part of the verse g
   z-index: 1;
   left: 50%;
   bottom: 110%;
+  margin-left: -60px;
 }
 
 .hovertip.hovertiptext::after {
