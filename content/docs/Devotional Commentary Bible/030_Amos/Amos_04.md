@@ -4,7 +4,7 @@ categories: null
 date: "2022-04-19"
 description: 
 draft: false
-lastmod: "2022-07-22"
+lastmod: "2022-07-27"
 series:
 tags: [将心意指示人]
 title: 04 摩四章
