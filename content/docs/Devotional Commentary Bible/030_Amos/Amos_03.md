@@ -112,7 +112,7 @@ I would like to share my meditation on one verse.  The first part of the verse g
   transition: opacity 1s ease-in-out;
 
   /* top tooltip*/
-  position: absolute;
+  position: relative /*absolute;*/
   z-index: 1;
   left: 50%;
   bottom: 110%;
