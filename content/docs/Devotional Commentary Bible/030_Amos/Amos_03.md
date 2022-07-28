@@ -114,8 +114,8 @@ I would like to share my meditation on one verse.  The first part of the verse g
   /* top tooltip*/
   position: absolute; /*let tooltip wrap instead of overflow*/
   z-index: 1;
-  left: 50%;
-  bottom: 110%;
+  left: auto; /*50%;*/
+  bottom: auto; /*110%;*/
   margin-left: -60px;
 }
 
