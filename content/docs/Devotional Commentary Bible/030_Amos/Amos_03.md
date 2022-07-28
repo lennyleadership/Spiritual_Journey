@@ -31,14 +31,13 @@ toc: true
 3:12 耶和华如此说、牧人怎样从狮子口中抢回两条羊腿或半个耳朵、住撒玛利亚的以色列人躺卧在床角上或铺绣花毯的榻上、他们得救也不过如此。  
 3:13 主耶和华万军之　神说、当听这话、警戒雅各家。  
 3:14 我讨以色列罪的日子、也要讨伯特利祭坛的罪。坛角必被砍下、坠落于地。  
-3:15 我要拆毁过冬和过夏的房屋、象牙的房屋也必毁灭、高大的房屋都归无有、这是耶和华说的。  
-[<a class = "hovertip" tooltip_text = "今天，信徒在神以外所看重、所倚靠、所追求的，无论是属世的「高大房屋」（15节），还是外表属灵的「伯特利祭坛」（14节），都要被神彻底「拆毁」，才能得以「重新修造」。《列王纪》的历史表明，这是人能「专心顺从耶和华」（王上十一6）的唯一道路；而任何心怀二意的折衷、修补、掺杂，最终都会重归败坏。  ">**注三**</a>]  
+3:15 我要拆毁过冬和过夏的房屋、象牙的房屋也必毁灭、高大的房屋都归无有、这是耶和华说的。[<a class = "hovertip" tooltip_text = "今天，信徒在神以外所看重、所倚靠、所追求的，无论是属世的「高大房屋」（15节），还是外表属灵的「伯特利祭坛」（14节），都要被神彻底「拆毁」，才能得以「重新修造」。《列王纪》的历史表明，这是人能「专心顺从耶和华」（王上十一6）的唯一道路；而任何心怀二意的折衷、修补、掺杂，最终都会重归败坏。  ">**注三**</a>]  
 
 [^1]: Exodus 19:5-6  
 Now therefore, if you will indeed obey My voice and keep My covenant, then you shall be a special treasure to Me above all people; for all the earth is Mine. And you shall be to Me a kingdom of priests and a holy nation.’ These are the words which you shall speak to the children of Israel.”  
 Deuteronomy 7:6  
 “ For you are a holy people to the Lord your God; the Lord your God has chosen you to be a people for Himself, a special treasure above all the peoples on the face of the earth.    
-1 Peter 4 17  
+1 Peter 4:17  
 For the time has come for judgment to begin at the house of God; and if it begins with us first, what will be the end of those who do not obey the gospel of God?  
 Romans 2:9  
 tribulation and anguish, on every soul of man who does evil, of the Jew first and also of the Greek;  
@@ -101,6 +100,8 @@ I would like to share my meditation on one verse.  The first part of the verse g
 .hovertip:before {
   content: attr(tooltip_text);
   visibility: hidden;
+  
+  overflow-y: inherit; /*new*/
 
   width: 250px;
   background-color: #add8e6;
