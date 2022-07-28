@@ -99,7 +99,7 @@ I would like to share my meditation on one verse.  The first part of the verse g
 
 .hovertip:before {
   content: attr(data-hover);
-  visibility: /*hidden;*/
+  visibility: visible; /*hidden;*/
 
   width: 250px;
   background-color: #add8e6;
@@ -132,6 +132,6 @@ I would like to share my meditation on one verse.  The first part of the verse g
 
 .hovertip:hover:before {
   opacity: 1;
-  visibility: overflow/*visible;*/
+  visibility: visible;
 }
 </style>
