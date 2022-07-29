@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-07-14"
 series:
 tags: 
-title: 039 Malachi
+title: 039 玛拉基书
 toc: true
 ---
 
