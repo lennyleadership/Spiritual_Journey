@@ -15,10 +15,8 @@ JUNE 3RD, 2022 | 04:00 | E60322
 “Cancer does not win if we die. It wins,” as he said, “if we fail to cherish Christ.”   
  ---- John Piper
  
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/f0f0f940-b021-4383-aede-1272cb467197?dark=false"></iframe> 
-
-
 <!--more-->
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/f0f0f940-b021-4383-aede-1272cb467197?dark=false"></iframe> 
 
 I’m Joni Eareckson Tada and my friend Sue is dying of cancer.
 

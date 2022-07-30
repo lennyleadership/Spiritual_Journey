@@ -14,9 +14,8 @@ JUNE 1ST, 2022 | 04:00 | E60122
 
 There are two words, wickedness and holiness, hardly being part of our normal vocabulary.  We tried to tame wickedness, domesticate it, make it sound acceptable.  
 
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/80b1c932-362d-44c2-82bf-5f4c61ada4c7?dark=false"></iframe>
-
 <!--more-->
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/80b1c932-362d-44c2-82bf-5f4c61ada4c7?dark=false"></iframe>
 
 Hi, I’m Joni and in California there’s a road called El Camino Real. 
 

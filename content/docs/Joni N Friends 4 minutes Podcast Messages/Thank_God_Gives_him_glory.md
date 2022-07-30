@@ -14,8 +14,8 @@ JUNE 2ND, 2022 | 04:00 | E60222
 
 Give thanks in tough times.    
 
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/84fdcbdb-90fa-47c4-90a8-4355d59dd6af?dark=false"></iframe>
 <!--more-->
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/84fdcbdb-90fa-47c4-90a8-4355d59dd6af?dark=false"></iframe>
 
 If you’re not thankful in tough times, here’s how you can change that.  
 
