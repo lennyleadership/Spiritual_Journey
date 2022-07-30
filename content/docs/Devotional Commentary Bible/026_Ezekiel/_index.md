@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-26"
 series:
 tags: 
-title: 026 Ezekiel
+title: 026 以西结书
 toc: true
 ---
 

@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
-series: [圣经]
+series: 
 tags: 
-title: 3 第三章
+title: 03 拿三章
 toc: true
 ---
 约拿书
