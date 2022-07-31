@@ -9,6 +9,7 @@ series:
 tags: 
 title: 101 马太福音
 toc: true
+bookCollapseSection: true
 ---
 
 

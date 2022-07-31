@@ -9,6 +9,7 @@ series: [圣经]
 tags: 
 title: 001 创世纪
 toc: true
+bookCollapseSection: true
 ---
 
 

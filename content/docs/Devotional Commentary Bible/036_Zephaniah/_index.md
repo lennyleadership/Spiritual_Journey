@@ -9,6 +9,7 @@ series:
 tags: 
 title: 036 西番亚书
 toc: true
+bookCollapseSection: true
 ---
 
 　在《十二先知书》中，何西阿、约珥、阿摩司、俄巴底亚、约拿和弥迦生活在北国即将灭亡之前，  

@@ -9,6 +9,7 @@ series:
 tags: 
 title: 002 出埃及记
 toc: true
+bookCollapseSection: true
 ---
 
 

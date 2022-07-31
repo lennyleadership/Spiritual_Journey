@@ -9,6 +9,7 @@ series:
 tags: 
 title: 026 以西结书
 toc: true
+bookCollapseSection: true
 ---
 
 

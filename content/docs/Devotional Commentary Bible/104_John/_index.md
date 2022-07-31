@@ -9,6 +9,7 @@ series:
 tags: 
 title: 104 约翰福音
 toc: true
+bookCollapseSection: true
 ---
 
 

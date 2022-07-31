@@ -9,6 +9,7 @@ series:
 tags: 
 title: 033 弥迦书
 toc: true
+bookCollapseSection: true
 ---
 
 

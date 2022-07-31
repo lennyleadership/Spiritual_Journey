@@ -6,9 +6,10 @@ description:
 draft: false
 lastmod: "2022-05-07"
 series: 
-tags: [圣经]
+tags:
 title: 032 约拿书
 toc: true
+bookCollapseSection: true
 ---
 
 

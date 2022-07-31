@@ -9,6 +9,7 @@ series:
 tags: 
 title: 027 但以理书
 toc: true
+bookCollapseSection: true
 ---
 
 

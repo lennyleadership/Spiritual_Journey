@@ -9,6 +9,7 @@ series:
 tags: 
 title: 121 彼得前书
 toc: true
+bookCollapseSection: true
 ---
 
 

@@ -9,6 +9,7 @@ series:
 tags: 
 title: 009 撒母耳记上
 toc: true
+bookCollapseSection: true
 ---
 
 

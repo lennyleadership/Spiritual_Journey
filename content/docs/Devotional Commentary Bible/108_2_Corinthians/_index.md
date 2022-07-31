@@ -9,6 +9,7 @@ series:
 tags: 
 title: 108 哥林多后书
 toc: true
+bookCollapseSection: true
 ---
 
 

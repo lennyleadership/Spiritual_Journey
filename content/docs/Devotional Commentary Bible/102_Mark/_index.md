@@ -9,6 +9,7 @@ series:
 tags: 
 title: 102 马可福音
 toc: true
+bookCollapseSection: true
 ---
 
 

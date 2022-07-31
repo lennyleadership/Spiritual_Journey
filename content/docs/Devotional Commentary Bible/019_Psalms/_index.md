@@ -9,6 +9,7 @@ series:
 tags: 
 title: 019 诗篇
 toc: true
+bookCollapseSection: true
 ---
 
 

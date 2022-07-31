@@ -9,6 +9,7 @@ series:
 tags: 
 title: 107 哥林多前书
 toc: true
+bookCollapseSection: true
 ---
 
 

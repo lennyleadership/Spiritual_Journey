@@ -9,6 +9,7 @@ series:
 tags: 
 title: 029 约珥书
 toc: true
+bookCollapseSection: true
 ---
 
 「约珥」（1节）这个名字的意思是「耶和华是神」，与先知以利亚名字的意思一样。  

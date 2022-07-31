@@ -9,6 +9,7 @@ series:
 tags: 
 title: 028 何西阿书
 toc: true
+bookCollapseSection: true
 ---
 
 

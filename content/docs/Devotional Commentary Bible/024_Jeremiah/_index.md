@@ -9,6 +9,7 @@ series:
 tags: 
 title: 024 耶利米书
 toc: true
+bookCollapseSection: true
 ---
 
 

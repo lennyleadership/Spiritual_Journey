@@ -9,6 +9,7 @@ series:
 tags: 
 title: 005 申命记
 toc: true
+bookCollapseSection: true
 ---
 
 
