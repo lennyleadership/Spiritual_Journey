@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-23"
-series: [圣经]
+series:
 tags: [竭力, 战兢, 魂的救恩]
 title: 2 第二章
 toc: true

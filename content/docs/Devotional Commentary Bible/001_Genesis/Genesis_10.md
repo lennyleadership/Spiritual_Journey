@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-08"
-series: [圣经]
+series:
 tags: [旷野吗哪]
-title: 10 第十章
+title: 10 创十章
 toc: true
 ---
 创世纪

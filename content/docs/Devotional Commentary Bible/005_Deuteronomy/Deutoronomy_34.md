@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-30"
-series: [圣经]
+series:
 tags: [活泉小简, 宾路易师母, 安息]
 title: 34 第三十四章
 toc: true

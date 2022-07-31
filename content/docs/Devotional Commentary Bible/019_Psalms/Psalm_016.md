@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
-series: [圣经]
-tags: [旷野吗哪, 信心, ]
-title: 016 第十六章
+series: 
+tags: [旷野吗哪, 信心]
+title: 016 诗十六章
 toc: true
 ---
 诗篇

@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: true
 lastmod: "2022-04-23"
-series: [圣经]
+series:
 tags: [竭力, 恐惧战兢, 魂的救恩]
 title: 0 腓立比书
 toc: true

@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-23"
-series: [圣经]
+series:
 tags: 
 title: 4 第四章
 toc: true

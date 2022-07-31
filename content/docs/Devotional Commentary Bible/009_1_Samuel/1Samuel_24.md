@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
-series: [圣经]
+series:
 tags: [旷野吗哪, 寻求]
-title: 24 第二十四章 
+title: 24 撒上二十四章 
 toc: true
 ---
 撒母耳记上

@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: true
 lastmod: "2022-04-19"
-series: [圣经]
+series:
 tags: [旷野吗哪]
 title: 009 撒母耳记上
 toc: true

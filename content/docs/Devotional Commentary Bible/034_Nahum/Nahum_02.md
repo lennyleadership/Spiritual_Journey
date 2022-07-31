@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-17"
-series: [圣经]
+series:
 tags: 
 title: 02 那二章
 toc: true

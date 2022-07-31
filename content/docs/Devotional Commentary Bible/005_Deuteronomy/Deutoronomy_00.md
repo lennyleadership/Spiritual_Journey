@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-30"
-series: [圣经]
+series:
 tags: []
 title: 
 toc: true

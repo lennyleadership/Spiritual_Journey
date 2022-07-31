@@ -5,7 +5,7 @@ date: "2022-04-19"
 description: 
 draft: true
 lastmod: "2022-04-23"
-series: [圣经, 默想]
+series:
 tags: [圣经, 默想]
 title: 121 彼得前书
 toc: true

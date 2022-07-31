@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-02"
-series: [圣经]
+series:
 tags: [谐音]
-title: 06 第六章
+title: 06 弥六章
 toc: true
 ---
 

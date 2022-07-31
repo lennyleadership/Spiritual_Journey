@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-11"
-series: [圣经]
+series: 
 tags: 
-title: 03 第三章
+title: 03 弥三章
 toc: true
 ---
 

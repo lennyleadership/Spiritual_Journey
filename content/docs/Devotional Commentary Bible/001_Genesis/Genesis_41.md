@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
-series: [圣经]
+series:
 tags: [Louis Voyer]
-title: 41 第四十一章
+title: 41 创四十一章
 toc: true
 ---
 创世纪

@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-07"
-series: [圣经]
+series:
 tags: 
-title: 02 第二章
+title: 02 弥二章
 toc: true
 ---
 

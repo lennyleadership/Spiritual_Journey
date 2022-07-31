@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-04"
-series: [圣经]
+series: 
 tags: [活泉小简, 安静, 司布真, Charles H. Spurgeon, 日记]
-title: 131 第一三一章
+title: 131 诗一三一章
 toc: true
 ---
 诗篇

@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
-series: [圣经]
+series:
 tags: 
-title: 33 第三十三章
+title: 33 出三十三章
 toc: true
 ---
 出埃及记

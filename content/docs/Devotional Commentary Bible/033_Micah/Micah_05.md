@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-11"
-series: [圣经]
+series:
 tags: 
-title: 05 第五章
+title: 05 弥五章
 toc: true
 ---
 

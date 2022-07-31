@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-02"
-series: [圣经]
+series: 
 tags: 
-title: 01 第一章
+title: 01 弥一章
 toc: true
 ---
 

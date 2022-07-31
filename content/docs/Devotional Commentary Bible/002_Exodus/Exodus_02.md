@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
-series: [圣经]
+series:
 tags: [宾路易师母, 活泉小简]
-title: 02 第二章
+title: 02 出二章
 toc: true
 ---
 出埃及记

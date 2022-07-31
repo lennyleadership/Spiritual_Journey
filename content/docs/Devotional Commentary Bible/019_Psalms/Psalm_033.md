@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
-series: [圣经]
+series: 
 tags: 
-title: 033 第三十三章
+title: 033 诗三十三章
 toc: true
 ---
 诗篇

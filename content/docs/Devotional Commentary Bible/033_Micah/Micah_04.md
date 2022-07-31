@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-05-11"
-series: [圣经]
+series:
 tags: 
-title: 04 第四章
+title: 04 弥四章
 toc: true
 ---
 

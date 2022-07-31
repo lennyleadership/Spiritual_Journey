@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
-series: [圣经]
+series: 
 tags: [旷野吗哪]
-title: 023 第二十三章
+title: 023 诗二十三章
 toc: true
 ---
 诗篇

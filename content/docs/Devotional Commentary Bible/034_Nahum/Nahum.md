@@ -5,8 +5,8 @@ date: "2022-04-19"
 description: 
 draft: true
 lastmod: "2022-05-15"
-series: [圣经]
-tags: 
+series:
+tags:
 title: 那鸿书
 toc: true
 ---

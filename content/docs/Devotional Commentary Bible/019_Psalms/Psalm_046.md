@@ -5,9 +5,9 @@ date: "2022-04-19"
 description: 
 draft: false
 lastmod: "2022-04-26"
-series: [圣经]
+series: 
 tags: 
-title: 046 第四十六章
+title: 046 诗四十六章
 toc: true
 ---
 诗篇
