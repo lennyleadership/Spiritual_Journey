@@ -7,10 +7,10 @@ draft: false
 lastmod: "2022-04-23"
 series:
 tags: 
-title: 4 第四章
+title: 4 腓四章
 toc: true
 ---
-
+腓立比书
 <!--more-->
 
 4:1 我所亲爱所想念的弟兄们、你们就是我的喜乐、我的冠冕。  我亲爱的弟兄、你们应当靠主站立得稳。  

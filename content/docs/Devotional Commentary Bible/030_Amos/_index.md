@@ -9,6 +9,7 @@ series:
 tags: [参政]
 title: 030 阿摩司书
 toc: true
+bookCollapseSection: true
 ---
 
 

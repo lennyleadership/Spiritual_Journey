@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-23"
 series:
 tags: [竭力, 战兢, 魂的救恩]
-title: 2 第二章
+title: 2 腓二章
 toc: true
 ---
 腓立比书

@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-23"
 series:
 tags: 
-title: 1 第一章
+title: 1 腓一章
 toc: true
 ---
 腓立比书
