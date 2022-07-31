@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-26"
 series:
 tags: 
-title: 2 第二章
+title: 2 林前二章
 toc: true
 ---
 

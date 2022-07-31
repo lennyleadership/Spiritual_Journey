@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-30"
 series:
 tags: [旷野吗哪, 家谱]
-title: 32 第三十二章
+title: 32 申三十二章
 toc: true
 ---
 申命记

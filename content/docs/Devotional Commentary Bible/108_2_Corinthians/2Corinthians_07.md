@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-26"
 series:
 tags: [内心世界]
-title: 07 第七章
+title: 07 林后七章
 toc: true
 ---
 哥林多后书

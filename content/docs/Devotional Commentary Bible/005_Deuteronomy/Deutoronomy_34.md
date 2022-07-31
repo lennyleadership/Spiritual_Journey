@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-30"
 series:
 tags: [活泉小简, 宾路易师母, 安息]
-title: 34 第三十四章
+title: 34 申三十四章
 toc: true
 ---
 申命记

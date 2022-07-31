@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-04-30"
 series:
 tags: [旷野吗哪, 律法]
-title: 05 第五章
+title: 05 申五章
 toc: true
 ---
 申命记

@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-05-02"
 series:
 tags: [竭诚为主]
-title: 02 第二章
+title: 02 哈二章
 toc: true
 ---
 Habakkuk 哈巴谷书
