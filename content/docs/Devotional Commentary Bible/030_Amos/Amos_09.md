@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-07-22"
 series:
 tags: 
-title: 01 摩一章
+title: 09 摩九章
 toc: true
 ---
 阿摩司书
