@@ -1,13 +1,14 @@
 ---
-authors: Lenny Lin
+weight: 1
+title: Bible Verses Recitation 圣经经文背诵
+authors:
 categories: null
-date: "2022-04-17"
+tags:
 description: 
 draft: false
-lastmod: "2022-05-22"
+date: "2022-04-17"
+lastmod: "2022-09-19"
 series: null
-tags: 
-title: Bible Verses Recitation 圣经经文背诵
 toc: true
 ---
 

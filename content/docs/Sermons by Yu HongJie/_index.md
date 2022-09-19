@@ -1,5 +1,5 @@
 ---
-weight: 
+weight: 2
 title: 
 authors:
 categories: null
@@ -12,5 +12,7 @@ series: null
 toc: true
 ---
 
-<!--more-->
+
+收集了于宏杰的讲道。
+
 

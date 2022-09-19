@@ -1,13 +1,14 @@
 ---
-authors: Lenny Lin
+weight: 1
+title: 1 Pt 2:9 Royal Priesthood
+authors:
 categories: null
-date: "2022-05-22"
+tags:
 description: 
 draft: false
+date: "2022-05-22"
 lastmod: "2022-06-05"
 series: null
-tags: null
-title: 1 Pt 2:9 Royal Priesthood
 toc: true
 ---
 (KJV) But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:
@@ -16,5 +17,6 @@ toc: true
 <br />  
 (NKJV) But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light;
 <!--more-->
+---
 
 [彼前二章](https://lennyfaith.netlify.app/docs/devotional-commentary-bible/121_1_peter/1pt_02/)

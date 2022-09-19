@@ -1,13 +1,14 @@
 ---
-authors: null
+weight: 2
+title: Mat 18:20 Small Gathering
+authors:
 categories: null
-date: "2022-05-22"
+tags:
 description: 
 draft: false
+date: "2022-05-22"
 lastmod: "2022-06-05"
 series: null
-tags: null
-title: Matthew 18:20 Small Gathering
 toc: true
 ---
 ‪(KJV) For where two or three are gathered together in my name, there am I in the midst of them.
@@ -16,4 +17,4 @@ toc: true
 <br />  
 (NKJV) For where two or three are gathered together in My name, I am there in the midst of them.
 <!--more-->
-
+---
