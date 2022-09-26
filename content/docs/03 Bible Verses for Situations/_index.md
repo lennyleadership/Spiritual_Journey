@@ -1,6 +1,6 @@
 ---
-weight: 
-title: 
+weight: 3
+title: Bible Verses for Different Situations
 authors:
 categories: null
 tags:
