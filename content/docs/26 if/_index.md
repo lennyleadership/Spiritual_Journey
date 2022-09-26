@@ -1,4 +1,5 @@
 ---
+weight: 26
 authors:
 - Amy Carmichael
 categories: null
