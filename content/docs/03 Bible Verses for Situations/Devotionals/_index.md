@@ -1,6 +1,6 @@
 ---
-weight: 3
-title: Bible Verses for Different Situations
+weight: 2
+title: Encouraging Devotionals
 authors:
 categories: null
 tags:
@@ -11,5 +11,8 @@ lastmod: "2022-09-25"
 series: null
 toc: true
 ---
+
+
+
 
 

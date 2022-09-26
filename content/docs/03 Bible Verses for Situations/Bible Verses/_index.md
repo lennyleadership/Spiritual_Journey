@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 1
 title: Bible Verses for Different Situations
 authors:
 categories: null
@@ -11,5 +11,7 @@ lastmod: "2022-09-25"
 series: null
 toc: true
 ---
+
+
 
 
