@@ -1,5 +1,6 @@
 ---
 weight： 1
+title: 惊弓之鸟
 authors: Kuangye Mana
 categories: null
 date: "2021-12-01"
@@ -8,13 +9,13 @@ draft: false
 lastmod: "2021-12-01"
 series: null
 tags: null
-title: 惊弓之鸟
 toc: true
 ---
 
 
 
 <!--more-->
+---
 
 2021年12月1日：<a href = "https://r.729ly.net/devotionals/devotionals-mw/devotionals-mw-mw211201">惊弓之鸟</a>  
 

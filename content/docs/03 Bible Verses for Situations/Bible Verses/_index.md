@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Bible Verses for Different Situations
+title: Bible Verses for Encouragement
 authors:
 categories: null
 tags:
