@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: Tag Index
 description:
 toc: true

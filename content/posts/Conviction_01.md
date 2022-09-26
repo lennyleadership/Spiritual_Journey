@@ -1,4 +1,5 @@
 ---
+title: 得救
 authors:
 categories: null
 description: null
@@ -8,7 +9,6 @@ date: "2022-09-16"
 lastmod: "2022-09-16"
 series: null
 tags: [得救]
-title: 得救
 toc: true
 ---
 关波问： 是先有绝对谦卑和顺服？还是先得救？什么时候才有‘完全献给主的生命’？
