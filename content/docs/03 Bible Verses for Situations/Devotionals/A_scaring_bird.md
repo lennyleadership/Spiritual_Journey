@@ -1,5 +1,5 @@
 ---
-weight： 1
+weight: 1
 title: 惊弓之鸟
 authors: Kuangye Mana
 categories: null
