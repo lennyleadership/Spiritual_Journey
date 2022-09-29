@@ -16,5 +16,6 @@ toc: true
 
 This book was written by Amy Carmichael.  She went to India to preach gospel.  One significant impact to India was to release sex teen-age girls from temples.  
 
-
+<!--more-->
+---
 

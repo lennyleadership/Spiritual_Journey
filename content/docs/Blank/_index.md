@@ -13,6 +13,7 @@ toc: true
 ---
 
 
-This book collects thoughts and inspiring stories on leadership.
+<!--more-->
+---
 
 

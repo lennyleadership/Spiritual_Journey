@@ -15,4 +15,5 @@ toc: true
 
 This book collects meditation on Bible verses.
 
-
+<!--more-->
+---
