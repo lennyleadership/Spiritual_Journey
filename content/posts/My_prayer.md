@@ -1,0 +1,30 @@
+---
+weight: 1
+title: 我的祷告
+authors: Lenny Lin
+categories: null
+tags: 
+description: null
+draft: false
+featuredImage: null
+date: "2022-10-03"
+lastmod: "2022-10-03"
+series: null
+toc: true
+---
+
+<!--more-->
+
+
+学会放下，无论什么工作都申请。不是做自己感兴趣的工作。    
+
+学会放下，拿不到想得的工作要释怀。  
+
+知道平时如何，面试的时候也如何。所以，平时与面试时要一致。  
+
+提醒自己注意平时的待人接物，Daisy说我们家不在于别人的感受。  
+
+以为自己容易与人合作，但是不善于言辞、说话不得体、不会幽默。  
+
+不会做总结，写文章不流畅。  
+
