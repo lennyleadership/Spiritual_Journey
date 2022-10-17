@@ -1,13 +1,15 @@
 ---
+weight: 3
+title: Prayers with Bible Verses 经文祷告
 authors: Lenny Lin
-categories: [test]
+categories: 
+series: [Prayer]
+tags: [Prayer]
 date: null
 description: 
 draft: false
-lastmod: "2022-05-16"
-series: [Prayer]
-tags: [Prayer,]
-title: Prayers with Bible Verses 经文祷告
+date: "2022-05-16"
+lastmod: "2022-10-17"
 toc: true
 ---
 
@@ -15,7 +17,7 @@ toc: true
 
 ## Worship God
 
-\[used for an opening prayer\]
+used for an opening prayer
 
 > ‪(Psalms‬90:16 NKJV) Let Your work appear to Your servants, And Your glory to their children.
 

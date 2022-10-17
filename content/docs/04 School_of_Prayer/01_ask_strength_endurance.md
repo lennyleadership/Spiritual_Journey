@@ -1,13 +1,14 @@
 ---
-authors: null
+weight: 1
+title: Ask Strength and Endurance
+authors: Lenny Lin
 categories: null
+tags: [Prayer]
 date: "2022-03-28"
 description: 
 draft: false
-lastmod: "2022-03-28"
+lastmod: "2022-10-17"
 series: null
-tags: [Prayer]
-title: 求力量与坚韧
 toc: true
 ---
 

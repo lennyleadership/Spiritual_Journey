@@ -1,13 +1,14 @@
 ---
+weight: 4
+title: Attitude of Prayer
 authors: null
 categories: null
+tags: [Prayer, 祷告]
 date: "2022-03-28"
 description: 
 draft: false
 lastmod: "2022-03-29"
 series: null
-tags: [Prayer, 祷告]
-title: Attitude of Prayer
 toc: true
 ---
 

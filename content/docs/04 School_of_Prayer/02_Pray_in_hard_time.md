@@ -1,13 +1,14 @@
 ---
-authors: null
+weight: 2
+title: Pray in hardship
+authors: Lenny Lin
 categories: null
-date: "2022-03-28"
+tags: [旷野吗哪，祷告, Prayer]
 description: 
 draft: false
+date: "2022-03-28"
 lastmod: "2022-04-07"
 series: null
-tags: [旷野吗哪，祷告]
-title: Pray in hardship
 toc: true
 ---
 
