@@ -21,3 +21,20 @@ Put God’s Needs First. “Lo, I come to do Thy will, O God” (Hebrews 10:9). 
 
 Chambers, Oswald. My Utmost for His Highest, Classic Edition (May 31, p. 180). Discovery House. Kindle Edition. 
 </div>
+
+
+<style type = "text/css">
+/* quoting with background */
+.quote {
+  margin: 0;
+  background: #eee;
+  padding: 0.5em;
+  border-radius: 1em;
+}
+.quote figcaption,
+.quote blockquote {
+  margin: 1em;
+}
+/* the end */
+
+</style>

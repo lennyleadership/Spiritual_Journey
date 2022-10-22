@@ -23,15 +23,3 @@ a:hover {
     @apply text-eureka transition duration-300 ease-in-out;
 }
 
-/* quoting with background */
-.quote {
-  margin: 0;
-  background: #eee;
-  padding: 0.5em;
-  border-radius: 1em;
-}
-.quote figcaption,
-.quote blockquote {
-  margin: 1em;
-}
-/* the end */
