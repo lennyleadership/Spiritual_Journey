@@ -6,7 +6,7 @@ categories: null
 tags: [Prayer]
 description: null
 draft: false
-featuredImage: null
+featuredImage: images/hero-right.jpg
 date: "2022-10-22"
 lastmod: "2022-10-22"
 series: null

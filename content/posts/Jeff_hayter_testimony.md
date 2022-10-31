@@ -6,7 +6,7 @@ categories: null
 tags: 
 description: null
 draft: false
-featuredImage: icon.png
+featuredImage: null
 date: "2022-10-30"
 lastmod: "2022-10-30"
 series: null
