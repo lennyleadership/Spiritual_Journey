@@ -10,6 +10,7 @@ date: "2022-09-19"
 lastmod: "2022-09-19"
 series: null
 toc: true
+featuredImage: images/psalm127_1.jpg
 ---
 ‪歌罗西书‬3:3-4 和合本  
 3 因为你们已经死了，你们的生命与基督一同藏在　神里面。   
