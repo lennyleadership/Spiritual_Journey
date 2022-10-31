@@ -3,7 +3,7 @@ weight: 6
 title: Extravagant Act of Devotion
 authors: null
 categories: null
-tags: [Prayer, 活泉小简]
+tags: [Prayer, 活泉小简, Font_Uppercase]
 description: 
 draft: false
 date: "2022-10-17"
