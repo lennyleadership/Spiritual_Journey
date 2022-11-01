@@ -1,8 +1,8 @@
 main:
-  - name: Notebooks
+  - name: Collections
     url: /docs/
     weight: 1
-  - name: Posts
+  - name: Notes
     url: /posts/
     weight: 2
   - name: About

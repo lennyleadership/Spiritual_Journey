@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Bible Verses Recitation 圣经经文背诵
+title: Bible Verses Recitation
 authors:
 categories: null
 tags:
