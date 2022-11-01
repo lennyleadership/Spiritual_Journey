@@ -29,12 +29,12 @@ My Utmost for His Highest, Sara's Note,
 把福音传回耶路撒冷, 对今日教会的提醒, 叶公好龙, 职场, 参政, 主造蝗虫, 
 Prayer, Holy Spirit, To Live is Christ, Faith, Thanks, Hope,  salvation of soul, Lord's Prayer,   
 
-LibertyBC, 
-
 Brother D, Brother K, Brother L, Sister G, 
 
 宾路易师母, 司布真, Charles H. Spurgeon, 黑格尔, Hegel, 坎伯摩根, Campell Morgan, Darby, Louis Voyer, 
-hovertip]
+hovertip,
+
+LibertyBC, LBC Gospel Meetings]
 weight: 1
 ---
 
