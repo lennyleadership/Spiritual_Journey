@@ -21,14 +21,14 @@ widget:
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    position:
+    position: left
     # Options: sm, md, lg and xl. Default is md.
     scale:
   
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color: secondary
-    image:
+    color: #4dffc0
+    image: images/Colossians-3-3-4.jpg
     # Options: auto, cover and contain. Default is auto.
     size:
     # Options: center, top, right, bottom, left.
