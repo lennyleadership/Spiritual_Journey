@@ -1,5 +1,5 @@
 ---
-title: Spiritual Journey
+title: My Journey
 draft: false
 role: Lenny Lin
 avatar: images/icon.jpg
@@ -21,18 +21,18 @@ widget:
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    position: left
+    position: 
     # Options: sm, md, lg and xl. Default is md.
-    scale:
+    scale: sm
   
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: #4dffc0
     image: 
     # Options: auto, cover and contain. Default is auto.
-    size:
+    size: 
     # Options: center, top, right, bottom, left.
-    position:
+    position: 
     # Options: fixed, local, scroll.
     attachment: 
 ---
