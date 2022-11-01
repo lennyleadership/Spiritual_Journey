@@ -7,7 +7,7 @@ tags:
 description: 
 draft: false
 date: "2022-09-19"
-lastmod: "2022-09-19"
+lastmod: "2022-10-31"
 series: null
 toc: true
 featuredImage: images/Colossians-3-3-4.jpg
