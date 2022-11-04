@@ -78,13 +78,17 @@ toc: true
 ## C S Lewis 路易斯著作
 <a href = "https://wellsofgrace.com/books/spiritual/letters/index.htm" target="_blank" rel="noopener noreferrer">地狱来鸿 - 道声出版社</a>
 
+
 ## F B Meyer 迈尔著作
 <a href = "https://wellsofgrace.com/messages/meyer/guide/index.html" target="_blank" rel="noopener noreferrer">神引导的秘诀</a>
+
+<a href = "https://chalkermen.files.wordpress.com/2015/01/f-b-meyer-the-secret-of-guidance.pdf" target="_blank" rel="noopener noreferrer">The Secret of Guidance</a>
+
 
 ## 属灵书籍 Spiritual Books
 <a href = "https://wellsofgrace.com/books/book_index.htm" target="_blank" rel="noopener noreferrer">属灵书籍 Spiritual Books</a>
 
-<a href = "https://chalkermen.files.wordpress.com/2015/01/f-b-meyer-the-secret-of-guidance.pdf" target="_blank" rel="noopener noreferrer">The Secret of Guidance</a>
+
 
 ## 圣经参考资料 Bible Resources
 <a href = "https://biblenotes.online/resources/contents.htm" target="_blank" rel="noopener noreferrer">biblenotes: G. Campbell Morgan, C.H. Spurgeon, Dwight L., Moody, Matthew Henry, John H. Jowett, Alexander Maclaren</a>

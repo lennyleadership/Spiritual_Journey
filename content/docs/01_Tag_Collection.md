@@ -13,6 +13,8 @@ tags: [活泉小简, 竭诚为主, 旷野吗哪,
 
 My Utmost for His Highest, Sara's Note,   
 
+Christ Indwelling, 基督内住,
+
 敬畏, 祷告, 祷告带来的力量, 圣灵, 活着是基督, 教会, 
 魂的救恩, 救恩, 一次得救永远得救, 
 千年国度, 属灵争战, 
@@ -31,10 +33,10 @@ Prayer, Holy Spirit, To Live is Christ, Faith, Thanks, Hope,  salvation of soul,
 
 Brother D, Brother K, Brother L, Sister G, 
 
-Weblinks, 
+Weblinks, hovertip,
 
-宾路易师母, 司布真, Charles H. Spurgeon, 黑格尔, Hegel, 坎伯摩根, Campell Morgan, Darby, Louis Voyer, 
-hovertip,
+宾路易师母, 司布真, Charles H. Spurgeon, 黑格尔, Hegel, 坎伯摩根, Campell Morgan, F.B. Meyer, Darby, Louis Voyer, 
+
 
 LibertyBC, LBC Gospel Meetings]
 weight: 1
