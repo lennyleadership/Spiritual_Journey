@@ -3,7 +3,7 @@ weight: 1
 title: Christ Indwelling
 authors: F. B. Meyer, Edited by Lenny Lin
 categories: null
-tags: [Christ Indwelling]
+tags: [Christ Indwelling, F.B. Meyer]
 description: 
 draft: false
 date: "2022-11-04"
